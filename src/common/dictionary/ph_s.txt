@@ -1,0 +1,1201 @@
+safe area		安全区	
+safe haven		安全港	
+safe sex	n	（采取预防艾滋病等措施的）安全性交	
+safety net	n	安全网	
+sales tax		营业税；销货税	
+same area		同域	
+same blood		同血缘	
+same difference		（非正式）没什么两样	
+same here		我也同样	
+same record area		相同记录区	
+same size		相同尺寸	
+same to you		彼此	
+same way		同路	
+save all		全部保存	
+save area		保存区	
+save area table		保存区表	
+save as		另存为	
+save data		保存数据	
+save for		存钱作…之用	
+save from		从…中救出	
+save money		省钱；省钱	
+save on		节省	
+save program		保存程序	
+save the day		反败为胜	
+save time		节省时间	
+save up		储蓄	
+save value		保存值	
+say about		估计	
+say in sport		说着玩玩	
+say no to		拒绝	
+say of		说到	
+say over		背诵	
+say the word		发命令	
+say when		停止	
+say yes to		肯定	
+scene of action		发生地点	
+scene of death		死亡现场	
+school age		学龄	
+school board	n	教育委员会	
+school boy	n	男学生	
+school child		学龄儿童	
+school day		教学日	
+school friend	n	同学	
+school health		学校卫生	
+school house		校长宿舍	
+school leaver	n	毕业生	
+school of law		法学院	
+school of music		音乐学院	
+school of natural law		自然法学派	
+school of thought		思想流派	
+school paper		文教用纸	
+school run	n	上学交通高峰期；家长们开车接送孩子上下学	
+school system		学校教育制度	
+school teacher		教师	
+school term		学期	
+school time table program		排课程表程序	
+school work		功课	
+school year		学年	
+science fiction		科幻	
+sea level		海平面	
+season ticket		季票；月季票	
+seat belt		安全带	
+second base	n	二垒	
+second best		第二好	
+second class		二等	
+second development decade		第二个发展十年	
+second do		第二循环	
+second floor		三楼	
+second growth		次生林	
+second half		下半年	
+second hand		中间人；旧货	
+second home		第二故乡	
+second language	n	第二语言	
+second life		第二人生	
+second moment		二次矩	
+second moment of area		断面二次矩	
+second name	n	姓	
+second nature		第二天性	
+second party		乙方	
+second period		第二节	
+second person	n	第二人称	
+second position		第二胎位	
+second power		二次幂	
+second run		第二轮放映	
+second sound		第二心音	
+second story man		窃贼	
+second thought		重新考虑	
+second to		次于	
+second world		第二世界	
+second world bank		第二世界银行	
+second world war		第二次世界大战	
+secondary school	n	中学	
+secret police		秘密警察；秘密警察	
+secret service		特务机关；秘密机关	
+security administration		安全管理	
+security body		保卫部门	
+security class		安全类	
+security control		安全技术	
+security data set		安全数据集	
+security director		安全主任	
+security force		〔军〕警戒部队；安全力	
+security guard		安全保护	
+security information		安全信息	
+security interest		抵押权益	
+security level		安全级	
+security market		证券市场	
+security of society		社会治安	
+security paper		证券纸	
+security police		治安警察	
+security policy		安全策略	
+security price		证券价格	
+security risk		危及国家安全的危险人物	
+security service		安全服务	
+security staff		保安员	
+security system		安全系统	
+security table		安全表	
+security type		安全类型	
+security window		安全窗口	
+see a doctor		看医生	
+see a movie		看电影	
+see about		查询	
+see action		经历战斗	
+see after		照顾	
+see also		请参阅	
+see eye to eye		完全一致	
+see into		调查	
+see land		看到陆地	
+see life		见世面	
+see light		领会	
+see much of		常见到	
+see off		送行	
+see out		送某人出门	
+see over		察看	
+see reason		看到...的理由	
+see red		火冒三丈	
+see service		具有经验	
+see something of		看到一些	
+see star		眼中冒金星	
+see that		注意	
+see the last of		最后一次看到...	
+see the light		公开	
+see the red light		觉察危险	
+see the world		见过世面	
+see through		看穿	
+see time		寻道时间	
+see to		负责	
+see to it		留意必定做…	
+see to it that		照料好	
+see with		同意	
+see you		再见	
+see you later		再见	
+see you night		晚上见	
+seek after		寻找	
+seek area		找寻区	
+seek for		寻找	
+seek out		搜出	
+seek rate		查找率	
+seek system call		查找系统调用	
+seek through		搜遍	
+seek time		寻道时间；寻道时间	
+seem like		仿佛…似的	
+seem to		似乎	
+select committee	n	为某一特案组成的特别委员会	
+sell at the close		要求经纪人于收盘时出售的指令	
+sell for a fall		抛售	
+sell off		廉价卖清；廉价出清	
+sell on		使人想买	
+sell one up		变卖的财产偿还	
+sell out		卖完；卖完	
+sell short		卖空；卖空	
+sell the pass		放弃一种主义	
+sell up		卖完	
+sell well		销路广	
+send along		发送	
+send around		分发	
+send away		发送	
+send away for		函购某物	
+send back		退还	
+send data		发送数据	
+send down		使下降	
+send for		召唤	
+send in		递送	
+send note		发送便笺	
+send now		现在发送	
+send off		寄出	
+send off for		函购某物	
+send on		先送	
+send out		发送	
+send over		发送	
+send through		送过去	
+send through others		托带	
+send to		发送到	
+send to back		置后	
+send up		发出	
+send window		发送窗口	
+send word		捎信	
+sense data		读出数据	
+sense experience		感觉经验	
+sense information		读出信息	
+sense light		感应灯	
+sense line		读出线	
+sense of movement		动向	
+sense of position		位觉	
+sense of security		安全感	
+sense of the meeting		之状况	
+sense order		读出指令	
+sense response		读出响应	
+series and data point		系列和数据点	
+series computer		系列计算机	
+series field		串联场	
+series in		系列产生在	
+series loss		串联损耗	
+series number		序列号	
+series order		系列次序	
+series product		系列产品	
+series system		串联制	
+serious case		重大案件	
+serious loss		重大损失	
+serious music		严肃音乐	
+serve a process on		对...发出传票	
+serve a term		服刑	
+serve as		被用作...	
+serve for		充当	
+serve on		为成员	
+serve one right		活该	
+serve out		分发	
+serve the hour		随波逐流	
+serve the time		随波逐流	
+serve the turn		合用	
+serve to		用来；有助于；足以	
+serve under		在手下任职	
+serve up		端上桌	
+serve well		球发得好；服务好	
+serve with		向…提供	
+service agency		服务机构	
+service area		服务区	
+service book		祈祷书	
+service break	n	（网球）对方发球而己方取胜局	
+service business		服务行业	
+service call		业务通话	
+service car		服务车	
+service center		服务中心	
+service class		服务级别	
+service condition		服务条件；使用情况	
+service cost		服务成本	
+service cost center		服务成本中心	
+service court	n	（网球等运动中）发球落点区	
+service data		服务数据；使用数据	
+service door		服务入口	
+service factor		使用因素	
+service fund		服务基金	
+service industry	n	服务行业	
+service level		服务水平	
+service life		使用期限；有效寿	
+service line		发球界线；动力管线	
+service man		服务员	
+service of order		送达命令	
+service of process		传票送达	
+service order table		服务顺序表	
+service point		服务点	
+service policy		劳务保险单	
+service pressure		政党工作压力	
+service product		劳务产品	
+service program		服务程序	
+service quality		功能质量	
+service rate		服务率	
+service road		便道	
+service staff		服务员	
+service system		服务系统；服务系统	
+service test		服务试验；工作试验	
+service time		服务时间；服务时间	
+service tree		花楸果	
+service value		服务价值	
+service water system		工厂用水系统	
+service wear		使用损耗	
+service worker		服务行业人员	
+set a foot wrong		行为不适宜	
+set a paper		出考题	
+set a price		定价格	
+set a record		创造记录	
+set a term to		给...定限期	
+set a value on		估算价格	
+set a watch		布置哨兵	
+set a watch on		派人看守…	
+set about		开始；着手	
+set against		用...抵消	
+set at		袭击	
+set at large		放宽	
+set at nothing		使落空	
+set back		阻碍	
+set before		放在...面前	
+set book		（考试）指定课本	
+set by		把...留开	
+set class		集合等级	
+set condition		设定状态	
+set down		放下；放下	
+set fire		纵火	
+set fire to		点燃	
+set foot		踏上	
+set foot in		进入	
+set foot on		踏上	
+set free		释放；释放	
+set great store by		极重视	
+set in		开始	
+set in action		使开始行动	
+set language		集合语言	
+set light		照明装置	
+set light by		轻视	
+set light to		点燃	
+set little by		轻视	
+set little store by		不太重视	
+set member		系成员	
+set much store by		非常重视	
+set name		系名	
+set no store by		简直不重视	
+set off		出发；抵销	
+set off for		动身前往	
+set on		攻击	
+set on fire		使燃烧	
+set on foot		使开始	
+set order		系序	
+set out		出发；发表	
+set over		置于...上	
+set page break		设置分页线	
+set piece	n	具有众所周知的固定形式	
+set point		调整点；沉淀点	
+set price		固定价格	
+set right		使恢复正常	
+set size		设置大小	
+set store by		重视	
+set the scene		作好准备	
+set the table		摆餐具	
+set the watch		布置哨兵值勤	
+set time		时间设置程序；凝固时间	
+set to		开始认真干	
+set to music		谱	
+set to work		开始工作	
+set type		系类型	
+set up		设立；调定	
+set up a business		开业	
+set up for		自以为	
+set up house		建家立业	
+set up in business		开始营业	
+set up time		安装时间	
+set up with		向…提供	
+set upon		袭击	
+sewing machine		缝纫机	
+sex appeal		性感	
+sex education		性教育	
+sexual harassment		性骚扰	
+sexual intercourse	n	性交	
+share a common interest		有共同利益	
+share in		分享	
+share index		股票指数	
+share list		股票行市表	
+share name		共享名	
+share of stock		股票	
+share out		分给	
+share price		股价；股价	
+share with		与…合用	
+shock wave		冲击波；冲击波	
+shoot a film		拍摄电影	
+shoot a line		吹牛	
+shoot at		向...射击	
+shoot away		继续射击	
+shoot down		击落	
+shoot for		争取	
+shoot from		从…开枪	
+shoot off		发射	
+shoot out		射出	
+shoot out of		喷出	
+shoot through		（澳/新西兰	
+shoot up		射出	
+shop assistant	n	店员	
+shopping list	n	购物清单	
+shopping mall	n	大型购物中心	
+short arm		短臂	
+short break		短暂断开	
+short cause		简易案件	
+short cause list		简易案件表	
+short cut	n	近路	
+short for		简短的	
+short form		简易格式	
+short interest		空头净额	
+short letter		柬帖	
+short life		短寿命	
+short line	n	两点间的最短路程	
+short list		最终候选人名单	
+short number		短数	
+short of		缺乏	
+short on		在某方面有欠缺	
+short order	n	快餐	
+short out		短路	
+short pass		短路	
+short period rate		短期费率	
+short position		空头地位	
+short rate		短期保险率	
+short response time		短响应时间	
+short run		短期	
+short short story	n	超短篇	
+short stop		游击手；急速抑制剂	
+short story	n	短篇小说	
+short subject		电影短片	
+short term		短期	
+short time		缩短工作时间	
+short time test		快速试验法	
+short time work		缩短工作时	
+short type		短类型	
+short word		短字	
+should cost		应该成本	
+should like to		想要	
+show a film		放电影	
+show all		全部显示	
+show around		到处看看	
+show business		娱乐业	
+show cause		说出理由	
+show data		显示日期	
+show data as		数据显示方式	
+show fight		表示不服	
+show house	n	样品房	
+show in		领进来	
+show itself		呈现	
+show jumping		超越障碍比赛	
+show me		让我知道（歌曲名	
+show me state		索证之州	
+show off		炫耀	
+show out		送出（客人）	
+show the door		把（某人）撵走	
+show the way		做出样子来	
+show through		显现	
+show time		表演时刻	
+show up		揭露	
+show value		显示值；显示值	
+show window		橱窗	
+side against		联合反对…	
+side arm	n	佩枪（刀/剑）	
+side by side		并排	
+side by side with		与…肩并肩	
+side cover		侧盖	
+side door	n	侧门	
+side effect		副作用；副作用	
+side face		侧面	
+side issue		次要问题	
+side job		副业	
+side light		偶然启示	
+side line		副职	
+side line of business		副业	
+side order		（餐馆中）主菜之外另点的小菜	
+side product		副业产品	
+side road		旁路	
+side step	n	侧跨（侧面的）台阶	
+side street		背街	
+side table	n	靠墙的桌子	
+side view		侧视图；侧面图	
+side wall		侧壁	
+side with		同意	
+sign away		签字放弃	
+sign change		符号变换	
+sign character		符号字符	
+sign condition		符号条件	
+sign for		签领	
+sign form		符号格式	
+sign in		签到；注册	
+sign industry		康艺招牌公司	
+sign language		手语	
+sign of disease		病征	
+sign off		停止广播	
+sign on		签约雇用	
+sign out		签名登记离开	
+sign over		签字移交	
+sign picture		符号图象	
+sign position		符号位置	
+sign test		符号检验；符号检验	
+sign up		签约参加工作	
+significant amount		大数	
+significant condition		主要条件	
+significant difference		显著性差异；有效差量	
+significant figure		有效位；有效数字	
+significant other	n	重要他人	
+significant value		有效值	
+silver medal		银牌	
+similar line		相似线	
+similar point		相似点	
+similar system		相似系统	
+similar to		跟。。。类似得	
+similar tree		相似树	
+simple character		简单特性	
+simple color		单纯色	
+simple control system		简单调节系统	
+simple event		简单事件	
+simple eye		单眼	
+simple group		单群	
+simple interest		单利	
+simple language		简单语言	
+simple list		简表	
+simple list form		简表格式	
+simple name		简单名	
+simple sound source		单声源	
+simple type		简单类型	
+simply put		简单地说	
+since then		从那以来	
+single agency		单独代理	
+single bed		单人床	
+single board computer		单板计算机	
+single cost system		单一成本制	
+single factor through rate		单一直达运费率	
+single interest		单利	
+single life		独身生活	
+single line store		专业商店	
+single man		独身男子	
+single market		单一市场	
+single out		挑选	
+single parent	n	单亲	
+single pass		单程	
+single plan		单一记帐法	
+single price		单一价格	
+single product economy		单一经济	
+single product plant		单一产品工厂	
+single rate		单一率	
+single room		单人房	
+single space		不隔行打；单间距	
+single step		单步执行；单步执行	
+single tax		单一税	
+single tax system		单一税制	
+single throw		单投	
+single turn film head		单匝薄膜磁头	
+single window		单窗口	
+single woman		独身女人	
+single word		单字	
+sit about		坐着不干	
+sit around		坐着不干	
+sit back		不采取行动	
+sit by		坐在旁边	
+sit down		坐下	
+sit down at table		坐下吃饭	
+sit down before	v	开始围攻	
+sit down to		坐下来做…	
+sit down to table		坐下吃饭	
+sit down under		逆来顺受	
+sit easy on		对...说来负担不重	
+sit for		参加	
+sit in		代人暂时照料	
+sit in on		列席	
+sit light on		对...说来负担不重	
+sit on		为...的一员；调查	
+sit on the case		开会讨论案件	
+sit out		袖手旁观	
+sit over		坐在...左手	
+sit through		坐着捱到结束	
+sit under		听...讲授	
+sit up		坐起	
+sit up late		深夜不睡	
+sit with		临时替人照看	
+sit with a baby		临时替人照看婴孩	
+site control point		现场控制点	
+site of activity		活动现场	
+site plan		总设计图	
+site test		现场试验	
+situation action system		情况行动系统	
+situation room		情报室	
+six day war		六日战争	
+six to one		六对一	
+sixth form	n	（英国中学的最高年级）六年级	
+size control		大小控制	
+size down		由大到小排列	
+size field		容量字段	
+size for	v	为试尺码	
+size of it		它的大小	
+size of number		数大小	
+size of product		产品规格	
+size picture		设定图片大小	
+size up		估计	
+sleeping bag		睡袋	
+sleeping pill		安眠药片；安眠药丸	
+slow motion		慢动作	
+small and early		非正式的晚间舞会	
+small arm		轻武器	
+small business		小企业	
+small business administration		小企业管理局	
+small business computer		小型商用计算机	
+small change		零钱；零钱	
+small data set		小型数据集	
+small end		小头	
+small language		小语言	
+small letter		小写字母	
+small money		零用钱	
+small person		卑鄙小人	
+small print		难懂的条文	
+small private economy		小私有经济	
+small program		小程序	
+small size computer		小型计算机	
+small system job		小系统作业	
+small talk		闲聊	
+small town		集镇	
+small voice		细语	
+small white		菜粉蝶	
+smoked salmon	n	熏鲑鱼	
+so and so only		只有这样才	
+so as		只要	
+so as to		使得	
+so be it		诚心所愿	
+so far		迄今为止	
+so far as		远至…	
+so far from		非但不...	
+so help me		我敢断言	
+so long		再见	
+so long as		只要	
+so many		那么多的	
+so much		那么多	
+so much as		甚至于	
+so much for		到此为止	
+so much so that		到这样程度以致...	
+so much the better		那就更好了	
+so so		勉强过得去	
+so soon as		一...	
+so that		所以	
+so to say		可以这么说	
+so to speak		可以这么说	
+so what		那又怎么样呢?那又有什么关系呢?	
+soap opera		肥皂剧	
+social action		社会行动	
+social activity		社会行动	
+social animal		群居动物	
+social class		社会地位	
+social control		社会控制	
+social democratic	adj	社会民主主义的	
+social disease		性病	
+social economic order		社会经济秩序	
+social event		社会活动	
+social fund		社会基金	
+social group		社会团体	
+social life	n	社会生活	
+social model		社会模型	
+social movement		社会运动	
+social opportunity cost		社会机会成本	
+social order		社会秩序	
+social organization		社会组织	
+social policy		社会政策	
+social position		社会地位	
+social practice		社会实践	
+social problem		社会问题	
+social process		社会过程	
+social research		社会调查系	
+social risk		社会危险	
+social science	n	社会科学	
+social season		社交季	
+social security	n	社会保障	
+social security administration		社会安全局	
+social security number	n	社会保障号码（美国人出生时得到的正式身份号码）；社会安全号码	
+social security tax		社会保障税	
+social service		社会公益服务；社会公益服务	
+social service agency		社会服务机构	
+social system		社会制度	
+social work	n	社会服务	
+social worker	n	社会工作者	
+soft drink	n	不含酒精的饮料	
+sold out	v	卖光	
+some day		来日	
+some day or other		迟早	
+some few		一些	
+some here		彼此彼此	
+some more		再来一点	
+some other		其他	
+some such		诸如此类的	
+some time		一会儿	
+some time or other		迟早	
+someone else		其他人	
+something else		别的东西	
+something else again		另外一回事	
+something like		有几分象	
+something of		在某种意义上	
+something of a		有…的味道	
+something of the kind		类似的事物	
+something wrong with		在…方面有问题	
+son field		子字段	
+soon after		之后不久	
+soon enough	adv	非常快地	
+soon or later		迟早	
+sound board	n	音板	
+sound effect	n	音响效果	
+sound field		声场	
+sound film		有声电影；声音片	
+sound head		音头	
+sound law		语音定律	
+sound level		声级	
+sound like		听起来像...	
+sound man		负责音响的人	
+sound note		声音附注	
+sound off		直率陈述	
+sound out		试探	
+sound policy		明智的政策	
+sound power		声能	
+sound pressure		声压	
+sound pressure level		声压位准	
+sound quality		完好的质量	
+sound source		声源	
+sound system	n	音响系统	
+sound value		稳妥价值	
+sound view		正确的观点	
+source area		源区	
+source book		原始资料；原始资料集	
+source case		源角色	
+source computer		源计算机	
+source data		源数据	
+source field		源字段；源字段	
+source figure		源图	
+source in		源盘	
+source language		源语言；源语言	
+source language level		源语言级	
+source material		原始资源	
+source of energy		能源	
+source of law		法律渊源	
+source of war		战争的根源	
+source point		源点	
+source program		源程序	
+source time		源时间	
+south american	adj	南美的	
+south american country		南美国家	
+south american nation		南美国家	
+south by east		南偏东	
+south by west		南偏西	
+south of		在…的南面	
+south side		南区	
+space age		航天时代	
+space available		可用空间；可用空间	
+space before		前间隔	
+space between		间距；间距	
+space character		间隔符	
+space computer		航天计算机	
+space condition		空格状态	
+space current		空间电流	
+space factor		空间因数	
+space group		空间群	
+space hold		空格保持	
+space information system		空间信息系统	
+space law		空间法	
+space loss		空间损耗	
+space man		太空人	
+space number		间隔数	
+space of time		时间间隔	
+space out		隔开	
+space power		航天国家	
+space program		航天计划	
+space race		空间竞赛	
+space rate		按篇幅计算的稿酬	
+space record		空白记录	
+space sense		空间觉	
+space shuttle		航天飞机	
+space state		空格状态	
+space station		空间站	
+space technology		空间技术	
+space time product		空间时间积	
+space time relationship		空间时间关系	
+space walk		太空行走	
+space war		外层空间战争	
+spare part		备件	
+spare time	n	消遣时间	
+speak about		谈论	
+speak against		表示反对	
+speak by the book		说话确切	
+speak for		代表...讲话	
+speak for itself		不言而喻	
+speak in meeting		发表意见	
+speak like a book		咬文嚼字	
+speak of		谈到...	
+speak off the record		非正式地说	
+speak on		说下去	
+speak or		代表…说话	
+speak out		大胆地说	
+speak out against		公开反对	
+speak sense		说话有道理	
+speak the same language	v	说同样的语言	
+speak to		对...说话	
+speak up		更大声地说	
+speak well for		证明...很好	
+speak well of		说...好话	
+speak with		和…说话	
+special administration		特别遗产管理	
+special administration area		行政特区	
+special air service		特种航空勤务；英国特种空勤团	
+special area		萧条地区	
+special branch		（英国警察部门的）政治保安处	
+special character		特殊字符；特殊字符	
+special character table		专用字符表	
+special character word		专用字符字	
+special court		专门法院	
+special day book		特种日记帐	
+special decision		别决定	
+special education		特殊教育	
+special effect	n	特殊效果	
+special fund		特种基金	
+special hospital		专科医院	
+special interest		特殊工商企业集团	
+special interest group		特别兴趣新闻组	
+special issue		特别申辩	
+special language		专用语言	
+special law		特别法	
+special name		专用名	
+special note		记名式票据	
+special offer	n	特殊报价	
+special order		特种订货	
+special order cost system		特种订货的成本制度	
+special policy		单独保险单	
+special power		特别权力	
+special price		特价	
+special risk		特种险	
+special school		（专为智力或身体有缺陷的孩子设的）特殊学校	
+special sense		特种感觉	
+special service		特殊用途	
+special sign		特殊符号	
+special stock		特别股	
+special subject		特殊主体	
+special tax		特种营业税	
+special time		特定时间；特定时间	
+speed limit		速度限制	
+spend itself		衰弱	
+spend money like water		挥金如土	
+spending money	n	零用钱	
+split second		瞬间	
+sport at		嘲笑	
+sport car		比赛用汽车	
+sport with		玩弄	
+spread out		伸展	
+spring onion	n	生吃的小洋葱	
+staff line		人员线	
+staff member		职员	
+staff of life		主食	
+staff office		医护办公室	
+staff officer	n	参谋	
+staff organization		参谋组织	
+staff policy		职工政策	
+staff size		人员规模	
+staff tree	adj/n	卫茅科  的；【植】南蛇藤属  植物	
+stained glass	n	彩色的玻璃（常于镶嵌在教堂的窗户）	
+stainless steel		不锈钢；不锈钢	
+stamp duty		印花税；印花税	
+stamped addressed envelope	n	<英>写上自己姓名地址的回邮信封	
+stand a chance		有可能	
+stand a good chance		很有可能	
+stand a show		一线机会	
+stand about		闲站着	
+stand against		反对	
+stand at		犹豫不决	
+stand at attention		立正	
+stand back		退后	
+stand behind		支持	
+stand by		支持；备用	
+stand clear		站开	
+stand clear of		站开	
+stand down		离开证人席；离开证人席	
+stand easy		稍息	
+stand for		代表；代替	
+stand good		继续有效	
+stand in		代演员站位	
+stand in for		替代	
+stand in line		站队	
+stand in need of		需要	
+stand in with		与...分担	
+stand no chance		没有可能	
+stand off		疏远；避开	
+stand oil		厚油	
+stand on		站立在...上	
+stand or fall		好坏	
+stand out		突出	
+stand out against		在…的衬託下显得很突出	
+stand over		延期；延缓	
+stand ready		准备待命	
+stand security for		作为…的保证人	
+stand still		站着不动	
+stand the test		经受住考验	
+stand the test of		经受…的考验	
+stand to		遵守	
+stand to attention		立正	
+stand to reason		得当	
+stand to sense		通情达理	
+stand to win	v	一定赢	
+stand up		站起来	
+stand up for		支持；坚持	
+stand up to		经得起...	
+stand up with		给...当傧相	
+stand watch	v	警戒；担任警戒工作	
+stand well with		与…和睦相处	
+stand with		与…一致	
+standard of living		生活标准	
+standing ovation	n	长时间起立鼓掌	
+star control		星形控制	
+star program		无错程序	
+star sign	n	星座	
+star system		银河系	
+star test		星芒试验	
+star tree		星形树	
+star turn	n	演出的主要节目	
+start a business		开始营业	
+start a family		成家	
+start a fire		生火	
+start at		起始于	
+start back		畏缩	
+start control		启动控制	
+start for		动身前往	
+start from		从…开始	
+start in		开始	
+start lead		起动引线	
+start line		行开始	
+start off		出发	
+start on		开始	
+start out		出发	
+start over		重新开始	
+start page number at		起始页号；起始页号	
+start point		起始点	
+start school		开学	
+start something		制造麻烦	
+start time		启动时间	
+start up		突然站起	
+start up in		开始从事	
+start with		从...开始	
+start work		开工	
+starting point		出发点	
+state a price		开价	
+state action		国家诉讼	
+state agency		国家机关	
+state bank		国家银行；美国在州政府注册的银行	
+state change		状态变换	
+state church		国家教会（等于established church）	
+state college		州立学院	
+state court system		州法院体制	
+state event		状态事件	
+state government	n	州政府；在州政府谋职	
+state hospital		公立医院	
+state house	n	州议会的议场	
+state land		公地	
+state language		状态语言	
+state line		（美国）州界	
+state of art		目前工艺水平	
+state of life		身分	
+state of matter		物态	
+state of mind		心境	
+state of nature		自然状态；自然狀态	
+state of play		发展情况	
+state of population		人口静态	
+state of rest		停止状态	
+state of the art		目前发展水平	
+state of the case		诉讼中的情形	
+state of value		值状态	
+state of war		战争状态	
+state police		州警察	
+state policy		国策	
+state political power		国家政权	
+state rate		法定利率	
+state right		州的权利	
+state school	n	公立学校	
+state security		国家安全	
+state space		状态空间	
+state table		状态表	
+state the case		陈述情况和理由	
+state tree		州树	
+state value		状态值	
+stately home	n	（开放供参观的）豪华古宅	
+stay at		停留在…	
+stay away		外出	
+stay away from		离开	
+stay away from school	v	旷课	
+stay clear of		回避	
+stay down		停留在下面	
+stay in		在家；静坐	
+stay in place		呆在原地	
+stay in the country	v	留宿在乡下	
+stay law		延缓法	
+stay of action		诉讼中止	
+stay of white line		白线支座	
+stay off	vt	不要上（路）	
+stay on		继续停留	
+stay on the line		别挂断电话	
+stay out		呆在户外	
+stay over		过夜	
+stay put		装牢	
+stay the course		持续到底	
+stay together		在一起（歌曲名）	
+stay up		不睡觉	
+stay up late		深夜不睡	
+stay with		与...并驾齐驱	
+steering wheel		轮船舵轮	
+step along		走开	
+step area		分段面积	
+step away		撤步防守	
+step back		后退	
+step by step		逐步地	
+step change		阶跃变化	
+step control		分级控制	
+step daughter		妻与前夫所生的女儿	
+step down		走下	
+step father		继父	
+step in		走进	
+step into		跟踪	
+step into power		上台	
+step into the picture		被卷入	
+step it		跳舞	
+step number		步数	
+step off		结婚	
+step on		踩上...	
+step on it		赶快	
+step out		以步测量；不同步	
+step out of line		行为与众不同	
+step out on		不忠实于	
+step over		单步	
+step rate		步进率	
+step response		阶跃响应	
+step response problem		阶跃响应问题	
+step run		步进运行	
+step site		台阶位	
+step size		步长；步长	
+step size change		步长改变	
+step through		单步调试	
+step turn		踏步式转弯	
+step up		走近	
+step value		步长值	
+stick out		突出	
+sticking point		顶住点	
+still and all		尽管如此	
+still down		静下来	
+still less		更少	
+still life		静物	
+still room		〈英〉蒸馏室；茶点整备室	
+still small voice		良心的唿唤	
+still water		静水	
+stock book		存货簿；存货簿	
+stock boy	n	货品管理员	
+stock car	n	运牲口的火车车辆	
+stock company		股份公司；股份公司	
+stock control		库存管理；存货控制	
+stock cover		存货保证期	
+stock culture		存储培养	
+stock exchange		证券交易；证券交易所	
+stock fund		材料基金	
+stock ground		料场	
+stock in hand		现有存货	
+stock issue		股票发行	
+stock list		证券行情表；材料表	
+stock market		股票市场；证券市场	
+stock of material		材料库存	
+stock of record		库存记录	
+stock on hand		现存量；现货	
+stock out		库存中断	
+stock play		保留剧目	
+stock power		股票转让授权书；股票转让授权书	
+stock price		股票价格	
+stock record book		股票记录簿	
+stock room		贮料间	
+stock share		股票	
+stock still		完全静止	
+stock subject		陈腐的题材	
+stock test		斯托克氏试验	
+stock up		备货	
+stock with		储存	
+stop a case		中止诉讼	
+stop at nothing		毫无顾忌	
+stop away from		离开	
+stop by		顺便访问	
+stop catch		止动挡	
+stop condition		停止条件	
+stop control		停止控制	
+stop dead		突然停止	
+stop down		不增加	
+stop for		留下吃	
+stop in		顺便访问	
+stop light		停车灯	
+stop list		非用词表	
+stop loss		扭亏	
+stop number		光圈数	
+stop off		中途停留；虚筋	
+stop order		停机指令；证券停止交易通知书	
+stop out		覆盖...使其不受腐蚀	
+stop over		中途停留	
+stop page		停止页	
+stop position		停止位置	
+stop short		突然停止	
+stop short of		决定不做某事	
+stop sign		停车信号	
+stop street		停车待行路口	
+stop the night		过夜	
+stop the short		勐然停下	
+stop the show		热烈掌声打断演出	
+stop time		停止时间	
+stop to		停下来要做	
+stop up		塞住	
+stop value		终止值	
+stop watch		停表	
+stop word		无用词	
+stop work		收工	
+store character		存储字符	
+store house		仓库	
+store in		保存于	
+store issue		发料	
+store program		存储程序	
+store up		储存	
+store window		= shop window	
+story line	n	故事的本事	
+straight away		立即	
+street child	n	无家可归的流浪儿	
+street drug		市售药品	
+street girl		妓女	
+street light		路灯	
+street market		街头市场	
+street name		行号代名	
+street paper		短期支票	
+street people		贫民窟的居民	
+street person		街头人	
+street price		场外行情；场外行情	
+street sign		路牌	
+street value		成交价格	
+street worker		街道工作者	
+strong arm		暴力	
+strong bank		资力雄厚的银行	
+strong base		强碱	
+strong change		碱析	
+strong evidence		强而有力证据	
+strong force		强相互作用	
+strong language		强硬措词	
+strong market		坚挺的市场价格	
+strong point		特长	
+strong position		强位置	
+strong room		保险库；银行保险库	
+strong side		（球场）强侧	
+strong type		强型	
+strong will		坚强意志	
+student body		学生（总称）	
+student center		学生中心	
+student government		学生自治会	
+student model		学生模型	
+student policy		学生保险	
+student teacher	n	实习教师	
+study model		研究模型	
+study out		解决	
+study up		钻研	
+study up on		对...进行仔细的研究	
+stumbling block		障碍物	
+subject area		主题范围	
+subject case		主格	
+subject country		属国	
+subject field		主题域	
+subject job		源作业	
+subject matter	n	主题	
+subject of the right		权利主体	
+subject offer		从属报价	
+subject program		源程序	
+subject to		使服从；有待查实	
+subject to call		有赎回权	
+subject to tax		负缴税义务	
+subject to the law		依照法律	
+success go to field		成功去向区	
+success of a language		语言的成功	
+success story	n	一个人的成名史	
+such a		这样的…	
+such and such		某某	
+such as		例如...	
+such as to		是这样以致	
+such that		是这样	
+sudden death		暴死；猝死	
+suggest itself to		浮现在脑海里	
+summer home		消夏寓所；避暑别墅	
+summer house	n	避暑别墅	
+summer school		暑期补习班	
+summer stock		<美>夏令剧目	
+summer student		暑期工（夏季打工的学生	
+summer time	n	夏令时	
+support a family		养家煳口	
+support area		维持价格范围	
+support arm		支架臂	
+support effect		载体效应	
+support group		（由遇到相同困难的人士组成的）互助小组	
+support in		在…方面支持	
+support large program		支援大型程序	
+support level		支持水准	
+support life		维持生命	
+support price		维持性价格	
+support program		支援程序	
+support system		后援系统	
+support system technology		支援系统技术	
+sure enough		果然	
+sure thing		毫无疑问的事	
+sweet corn	n	甜玉米	
+swimming pool	n	游泳池	
+symphony orchestra	n	交响乐团	
+system approach		系统方法	
+system board		主机板	
+system building		建立制度	
+system call		系统调用	
+system development		系统研制	
+system language		系统语言	
+system name		系统名	
+system of administration		管理制度	
+system of common law		普通法系	
+system of government		政体	
+system of international law		国际法体系	
+system of law		法律体系	
+system organization		系统组织	
+system performance		系统性能	
+system program		系统程序	
+system resource		系统资源	
+system service control point		系统服务控制点	
+system study		系统研究	
+system test		系统检验	

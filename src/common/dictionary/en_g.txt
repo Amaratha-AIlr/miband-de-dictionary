@@ -1,0 +1,79 @@
+German	n/adj	德国人；德国的	jur'-muhn
+God	n/vt	上帝；使神化	od
+gain	n/vt/vi	增益；得到；获利	gayn
+galaxy	n	银河；银河系	ga'-luhk-si
+gallery	n	走廊；图库	ga'-luh-ri
+game	n/vi/adj	比赛；赌博；勇敢的	gaym
+gang	n/vi/vt	队；成群结队；使成群结队	
+gap	n/vt/vi	缝隙；打开缺口；豁开	
+garage	n/vt	车库；把车送入修车场	guh'rahzh'ga-rahzh
+garden	n/vi/vt	花园；栽培花木；造园	gahdn
+garlic	n	大蒜；大蒜	gah'-lik
+gas	n	气体；气体	
+gate	n/vt	门；装门于；门	gayt
+gather	n/vi/vt	集合；聚集；使聚集	ga'-dhuhr
+gay	adj	欢快的	
+gaze	n/vi	注视；注视	gayz
+gear	n/vt/vi	齿轮；以齿轮连起；连接上	gi-uhr
+gender	n/vt	性；产生	jen'-duhr
+gene	n	基因；基因	jeen
+general	n/adj	一般；全面的；常规	je'-nuh-ruhl
+generally	adv	通常	je'-nuh-ruh-li
+generate	vt	产生；产生	je'-nuh-rayt
+generation	n	一代；生殖	je-nuh'ray-shuhn
+genetic	adj	创始的；生殖的	ji'ne-tik
+gentleman	n	绅士	jentl'-muhn
+gently	adv	温和地	jent'-li
+gesture	n/vi	手势；作手势	jes'-chuhr
+get	vt/vi/n	得到；到达；救球	
+ghost	n/v	鬼；鬼似地游荡	gohst
+giant	n/adj	巨人；庞大的	jai'-uhnt
+gift	n/vt	礼物；赋予	
+gifted	adj	有天才的	gif'-tid
+girl	n	女孩	gurl
+girlfriend	n	女朋友	
+give	n/vt/vi	弹性；给；捐赠	giv
+given	adj	赠予的；give的过去分词	gi'-vuhn
+glad	adj	高兴的	
+glance	n/vi/vt	一瞥；扫视；扫视	glahns
+glass	n/vt/vi	玻璃；装玻璃于；成玻璃状	glahs
+global	adj	通用的；共用	glohbl
+glove	n/vt	手套；给...戴手套	gluv
+go	vi/vt/n	去；以...打赌；去	goh
+goal	n/vi	目标；攻门	gohl
+gold	n/adj	黄金；金的	gohld
+golden	adj	金的；金制的	gohldn
+golf	n/vi	高尔夫球；打高尔夫球	
+good	n/adj	善行；好的	gud
+government	n	政府；政府	gu'-vuhn-muhnt
+governor	n	州长；节制器	gu'-vuh-nuhr
+grab	n/vi/vt	抓握；抓取；攫取	
+grade	n/vt/vi	等级；分等；属于某等级	grayd
+gradually	adv	逐渐地	gra'-joor-li
+graduate	n/adj/vi	毕业生；已得学位的；毕业	gra'-ju-ayt
+grain	n/v	谷粒；成谷粒	grayn
+grand	adj	庄重的；重大的	
+grandfather	n	祖父；原始资料组	grand'-fah-dhuhr
+grandmother	n	祖母	grand'-mu-dhuhr
+grant	n/vt	授予；允许；授权命令	
+grass	n	草；草	gras
+grave	n/adj/vt	墓穴；庄重的；雕刻	grayv
+gray	n/adj/v	灰色；灰色的；变灰色	
+great	adj/adv/n	大的；顺利地；全部	grayt
+greatest		最大的	ray'-tist
+green	n/adj	绿色；绿色的	
+grocery	n	食品杂货店	groh'-suh-ri
+ground	n/adj/vt	土地；土地的；放在地上	grownd
+group	n/v	团体；聚合；创建组	groop
+grow	vt/vi	种植；生长	groh
+growing	adj	成长的	groh'-ing
+growth	n	生长；等比级数	grohth
+guarantee	n/vt	担保；保证	ga-ruhn'tee
+guard	n/vt/vi	守卫者；保卫；防止	gahd
+guess	n/v	猜测；猜测	ges
+guest	n	客人；客体	gest
+guide	n/vt/vi	引导者；指导；任向导	gaid
+guideline	n	指导路线；指导路线	gaid'-lain
+guilty	adj	犯罪的；有罪的	gil'-ti
+gun	n	枪；枪	
+guy	n/vt/vi	家伙；用支索撑住；逃跑	gai

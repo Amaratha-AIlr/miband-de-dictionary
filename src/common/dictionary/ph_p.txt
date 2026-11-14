@@ -1,0 +1,825 @@
+page base		页基	
+page body		页体	
+page boy		听差的男孩	
+page break		分页符；分页符	
+page change		页更改；页更改	
+page data set		页数据集	
+page number		页码；页码	
+page order		打印顺序；打印顺序	
+page table		页面表	
+page view		访问量	
+page wait		页面等待	
+paper back		纸面本	
+paper board		纸板	
+paper book		讼案	
+paper boy		报童	
+paper change		换纸	
+paper company		皮包公司	
+paper cup		纸杯	
+paper cut		剪纸	
+paper loss		账面损失	
+paper market		纸市场	
+paper money		钞票	
+paper office		纪录保存处	
+paper over		用纸覆盖	
+paper plant		通草	
+paper size		纸张大小；纸张大小	
+paper source		纸张来源	
+paper throw		跑纸	
+paper throw character		跑纸符号	
+paper to order		记名票据	
+paper white		多花水仙；纸白色	
+paper work		日常文书工作	
+parent and child		父母与子女	
+parent body		上级机构	
+parent company		母公司	
+parent name		源名	
+parent page		原始页	
+parent population		母体	
+parent resource		父代资源	
+parking lot		停车场	
+part company		分离	
+part company with		与...分离	
+part friend		不伤感情地分手	
+part list		材料一览表	
+part music		合唱乐曲	
+part name		零件名称	
+part number		零件号码	
+part of		部分	
+part performance		部份履行	
+part program		部件加工程序	
+part time	n	兼任	
+part time job		零件工作	
+part with		失去	
+part with a friend		与友人分手	
+party animal	n	超级爱玩的人	
+party game		聚会游戏；派对游戏	
+party girl		社交聚会的女招待	
+party government		政党政治	
+party in interest		利害关系人	
+party in power		执政	
+party line		合用线	
+party man	n	政党党员	
+party member		党员	
+party out of office		在野党	
+party piece		某人经常在社交场合表演的文娱节目	
+party plan		茶会方式	
+party political	adj	政党的	
+party politics	n	党派政治	
+party to a case		诉讼当事人	
+party to the action		行动的一方	
+party wall	n	（接界土地上两方共有的）界墙	
+pass across		交叉换牌	
+pass along		沿…向前走	
+pass around		分	
+pass as		被看作	
+pass away		去世	
+pass book		银行存折	
+pass by		经过	
+pass by name		按名传送	
+pass by the board		落空	
+pass by value		按值传送	
+pass current		通行	
+pass data set		交接数据集	
+pass down		把…一代传一代	
+pass for		被认为...	
+pass into		进入	
+pass law		通行证法	
+pass no more		停止继续贷款	
+pass off		逐渐消失；骗卖	
+pass on		传授	
+pass out		分发	
+pass out of mind		被忘记	
+pass over		忽略	
+pass the baby		推卸责任	
+pass through		通过...	
+pass time		打发时间	
+pass to		传给	
+pass up		拒绝	
+pass water		小便	
+past history		过去（的经历）	
+past it		失去原有的效用	
+past life		前世今生（电视剧名）	
+past question		毫无疑问	
+past year		上年	
+patient care		病人护理	
+patient of		能忍受的	
+patient role		病人角色	
+pay a call		进行访问	
+pay a fine		付罚金	
+pay according to work		按劳计酬	
+pay as one go		付钱购物	
+pay as you go		帐单到期即付	
+pay attention		专心	
+pay attention to		注意	
+pay back		偿付；付还	
+pay back in kind		照样回敬	
+pay bed		产油层	
+pay by result		按成就付酬	
+pay court	v	献殷勤	
+pay court to		向...献殷勤	
+pay cut		工资削减	
+pay day		付款日	
+pay down		当场支付；以现金支付	
+pay for		付...款	
+pay for another		代付	
+pay home		充分偿付	
+pay in		存入银行；缴款捐款	
+pay in book		存款簿	
+pay in full		全部付清；付清	
+pay in kind		以实物支付；以实物支付	
+pay in money		以现金支付	
+pay interest on		付给…利息	
+pay into		付给银行存入帐中	
+pay later		延期付款	
+pay list		工资名册	
+pay money down		付现款；现款支付	
+pay off		付清；清偿	
+pay office		偿付办公室	
+pay officer		负责财物人员	
+pay on term		定期付款	
+pay order		支款凭证	
+pay out		付出；支出	
+pay period		工资支付期	
+pay phone		自动收费的公用电话	
+pay plan		工资制	
+pay rate		工资标准	
+pay rate per hour		小时工资率	
+pay ready money		付现钱	
+pay tax		纳税	
+pay to order		记名付款	
+pay tv		收费电视；付费电视	
+pay up		全部付清；付清	
+peace corps		美国和平部队	
+peanut butter	n	花生酱	
+pen pal		笔友	
+penalty area		罚球区	
+people in power		掌权者	
+people of color		有色人种	
+people person	n	人缘好的人	
+people say		有人说	
+per day		每日	
+per head		每人	
+per month		每月	
+per year		每年	
+performance art	n	表演艺术	
+performance artist		表演艺术	
+performance board		性能板	
+performance control		性能控制	
+performance data		性能数据	
+performance factor		性能因子	
+performance group		性能组	
+performance of program		程序性能	
+performance of work		工程的执行	
+performance period		运行时间	
+performance report		业绩报告	
+performance right		上演权	
+performance risk		履行合同的风险	
+performance test		特性试验	
+period cost		期间成本	
+period of growth		生长期	
+period of play		玩的时期	
+period of service		服务期	
+period of stay		居留期间	
+period of time		时段	
+period of use		使用期	
+period piece		古式器物	
+person hour		工时；个人时	
+person in the know		知情人	
+person of color		颜色的人	
+person under age		未成年人	
+personal action		个人诉讼	
+personal best	n	（运动员的）个人最佳成绩	
+personal business		私事	
+personal care		个人生活自理	
+personal computer		个人电脑；个人计算机	
+personal computer system		个人计算机系统	
+personal data system		个人数据系统	
+personal day		私人事假	
+personal growth		个人成长	
+personal letter		私人信件	
+personal relationship		个人关系	
+personal right		人身权	
+personal risk		个人风险	
+personal security		动产抵押	
+personal service		劳务	
+personal space		个人空间	
+personal tax		个人纳税义务	
+personal wrong		个人不法行为	
+petrol bomb	n	汽油弹	
+petrol station	n	加油站	
+phone book	n	电话簿	
+phone call	n	电话	
+phone company		电话公司	
+phone in		打电话告知	
+phone line		电话线	
+phone number		电话号码	
+phone service		电话业务；电话服务	
+phone system		单音体系	
+phone up		给…打电话	
+pick and choose		挑挑拣拣	
+pick at		扯拉	
+pick me up		接我	
+pick off		摘掉	
+pick on		作弄；挑剔	
+pick out		挑选	
+pick over		分档挑选	
+pick up		掘地	
+pick up and leave		卷起铺盖走路	
+pick up on		注意到	
+pick up with		结识	
+pick upon		挑中	
+picket line		纠察线；警戒线	
+picture black		图像黑色	
+picture book	n	图画书	
+picture current		传像电流	
+picture information		图片资料；图片资料	
+picture phone		电视电话	
+picture show	n	画展	
+picture size		图像大小	
+picture window	n	大型落地窗	
+piece by piece		逐渐地	
+piece end		尾段	
+piece number		件号	
+piece of eight		西班牙古银币	
+piece of ground		一片地面	
+piece of land		一块地	
+piece of material		一块材料	
+piece of music		器乐	
+piece of paper		纸	
+piece of work		（尤指具有某种质素的）一件作品	
+piece out		把…拼凑起来	
+piece rate		计件工资率；计件工资率	
+piece together		拼凑	
+piece up		修补	
+piece work		计件工作	
+place a call to		打电话给…	
+place a value on		估价	
+place down		公开承销	
+place in service		投入运行	
+place name	n	地名	
+place of business		营业地点	
+place of interest		名胜古蹟	
+place of performance		清偿地点	
+place on the market		卖出	
+place value		位值	
+plan a	n	甲案	
+plan for		为…作计划	
+plan of action		行动计划	
+plan on		打算	
+plan out		提出	
+plant air		工厂用压缩空气	
+plant building		厂房	
+plant culture		作物栽培	
+plant disease		植物病害	
+plant factor		设备利用率	
+plant family		植物家族	
+plant food		植物养料	
+plant fund		固定设备基金	
+plant in		栽进	
+plant life		植物；植物生命	
+plant material		植物体	
+plant order		工厂订单	
+plant out		把...移植户外	
+plant part		分布部分	
+plant process		植物过程	
+plant product		植物产品	
+plant site		现场	
+plant tax		牌照税	
+plant test		工业设备试验	
+plant water		生产用水	
+play a part		扮演角色	
+play a part in		在…中扮演角色	
+play a record		放唱片	
+play a role in		在...起作用	
+play a team		和某队比赛	
+play about		随便摆弄	
+play along		等待回音或决定	
+play along with		参与	
+play around		玩耍	
+play at		参加	
+play away		在外比赛	
+play back		把打回对方	
+play dead		装死	
+play down		对...不重视	
+play figure		液面花纹	
+play for time		为争取时间而拖延	
+play goal for		为…当守门员	
+play group		游戏小组	
+play hard		使劲；不择手段	
+play hard to get		假装不钟情于对方使对方更加喜欢自己	
+play high		豪赌	
+play house		过家家	
+play it low upon		歧视	
+play list		播放曲目	
+play off		使出丑	
+play off a draw		加时比赛	
+play on		继续比赛	
+play out		把戏演完	
+play right		上演权	
+play second		当配角	
+play the game		遵守比赛规则	
+play the man		显示男子气概	
+play the market		投机；买空卖空	
+play the race		赛赌马	
+play the role of		扮演…角色	
+play the woman		撒娇	
+play up		加油	
+play up to		支持	
+play with		和…一起玩耍	
+play with fire		玩火	
+playing field		运动场	
+po box	abbr	邮政信箱（Post Office Box）	
+pocket money		零用钱；零用钱	
+point after		达阵后射门	
+point at		（把…）对准	
+point at issue		系争要点	
+point effect		点效应	
+point for point		一点一点地	
+point group		点群；点群	
+point in time		时间点	
+point man		圈顶队员	
+point number		数据标记序号	
+point of control		见control point	
+point of information		关于情报的议题	
+point of law		法律要点	
+point of no return		该悬崖勒马的时候	
+point of order		关于程序的异议	
+point of return		返回点	
+point of view		观点；论点	
+point off	v	给…加小数点	
+point out		指出	
+point size		磅值	
+point source		点源；点源	
+point source of light		点光源	
+point system		点制	
+point the way		指路	
+point to		指向	
+point up		强调	
+point woman		点女人	
+pole position	n	跑道内圈	
+police action		警察行动	
+police agency		警察机构	
+police car		警察巡逻车	
+police court		违警罪法庭	
+police doctor		警医	
+police dog		警犬；警犬	
+police force	n	警察部门	
+police office		警察局	
+police officer	n	警察	
+police power		警察权	
+police record		违警记录	
+police security team		警备队	
+police stand		警察岗	
+police state		警察国家	
+police station		警察分局；警察分局	
+police the street		维持街上秩序	
+police work		警察工作	
+policy change		政策变迁	
+policy decision		政策决定	
+policy in force		有效保险单	
+policy space		策略空间	
+policy year		保险单年度	
+political asylum	n	政治避难	
+political campaign		政治运动	
+political correctness	n	政治正确性	
+political economy		政治经济学	
+political fund		政治基金	
+political issue		政治问题	
+political law		政治组织和管理学	
+political leader		政治领袖	
+political movement		政治运动	
+political office		政治职务	
+political order		政治秩序	
+political party		政党	
+political prisoner	n	政治犯	
+political program		政治纲领	
+political right		政治权	
+political science	n	政治学	
+political situation		政局	
+political system		政治体系	
+political thought		政治思想	
+political view		政见	
+poll tax	n	人头税	
+polling station	n	投票站	
+poor boy		（切开中间夹肉干酪蔬菜等的）大三明治	
+poor house		贫民院	
+poor law		济贫法	
+poor people		贫民	
+poor person		贫穷的人	
+poor play		差劲的比赛	
+poor rate		贫民救济税；济救税	
+poor white		<贬>（美国南部的）居住于黑人社区的贫穷白人	
+population control		人口控制	
+population growth		人口的增长	
+population information system		人口信息系统	
+population mean		总体值；总体均值	
+population policy		人口政策	
+population pressure		人口压力	
+position control		位置控制	
+position effect		位置影响	
+position light		夜航标位灯	
+position paper	n	意见书	
+possible action		可能的行动	
+possible father		可能的父亲	
+post office		邮局；邮局	
+power base	n	权力基础	
+power board		配电盘	
+power company		电力公司	
+power couple		高能量夫妻	
+power cut		断电	
+power down		掉电	
+power down stand by		电源故备用装置	
+power factor		功率因数	
+power ground		电力接地	
+power group		幂群	
+power head		动力头	
+power house		发电所；发电站	
+power law		幂定律	
+power level		功率电平	
+power line		电源线	
+power loss		功率损耗；功率损失	
+power model		幂模型	
+power number		功率数	
+power of agency		代理权	
+power of number		指数	
+power of test		检验能力	
+power off	vt	电源关闭	
+power on		通电	
+power plant		发电厂；动力车间	
+power plant cost		动力车间成本	
+power play	n	（球赛）集中攻势	
+power point	n	<英>电源插座	
+power rate		功率比	
+power response		功率响应	
+power room		动力车间	
+power series		幂级数；幂级数	
+power service		供电业务	
+power set		幂	
+power source		电源；电源	
+power station		发电所；动力站	
+power system		电力系统	
+power to sign		签字权	
+power up		加电	
+power walk	n	“劲走”或称“快走”即：大跨步地行走	
+power worker		发电厂工人	
+practice as a doctor		开业当医生	
+practice court		诉讼程序法庭	
+practice game		练习赛	
+practice law		开业当律师	
+practice of law		法律实务	
+practice of the court		诉讼程序	
+practice on		以…作为实验对象	
+practice set		整套实习题	
+practice teacher	n	（本身还是学生的）实习老师	
+practice test		模拟考试	
+practice work		整套实习题	
+precious metal	n	贵金属	
+prep school	n	<非正>预科学校	
+prepare against		为对付…做好准备	
+prepare for		准备	
+president of law court		法庭庭长	
+press conference		记者招待会；记者招待会	
+press officer	n	（受雇于组织机构的）新闻发布官	
+press release		新闻稿	
+pressure control		压力控制	
+pressure drop		压降；压降	
+pressure effect		施压效应	
+pressure group		施压集团；压力团体	
+pressure head		压头	
+pressure hold time		保压时间	
+pressure level		声压级	
+pressure point		（身体上的）压迫点	
+pressure process		压渍法	
+pressure sense		压觉	
+pressure still		裂化炉	
+pressure test		试压	
+pressure water		加压水；有压水	
+price control		物价控制；价格控制	
+price current		市价表；市价表	
+price cut		削价	
+price data		价格数据	
+price difference		价格差别	
+price economy		价格经济	
+price effect		价格效应	
+price factor		价格因素	
+price floor		最低价	
+price free on board		船上交货价	
+price increase		涨价	
+price leader		价格领头人	
+price level		物价水平；价格水准	
+price list		价格表；价目表	
+price market		注重价格的市场	
+price movement		价格趋势	
+price of factor		厂价	
+price of issue		发行价格	
+price of money		贷款利率	
+price point	n	价格点	
+price policy		价格政策	
+price stop		价格冻结	
+price store		价格存储器	
+price support		价格补助	
+price support program		价格支持计划	
+price system		价格制度	
+price tag		价格标签；价格标签	
+price war		价格战；价格战-价格上的商业竞争	
+price work		计价的工作	
+primary school	n	小学	
+prime minister		总理；总理	
+prime rate		最优惠贷款利率	
+prime time	n	（广播电视）黄金时间	
+prisoner of war	n	战俘；战俘	
+private bank		私营银行	
+private business		私营企业	
+private company		私人公司	
+private data		专用数据	
+private data set		专用数据组	
+private economy		私有经济	
+private enterprise	n	私人企业	
+private eye	n	私家侦探	
+private first class		陆军一等兵	
+private goal		私设的监狱	
+private international law		国际私法	
+private law		私法	
+private line		专用线	
+private line service		专线业务	
+private market		私募市场	
+private member	n	下院议员	
+private part		专用部分	
+private patient		开业医师诊治的病人	
+private person		私人	
+private practice		私人医师开业；私人开业	
+private right		专用权	
+private road		专用道路	
+private school	n	私立中小学	
+private sector		私营成分	
+private security force		私人保安部队	
+private source		专用源	
+private space		专用区	
+private use		专用	
+private view	n	（展览在公开展出前的招待性的）预展	
+private wrong		个人错误行为	
+probation officer		缓刑监督官；试用官	
+problem board		程序插接板	
+problem child		问题儿童	
+problem data		题目数据	
+problem language		问题语言	
+problem program		问题程序	
+problem program state		解题程序状态	
+problem space		问题空间	
+problem state		问题状态	
+problem state program		解题状态程序	
+problem time		解题时间	
+process art		概念艺术（侧重反映艺术家创作时的概念）	
+process class		过程类	
+process computer		过程控制计算机	
+process control		过程控制；工艺程序的控制	
+process control computer		过程控制计算机	
+process control computer system		过程控制计算机系统	
+process control language		过程控制语言	
+process control model		过程控制模型	
+process control system		过程控制系统	
+process cost		加工费	
+process cost system		分步成本制度	
+process data		过程数据	
+process data group		过程数据组	
+process development		过程开发	
+process form		过程格式	
+process line		生产线；生产流水线	
+process local space		进程局部存储空间	
+process model		过程模型	
+process number		过程号	
+process of law		法律程序	
+process plan		过程设计	
+process program		工作程序	
+process special character		进程专用字符	
+process state		进程状态	
+process state word		进程状态字	
+process step		加工阶段	
+process study		过程研究	
+process table		进程表	
+process technology		加工工艺学	
+process time		处理时间；加工时间	
+process water		工业用水	
+produce a film		摄制电影	
+produce a play		上演戏剧	
+produce a war		引发战争	
+produce evidence		提出证据	
+produce reason		提出理由	
+product area		乘积区	
+product buy back		产品返销	
+product development		产品开发	
+product form		乘积形式	
+product image		产品仿制	
+product information system		产品信息处理系统	
+product life		产品寿命	
+product line		生产线；产品系列	
+product price		产品价格	
+product quality		产品质量	
+product research		产品研究	
+product rule		乘积法则	
+product set		乘积集合	
+product support		产品支持	
+product term		乘积项	
+product test		产品测验	
+product water		产物水	
+product word		乘积字	
+production line		生产线；生产流水线	
+profit margin		利润率；利润幅度	
+program control		程序控制；程序控制	
+program control data		程序控制数据	
+program development time		程序开发时间	
+program director	n	节目部主任	
+program group		程序组；程序组	
+program language type		程序语言类型	
+program level		节目位准	
+program line		程序行	
+program music	n	标题音乐	
+program name		程序名	
+program part		程序部分	
+program run		程序运行	
+program step		程序步	
+program stop		程序停机	
+program test		程序测试	
+program time		程序时间	
+project area		项目区	
+project control		项目控制	
+project control system		计划管理系统	
+project cost		施工费用	
+project cost control		项目成本管理	
+project group		项目工作组	
+project list		项目清单	
+project name		项目名	
+project number		项目编号	
+project organization		设计结构	
+project plan		项目规划	
+project team		项目工作组	
+proportional representation	n	（选举上的）比例代表制	
+protect against		保护	
+protect from		保护	
+provide against		预防	
+provide for		作准备	
+provide with		给…提供	
+public action		公诉	
+public administration		公共行政	
+public body		公共团体	
+public building		公共建筑物	
+public character		公众人物	
+public choice		公众的抉择	
+public company	n	（有股票公开上市的）上市公司	
+public data		公开数据	
+public data base		公用数据库	
+public director		机方董事	
+public eye		公众之眼	
+public figure	n	社会名人	
+public fund		公共基金	
+public good		公益	
+public health		公共卫生	
+public health doctor		卫生医师	
+public health practice		公共卫生实施	
+public house		酒吧；酒馆	
+public image		在公众心目中的形象	
+public interest		公众利益	
+public international law		国际公法	
+public issue		公开发行证券	
+public land		公有地	
+public law		公法	
+public market		公开市场	
+public money		公款	
+public offer		公开报价	
+public office		公职	
+public office system		公用办公系统	
+public officer		公务员	
+public opinion		舆论；民意舆论	
+public order		公共秩序	
+public place		公共场所	
+public policy		公共政策	
+public record		政府机构	
+public resource		共享资源	
+public right		公权	
+public school	n	公立中小学	
+public school fund		公立学校基金	
+public sector		公共部门	
+public security		公安	
+public service		公用事业；公用事业	
+public service company		公用事业公司	
+public voice		公众的声音	
+public works		公共建筑；公共建筑	
+publishing house	n	出版社	
+pull a face		做鬼脸	
+pull a long face		愁眉苦脸	
+pull about		把...拖来拖去	
+pull along		沿…拉	
+pull at		用力拉	
+pull away		脱身	
+pull away from		从…挣脱	
+pull back		退回	
+pull down		摧毁；胀陷	
+pull foot		逃跑	
+pull in		进站	
+pull into		进站	
+pull it		逃走	
+pull off		脱	
+pull off the event		夺取比赛胜利	
+pull on		穿	
+pull out		拔出	
+pull over		靠岸	
+pull through		渡过难关	
+pull together		齐心协力	
+pull up		拔起	
+pull up a car		停车	
+pull up short		突然停住	
+pull up to	v	追赶上	
+push about		驱使	
+push along		离去	
+push around		把...推来推去	
+push away		继续推	
+push back		向后推	
+push down		把...向下推	
+push for		奋力争取	
+push home		使一针见血	
+push in		粗鲁地打断	
+push money		推销员奖金；给推销员的佣金	
+push off		离开	
+push on		推动	
+push out		推出	
+push over		把...推倒	
+push table		压入表	
+push technology		推送技术（用户能不断接收所选择的某类互联网信息）	
+push through		挤过去	
+push up		把...向上推	
+put a foot wrong		讲错话	
+put a force on		强迫	
+put a name to		叫出…的名字	
+put a period to		结束	
+put a stay on		制止	
+put a stay put		保持在原位	
+put a stop to		完成	
+put a value on		重视	
+put about		转向	
+put across		做成	
+put and call		买进和卖出的选择权	
+put away		放好	
+put back		放回原处	
+put behind		推迟	
+put behind one		拒绝考虑	
+put by		放在一边	
+put down		放下；放下	
+put down as		估计	
+put down to		归因于	
+put in		放进；提出	
+put in action		使开始行动	
+put in for		申请	
+put in force		施行	
+put in place		实施	
+put in practice		实施；实行	
+put into		流入	
+put into effect		使生效；执行	
+put into practice		实行...；实行	
+put into service		交付使用	
+put it		讲	
+put it on		装腔作势	
+put it over		取得成功；获得成功	
+put it over on		欺骗	
+put little stock in		不信任...	
+put money into		投资于	
+put money on		在...上下赌注	
+put off		推迟；推迟	
+put on		把...放上去	
+put on a well		油井投产	
+put on air	v	装腔作势	
+put on hold		搁置	
+put on record		备案	
+put on show		作样子	
+put on side		摆架子	
+put on the dog		摆架子	
+put on the line		冒险	
+put on the market		卖出	
+put one across	v	使信以为真	
+put one over		对…恶作剧	
+put out		放出；关	
+put out of action		使停止工作	
+put out of court		使失去诉讼权利	
+put over		使转向	
+put pressure on		对…施加压力	
+put right		使恢复正常	
+put simply		简而言之	
+put stock in		相信	
+put the case that		假设	
+put the question	v	提交表决	
+put through		搞成	
+put to		靠岸	
+put to bed		安顿...去睡	
+put to death		杀死；处死	
+put to it		使处于困境	
+put to right		整理好	
+put to the test		使受试验	
+put to use		使用	
+put to work		应用	
+put together		把...加起来	
+put under		杀死	
+put up		举起；搭架	
+put up a fight		展开斗争	
+put up price		涨价	
+put up with		忍受；容忍	
+put upon		欺骗；欺骗	

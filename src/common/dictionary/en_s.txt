@@ -1,0 +1,337 @@
+Soviet	n/adj	代表会议；苏维埃的	soh'-vi-uht
+Spanish	n/adj	西班牙人；西班牙的	
+sacred	adj	神圣的；神圣的	sayk'-rid
+sad	adj	忧愁的	
+safe	n/adj	保险箱；安全的	sayf
+safety	n/vt	安全；保护	sayf'-ti
+sake	n	目的	sayk
+salad	n	色拉	sa'-luhd
+salary	n/vt	薪水；给...加薪	sa'-luh-ri
+sale	n	出售；卖	sayl
+sales	adj	销售的；销售	
+salt	n/adj/vt	盐；含盐的；加盐于	sawlt
+same	adj/pron/adv	相同的；相同的人；同样地	saym
+sample	n/vt	样品；抽样；示例	sampl
+sanction	n/vt	核准；制定制裁规则	sangk'-shuhn
+sand	n/vt	沙；撒沙	
+satellite	n	人造卫星；伴行静脉	sat'-lait
+satisfaction	n	满足；偿还	sa-tis'fak-shuhn
+satisfy	vt/vi	使满意；令人满意	sa'-tis-fai
+sauce	n/vt	酱油；给...调味	saws
+save	n/vt/vi	救球；解救；挽救	sayv
+saving	n/adj/prep	存款；搭救的；除...之外	say'-ving
+say	vt/vi/n	说；说；意见	
+scale	n/vt/vi	刻度；依比例决定；剥落	skayl
+scandal	n	丑闻；丑事	skan'-duhl
+scared	adj	害怕的	skaird
+scenario	n	剧本提纲；方案	si'nar-i-oh
+scene	n	场；现场	seen
+schedule	n/vt	时间表；预定	ske'-joorl
+scheme	n/v	方案；计划	skeem
+scholar	n	学者	sko'-luhr
+scholarship	n	学问	sko'-luh-ship
+school	n/vt/vi	学校；教育；成群地游	skool
+science	n	科学；科学	sai'-uhns
+scientific	adj	科学的；科学记数法	sai-uhn'ti-fik
+scientist	n	科学家；科学家	sai'-uhn-tist
+scope	n	范围；作用域	skohp
+score	n/vt/vi	得分；刻划；刻痕	skawr
+scream	n/vi/vt	尖叫声；尖叫；尖叫着说	skreem
+screen	n/vt/vi	幕；掩蔽；拍电影	skreen
+script	n/vt	手迹；改编为演出本；手写体	skript
+sea	n	海；海	see
+search	n/v	搜寻；搜寻；搜索	surch
+season	n/vt/vi	季节；给...调味；变干燥	seezn
+seat	n/vt/vi	座；使坐下；安装在底座上	seet
+second	n/adj/num	秒；第二的；第二	se'-kuhnd
+secret	n/adj	秘密；秘密的	seek'-rit
+secretary	n	秘书；秘书	sek'-ruh-tuh-ri
+section	n/vt/vi	区段；把...分段；被切成片	sek'-shuhn
+sector	n/vt	扇形；把...分成扇形；扇面	sek'-tuhr
+secure	adj/vt/vi	无虑的；固定；停止操作	si'kyoor
+security	n	安全；安全性	si'kyu-ri-ti
+see	vt/vi/n	看见；看；主教的职位	
+seed	n/vt/vi	种子；在...播种；结实	
+seek	vt/vi	寻求；寻找；查找	
+seem	vi	象是	
+segment	n/v	片段；分割；段	seg'-muhnt
+seize	vt/vi	抓住；突然抓住	seez
+select	adj/v/n	挑选出来的；选择；被挑选者	si'lekt
+selection	n	选择；选择	si'lek-shuhn
+self	n/vt/vi	自己；使近亲繁殖；自花授精	
+sell	vt/vi/n	卖；卖；卖	sel
+senate	n	参议院	se'-nit
+senator	n	参议员；参议员	se'-nuh-tuhr
+send	vt/vi/n	发送；寄信；上升运动	
+senior	n/adj	年长者；年长的	seen'-yuhr
+sense	n/vt	感应；感觉；阅读	sens
+sensitive	adj	敏感的；敏感的	sen'-si-tiv
+sentence	n/vt	句子；宣判；句子	sen'-tuhns
+separate	n/adj/vi	独立件；分开的；分开	se'-puh-rayt
+sequence	n/vt	序列；按顺序排好；顺序	seek'-wuhns
+series	n	串联；系列	si'-uh-reez
+serious	adj	严肃的；严重的	si'-uh-ri-uhs
+seriously	adv	严肃地	si'-uh-ri-uhs-li
+serve	vt/vi/n	可作...用；服务；发球	surv
+service	n/vt/adj	服务；保养；武装部队的	sur'-vis
+session	n	期间；会话	se'-shuhn
+set	n/vt/vi	日落；放；日落	
+setting	n	环境；设置	se'-ting
+settle	n/vt/vi	有背长椅；决定；停留	setl
+settlement	n	安顿；居住区	setl'-muhnt
+seven	num	七	sevn
+several	adj/pron	几个的；几个	se'-vuh-ruhl
+severe	adj	严格的；严厉的	si'vi-uhr
+sex	n/vt	性别；区别...的性别	seks
+sexual	adj	性的；性的	sek'-shoorl
+shade	n/vi/vt	荫；渐变；使阴暗	shayd
+shadow	n/vt/vi	阴影；遮蔽；渐变	sha'-doh
+shake	n/vt/vi	摇动；摇动；震动	shayk
+shall	aux	将	shal
+shape	n/vt/vi	形状；定形；成形	shayp
+share	n/vt/vi	部分；均分；分享	shair
+sharp	n/adj/adv	半升音调；锋利的；锐利地	shahp
+she	pron	她	shee
+sheet	n/vt/vi	床单；盖上被单；大片落下	
+shelf	n	架子；架子	
+shell	n/vt/vi	贝壳；去壳；剥落	shel
+shelter	n/vt/vi	庇护所；庇护；躲避	shel'-tuhr
+shift	n/vt/vi	变化；替换；转换	
+shine	n/vt/vi	光泽；使发光；照耀	shain
+ship	n/vt/vi	船；以船运送；上船	
+shirt	n	衬衫	shurt
+shit	vi/vt/n	拉屎；欺骗；粪	
+shock	n/vt/vi	震动；使震动；震动	shok
+shoe	n/vt	鞋；给...穿鞋	shoo
+shoot	n/vt/vi	射击；射击；射出	
+shooting	n	发射	
+shop	n/vi/vt	商店；购物；选购	
+shopping	n	买东西；购物	sho'-ping
+shore	n/vt	海岸；把...送上岸	shawr
+short	adj/adv/n	短的；简短地；扼要	shawt
+shortly	adv	不久	shawt'-li
+shot	n/vt/adj	发射；装弹；杂色的	
+should	aux	应该	shud
+shoulder	n/vt/vi	肩；肩负；用肩推挤	shohl'-duhr
+shout	n/vi/vt	呼喊；呼喊；高喊	showt
+show	n/vt/vi	显示；表示；露面	shoh
+shower	n/vi/vt	阵雨；淋浴；淋湿	show'-uhr
+shrug	n/v	耸肩；耸肩	
+shut	n/vt/vi	关闭；关上；关上	shush
+sick	n/adj/vt	病人；不舒服；呕吐	sik
+side	n/adj/vt	旁边；旁的；同意	said
+sigh	n/vi/vt	叹息；叹息；叹息着说	sai
+sight	n/vt/vi	景观；看见；瞄准	sait
+sign	n/vt/vi	符号；签名；签名	sain
+signal	n/vt/vi	信号；向...作信号；发信号	signl
+significance	n	重要性；有效	sig'ni-fi-kuhns
+significant	adj	重要的	sig'ni-fi-kuhnt
+significantly	adv	值得注目地	
+silence	n/vt	沉默；使缄默；interj. 安静	sai'-luhns
+silent	adj	沉默的；静止的	sai'-luhnt
+silver	n/adj/vt	银；银的；镀银	sil'-vuhr
+similar	adj/n	相似的；相似的东西	si'-mi-luhr
+similarly	adv	相像地	si'-mi-luh-li
+simple	adj/n	简单的；出身低微者	simpl
+simply	adv	简单地	simp'-li
+sin	n/v	罪；犯	
+since	prep/adv/conj	自...以后；自那时以后；既然	sins
+sing	vi/vt/n	唱；唱；嗖嗖声	
+singer	n	歌手	sing'-uhr
+single	adj/n/vt	单身的；一个；选出	singgl
+sink	n/vi/vt	藏垢的场所；下沉；使低落	singk
+sir	n	先生	sur
+sister	n/vt	姐妹；姐妹般对待	sis'-tuhr
+sit	vi/vt/n	坐；使就座；坐	
+site	n/vt	位置；给...择址	sait
+situation	n	情形；情境	sit-yu'ay-shuhn
+six	num	六	siks
+size	n/vt/vi	大小；上浆；可比拟	saiz
+ski	n/vi	滑雪橇；滑雪	skee
+skill	n	技术；技能	skil
+skin	n/vt/vi	皮肤；剥皮；长皮	
+sky	n/vt/vi	天空；击向空中；高涨	skai
+slave	n/vi	奴隶；拼命工作；从设备	slayv
+sleep	n/vi/vt	睡眠；睡觉；睡	
+slice	n/vt/vi	薄的切片；切成薄片；切	slais
+slide	n/vt/vi	滑；使滑动；滑动	slaid
+slight	n/adj/vt	轻蔑；轻微的；轻视	slait
+slightly	adv	些微地	slait'-li
+slip	n/vi/vt	滑；滑动；使滑动	
+slow	adj/adv/v	慢的；慢地；慢下来	sloh
+slowly	adv	慢慢地	sloh'-li
+small	adj/adv/n	小的；些微地；狭小部分	smawl
+smart	adj/n/vi	聪明的；刺痛；刺痛	smaht
+smell	n/vt/vi	味道；闻；嗅	smel
+smile	n/vi/vt	微笑；微笑；微笑着表示	smail
+smoke	n/vi/vt	烟；吸烟；以烟熏	smohk
+smooth	adj/vt/vi	平滑的；使光滑；变平滑	smoodh
+snap	vt/vi/n	使突然中断；咬；猛咬	
+snow	n/vi/vt	雪；下雪；使雪白	snoh
+so	adv/conj/pron	如此；所以；这样	soh
+soccer	n	英式足球	so'-kuhr
+social	adj/n	社会的；联欢会	soh'-shuhl
+society	n	社会	suh'sai-uh-ti
+soft	adj/n/adv	软的；柔软的东西；柔软地	
+software	n	软件；软设备	soft'-wair
+soil	n/vt/vi	土壤；弄脏；变脏	soyl
+solar	adj	太阳的；太阳的	soh'-luhr
+soldier	n/vi	军人；从军	sohl'-juhr
+solid	n/adj	固体；坚硬的；原色	
+solution	n	解决；溶液	suh'loo-shuhn
+solve	vt/vi	解决；求解；求解	solv
+some	pron/adv/adj	一些；大约；一些的	sum
+somebody	n/pron	了不起的人；有人	sum'-bo-di
+somehow	adv	不知何故	sum'-how
+someone	pron	有人	sum'-wun
+something	pron	某事	sum'-thing
+sometimes	adv	有时	sum'-taimz
+somewhat	n/adv	某物；多少	sumh'-wot
+somewhere	adv	到某处	sumh'-wair
+son	n	儿子；儿子	sun
+song	n	歌	
+soon	adv	不久	
+sophisticated	adj	复杂的；尖端的	suh'fis-ti-kay-tid
+sorry	adj	难过的	so'-ri
+sort	n/vt/vi	种类；分类；交往	sawt
+soul	n/adj	灵魂；黑人的	sohl
+sound	n/adj/adv	声音；健全的；彻底地	sownd
+soup	n/vt	汤；加速	soop
+source	n	来源；来源	saws
+south	n/adj/adv	南方；南的；在南方	sowth
+southern	n/adj	南方人；向南方的	su'-dhuhn
+space	n/vt/vi	位置；隔开；留间隔	spays
+speak	vi/vt	说；说	speek
+speaker	n	说话人；扬声器	spee'-kuhr
+special	n/adj	专辑；特别的	spe'-shuhl
+specialist	n/adj	专门医师；专业的	spay'-shuh-list
+species	n	种；茶剂	spee'-shiz
+specific	n/adj	特效药；特殊的	spi'si-fik
+specifically	adv	特定地	spi'si-fik-li
+speech	n	演讲；言语	
+speed	n/vi/vt	速率；加速；快速传送	
+spend	vt/vi	花费；花费	
+spending	n	经费；开支	
+spin	n/vt/vi	旋转；纺织；纺纱	
+spirit	n/vt	精神；诱拐	
+spiritual	adj/n	精神上的；有关教会的事	spi'-ri-choorl
+split	n/adj/vi	劈开；劈开的；分离	
+spokesman	n	发言人	spohks'-muhn
+sport	n/adj/vi	运动；运动的；游戏	spawt
+spot	n/adj/vt	污点；当场的；点缀	
+spread	n/adj/vt	传播；双唇展开的；展开	spred
+spring	n/adj/vi	春天；春天的；跳	
+square	n/adj/adv	正方形；正方形的；成直角地	skwair
+squeeze	n/vt/vi	紧握；紧握；压榨	skweez
+stability	n	安定；稳定性	stuh'bi-li-ti
+stable	n/adj/vt	马房；稳定的；赶入马房	staybl
+staff	n/adj/vt	全体人员；职员的；为...配备人员	stahf
+stage	n/vt/vi	阶段；上演；适于上演	stayj
+stair	n	梯级	
+stake	n/vt/vi	桩；打桩；打赌	stayk
+stand	n/vi/vt	站立；站；忍受	
+standard	n/adj	标准；标准的；标准	stan'-duhd
+standing	n/adj	起立；立着的	
+star	n/vt/vi	星；以星状物装饰；变成明星	stahr
+stare	vi/vt/n	注视；盯；凝视	stair
+start	n/vi/vt	惊起；开始；使惊起	staht
+state	n/adj/vt	州；国家的；说明	stayt
+statement	n	陈述；程序语句	stayt'-muhnt
+station	n/vt	车站；安置；站	stay'-shuhn
+statistics	n	统计学；统计信息	stuh'tis-tiks
+status	n	状态；状态	stay'-tuhs
+stay	n/vt/vi	停留；制止；停留	
+steady	adj/vt/vi	稳定的；使稳定；变为沉着	ste'-di
+steal	vt	剽窃	steel
+steel	n/adj/vt	钢；钢的；使坚强	
+step	n/vt/vi	步骤；踏；跨步	
+stick	n/vt/vi	棍；插进；粘住	stik
+still	n/v/adj	蒸馏室；蒸馏；静止的	stil
+stir	n/vt/vi	骚动；移动；走动	stur
+stock	n/adj/vt	树干；存货的；装把手于	stok
+stomach	n/vt	胃；吃下	stu'-muhk
+stone	n/vt/adj	石头；投扔石子；石的	stohn
+stop	n/vi/vt	停止；停止；塞住	
+storage	n	存储器；存放处	stor'-ij
+store	n/vt/vi	商店；储存；贮藏	stawr
+storm	n/vi/vt	暴风雨；起风；猛攻	stawm
+story	n	故事	stor'-i
+straight	n/adj/adv	直线；直的；直接地	strayt
+strange	adj	奇怪的	straynj
+stranger	n	陌生人；局外人	strayn'-juhr
+strategic	adj	战略的；战略的	struh'tee-jik
+strategy	n	战略；战略	stra'-ti-ji
+stream	n/vt/vi	水流；流出；流	streem
+street	n/adj	街道；街道的	
+strength	n	力量；强度	
+strengthen	vt/vi	加强；变强	streng'-thuhn
+stress	n/vt	压力；加压力于	stres
+stretch	n/adj/vt	伸展；可伸缩的；伸展	strech
+strike	n/vt/vi	罢工；打；打	straik
+string	n/vt/vi	线；串起；成一串	
+strip	n/vt/vi	长条；脱衣；脱衣服	
+stroke	n/vt	笔划；划尾桨；笔划	strohk
+strong	adj/adv	强壮的；强劲地	
+strongly	adv	强有力地	strong'-li
+structure	n/vt	结构；构成	struk'-chuhr
+struggle	n/vi	斗争；努力	strugl
+student	n	学生	styoodnt
+studio	n	工作室	styoo'-di-oh
+study	n/vt/vi	学习；学习；学习	stu'-di
+stuff	n/vt/vi	原料；装填；狼吞虎咽	stuf
+stupid	adj	愚蠢的	styoo'-pid
+style	n/vt	风格；称呼；风格	stail
+subject	n/adj/adv	科目；服从的；在...条件下	sub'-jekt
+submit	vt/vi	使服从；屈服	suhb'mit
+subsequent	adj	后来的；后来的	sub'-sik-wuhnt
+substance	n	物质；物质	subs'-tuhns
+substantial	n/adj	重要材料；实质上的	suhb'stan-shuhl
+succeed	vi/vt	成功；继承	suhk'seed
+success	n	成功	suhk'ses
+successful	adj	成功的；成功的	suhk'ses-ful
+successfully	adv	成功	suhk'sesfy-li
+such	adj	如此的	
+sudden	n/adj	突然；突然的	sudn
+suddenly	adv	突然	su'-duhn-li
+sue	vt/vi	控告；提出诉讼	soo
+suffer	vt/vi	遭受；受痛苦	su'-fuhr
+sufficient	adj	充分的；充分的	suh'fi-shuhnt
+sugar	n/vt/vi	糖；加糖于；制成糖	shu'-guhr
+suggest	vt	提议；建议	suhg'jest
+suggestion	n	提议；暗示	suh'jes-chuhn
+suicide	n/v/adj	自杀；自杀；自杀的	syu'-i-said
+suit	n/vt/vi	套装；适合；合适	syoot-soot
+summer	n/vi	夏季；避暑；加法器	su'-muhr
+summit	n/adj	顶点；政府首脑的	su'-mit
+sun	n/vt/vi	太阳；晒；晒太阳	
+super	n/adj/adv	跑龙套角色；上等的；非常	syoo'-puhr
+supply	n/vt/vi	补给；补给；替代	suh'plai
+support	n/vt	支持；支援；后援	suh'pawt
+supporter	n	支持者；支持者	suh'paw-tuhr
+suppose	vt/vi	推想；料想	suh'pohz
+supposed	adj	想象上的；推测的	suh'pohzd
+supreme	n/adj	至高；至高的	syu'preem
+sure	adj/adv	确信；当然	shoor
+surely	adv	的确地；保证	shoor'-li
+surface	n/adj/vt	面；表面的；使成平面	sur'-fis
+surgery	n	外科	sur'-juh-ri
+surprise	n/vt	惊奇；使惊奇	suh'praiz
+surprised	adj	感到惊讶的	suh'praizd
+surprising	adj	令人惊讶的	suh'prai-zing
+surprisingly	adv	使人惊奇	
+surround	vt/n	包围；围绕物	suh'rownd
+survey	n/vt/vi	纵览；审视；测量土地	suh'vay
+survival	n/adj	生存；赖以生存的	suh'vai-vuhl
+survive	vt/vi	比...活得长；活下来	suh'vaiv
+survivor	n	生还者；生还者	suh'vai-vuhr
+suspect	n/adj/v	被怀疑者；令人怀疑的；怀疑	suh'spekt
+sustain	vt	承受；持续	suh'stayn
+swear	vt/vi/n	发誓；发誓；诅咒	swair
+sweep	n/vt/vi	扫除；扫除；扫	
+sweet	n/adj	甜蜜；甜的	
+swim	n/vi/vt	游泳；游泳；游过	
+swing	n/vi/vt	摇摆；摇摆；挥舞	
+switch	n/vt/vi	开关；转变；转换	swich
+symbol	n	符号；符号	simbl
+symptom	n	症状；症状	simp'-tuhm
+system	n	系统；系统	sis'-tuhm

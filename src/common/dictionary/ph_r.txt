@@ -1,0 +1,466 @@
+race about		奔走各处	
+race against		与…竞赛	
+race against time		和时间赛跑	
+race car		赛车	
+race course		比赛场地	
+race culture		种培养	
+race meeting	n	<英>（通常延续数天的多项目）赛马大会	
+race problem		竞争问题	
+race way		电缆管道；座圈	
+race with		与…竞赛	
+raise a family		养家煳口	
+raise a hand against		打击	
+raise a price		涨价	
+raise a question		提出问题	
+raise fund		集资	
+raise money		筹钱；筹款	
+raise money for		为…募捐	
+raise money on		以...作抵押来筹款	
+raise the market on		向…索要高价	
+raise the market upon		提高市场价格	
+raise up		举起	
+rank and file	n	普通成员	
+rate action		时率动作	
+rate after		位居…之后	
+rate control		速率控制	
+rate effect		速率效应	
+rate of call		活期利率	
+rate of change		变率	
+rate of economic growth		经济发展率	
+rate of growth		增长率	
+rate of increase		递增率	
+rate of interest		利率	
+rate of pay		工资率	
+rate of return		收益率	
+rate of wear		磨损率；磨损率	
+rate of work		工作强度	
+rate test		速率测试	
+rate up		向...征收较高额保险费	
+rate war		价格竞争	
+rather than		与其...不如...	
+reach a decision		得出结论	
+reach a goal		达到目的	
+reach after		伸手去拿…	
+reach down		伸手取下…	
+reach for		伸手去拿…	
+reach into		伸进	
+reach out		（使）伸出	
+reach out for		伸手去拿...	
+reach to		传到	
+reach up		举手	
+read about		阅读有关…的细节	
+read after write		写后读出	
+read around number		读出数	
+read back		重复	
+read head		读头	
+read in		读入	
+read like a book		一目了然	
+read me		自述文件	
+read of		读知	
+read off		读出	
+read on		继续读	
+read only		只读	
+read out		宣告开除；读出	
+read over		把...读一遍	
+read rate		阅读率；读出率	
+read through		把...从头看到尾；连读	
+read time		读出时间	
+read up		攻读	
+read up on		研究	
+ready condition		就绪状态	
+ready control		准备控制	
+ready for		准备好干某事	
+ready for data		发送数据就绪	
+ready light		就绪指示灯	
+ready list		应绪表	
+ready money		现款；现金	
+ready program		现成程序	
+ready record		就绪记录	
+ready room		待命室	
+ready state		就绪状态	
+ready stock on hand		手头现有存货	
+ready to		准备好	
+ready to hand		在手头	
+ready up		即付	
+real action		产权诉讼	
+real cost		实际成本	
+real data type		实数资料类别	
+real estate		不动产；不动产	
+real evidence		物证	
+real focus		实焦点	
+real image		实映象；实像	
+real law		不动产法	
+real life		现实社会	
+real money		现金硬币	
+real number		实数	
+real part		实部	
+real party		真正当事人	
+real power		实功率	
+real price		实际价格	
+real right		实权	
+real security		实物担保	
+real stock		实股	
+real tax		实税	
+real thing		不动产	
+real time		实时；实时	
+real type		实型	
+real value		实在价值	
+real world		真实世界	
+realize on		从…赚得	
+reason about		对…进行推理	
+reason from		根据…推理	
+reason into		劝说...接受	
+reason man		有理性的人	
+reason out		通过推理得出结论	
+reason out of		劝说...排除	
+reason with		与...评理	
+receive a test		接受考验	
+receive attention		受到注意	
+receive current		接收电流	
+receive data		接收数据	
+receive from	v	收到	
+receive into		接受	
+receive line		接收线路	
+receive window		接收窗口	
+recent development		最近发展	
+record area		记录区域	
+record book		记录簿；记录本	
+record company		唱片公司	
+record cover		记录封面	
+record evidence		书面证据	
+record group		记录组	
+record high		破纪录的高点	
+record level		最高水准	
+record model		记存模型	
+record name		记录名	
+record number		资料录编号	
+record office		伦敦档案局	
+record player		电唱机；记录制造器	
+record type		记录类型	
+red cross		红十字；红十字	
+red day		棕粘土；红日	
+red dog		煤坑中的混合废料	
+red fire		红火	
+red hot		红热	
+red language		红色语言	
+red lead		铅丹	
+red letter day		节日	
+red light		红灯	
+red line		红线	
+red man		北美印第安人	
+red oil		油酸	
+red pepper	n	辣椒	
+red star		红星	
+red tape		官样文章；官样文章	
+red test		红色试验	
+red top		红顶草	
+red water		红水	
+reduce a price		减价	
+reduce action		归约动作	
+reduce state		归约状态	
+reduce the price		减价	
+reduce the staff		精简人员	
+reduce to		使处于	
+reduce to order		使得…秩序井然	
+refer to		查阅	
+relationship in law		姻亲关系	
+relationship of the blood		血统关系	
+rely on		依赖	
+remain down		保持下来	
+remain in force		继续有效	
+remain of		由…遗留下来	
+remain on		停留在…之上	
+remain up		一直不睡	
+remain with		属于	
+remember as		记得…是	
+remember condition		记忆状态	
+remember to		向…问好	
+remote control		遥控；远程操纵	
+report back		带回…的报告	
+report data		报表数据	
+report development		拟定报告	
+report for		给…当记者	
+report for work		报到上班	
+report form		报表形式；报告式	
+report group		报表栏	
+report line		报告行	
+report name		报表名	
+report number		报表编号	
+report on		报道…	
+report out		将法案提交大会并附审查报告	
+report page		报表页	
+report program		报告程序	
+report to		到…报到	
+report to the court		请求法院裁定	
+report type		报告类型	
+report write control system		报表书写控制系统	
+republican party		共和党	
+require of		对…的要求	
+research and development		研究与开发；究研与开发	
+research and development cost		研究和发展成本	
+research and development program		研究与发展计划；研究和发展计划	
+research and development project		研究与发展计划；研究和发展项目	
+research center		研究中心	
+research cost		研究成本	
+research director		研究室主任	
+research effect		研究效果	
+research for		为寻求…而作调查研究	
+research into		探究	
+research model		研究模型；实验模型	
+research on		研究	
+research paper		研究论文	
+research program		研究规划	
+research project		研究计划	
+research report		研究计划；研究报告	
+research staff		研发人员	
+research subject		研究课题	
+research work		研究工作	
+research worker		研究人员	
+resource control		资源控制	
+resource development		资源开发	
+resource information bank		资源信息库	
+resource information system		资源信息系统	
+resource name		资源名	
+resource number		资源号	
+resource resource security		资源安全性	
+resource tax		资汇税	
+response factor		响应因子	
+response field		响应域	
+response language		应答语言	
+response level		响应级	
+response position		响应位置	
+response time		响应时间	
+response window		响应窗口	
+rest area		支托区	
+rest day		休息日	
+rest easy		高枕无忧	
+rest energy		静能	
+rest for a while		休息一会儿	
+rest force		安静力	
+rest home		疗养院	
+rest house	n	招待所	
+rest in		在于	
+rest on		被搁在	
+rest period		休息期间	
+rest position		休息位置	
+rest room		公共厕所	
+rest stop	n	（旅途中在公路旁的）休息	
+rest the case		停止对该案提出证据	
+rest time		休息时间	
+rest treatment		寒冷疗法	
+rest up		充分休息	
+rest with		取决于	
+result call		结果调用	
+result data		结果数据	
+result from		由...产生；由于	
+result in		导致；产生	
+result note		结果说明	
+result state		结果状态	
+return character		返回字符	
+return control word		返回控制字	
+return current		返回电流；回流	
+return day		要求被告下次到庭日期	
+return game		回访比赛	
+return information		返回信息	
+return like for like		以牙还牙	
+return line		回流管	
+return loss		回流损失	
+return of value		值返回	
+return oil system		废油的回流系统	
+return period		生现期	
+return point		返回点	
+return rate		回报率	
+return result		回送结果	
+return time		回程时间	
+return to		回复到...	
+rheumatoid arthritis	n	类风湿性关节炎	
+right a wrong		矫枉	
+right along		继续地	
+right and left		向左右两边	
+right and might		公理和强权	
+right angle		直角；直角	
+right away		立刻	
+right back		右后卫	
+right bank		右岸；波尔多右岸	
+right down		非常	
+right enough		果然如此	
+right eye		右眼	
+right field	n	右外场	
+right half part		右半部分	
+right hand		右手	
+right hand side		右手边	
+right heart		右心	
+right here		在这儿	
+right here and now		就在此时此地	
+right in court		法庭上的权利	
+right itself		恢复常态	
+right now		就在此时	
+right of action		诉讼权	
+right of author		著作权	
+right of choice		选举权	
+right of common		共有权	
+right of individual		个人权利	
+right of light		采光权	
+right of public meeting		公共集会权	
+right of support		扶养权	
+right of thing		物权	
+right of use		使用权	
+right of war		战争权	
+right of water		土地水利权	
+right of way		地役权	
+right of work		工作权	
+right off		立刻	
+right on		对啊	
+right or wrong		不管如何	
+right out		坦率地	
+right over body		人身权	
+right part list		右部表	
+right part of rule		规则右部	
+right read		正读	
+right reason		正当理由	
+right the wrong		矫枉	
+right to begin		首先在法庭陈述权	
+right to choose		选择权	
+right to health		享受卫生保健的权利	
+right to information		取得情报的权利	
+right to know		知情权；知道权	
+right to life	n	（未出生婴儿的）生命权	
+right to speak out		发表言论权	
+right to the job		返回工作权	
+right to work		工作权	
+right way		正确的方式；正确道路	
+riot police		防暴警察；防暴警察	
+rise again		死而复生	
+rise against		起义反抗	
+rise and fall		涨落	
+rise from		从…站起身来	
+rise from the dead		死而复生	
+rise high in life		发蹟	
+rise in price		涨价	
+rise in the world		飞黄腾达	
+rise time		上升时间	
+rise time response		上升时间响应	
+rise to		上升到	
+rise to power		崛起之路	
+rise up		起义	
+risk control program		风险控制程序	
+risk decision		风险决策	
+risk factor		危险度	
+risk it		豁出去	
+risk money		差少补偿津贴	
+risk note		保险凭条	
+road death		因交通事故而造成的死亡	
+road game	n	客场比赛	
+road movie		（基于主角等旅行经历的）公路电影	
+road oil		铺路用柏油	
+road race		公路赛	
+road sense		路上安全驾驶能力	
+road show	n	巡回演出	
+road sign		交通标志	
+road tax	n	公路税	
+road test		路试	
+rock and roll		摇滚乐	
+rock bottom		最低点；最低的	
+rock garden	n	假山	
+role model	n	榜样	
+role play	n	角色扮演	
+role player		角色球员	
+roman catholic		天主教徒	
+room and board		食宿	
+room light		室内灯	
+room rate		房价	
+room service		客房用餐服务	
+round table		圆桌会议	
+round trip		往返旅行	
+royal family	n	王室	
+royal highness		英皇族亲属间的称呼	
+rubber stamp		橡皮图章	
+rule against		否决	
+rule bank		规则库	
+rule book	n	比赛规则手册	
+rule by law		法治	
+rule character set		规则特征集	
+rule high		喊高价	
+rule in		以纳入法	
+rule list		规则表	
+rule low		喊低价	
+rule model		规则模型	
+rule of evidence		证据法规则	
+rule of law	n	法规	
+rule of life		生活规则	
+rule of practice		诉讼程序规则	
+rule of the road		公路法规	
+rule off		划线隔开；划结	
+rule out		划去；排除	
+rule over		统治	
+rule set		规则集	
+rule system		规则系统	
+run a business		管理企业	
+run a plant		办厂	
+run a risk		冒险	
+run about		跑来跑去	
+run across		偶遇	
+run after		追捕	
+run against		撞上	
+run along		离开	
+run around		和...一起走动	
+run around with		与…一起到处乱跑	
+run at		冲过去袭击	
+run away		潜逃；失控	
+run away from		逃避	
+run away with		带...潜逃；潜逃	
+run back		倒回	
+run back over		回顾	
+run book		运行说明书；操作说明书	
+run by		运行者	
+run close to		可同…媲美	
+run cost		运行代价	
+run down		跑下；停止	
+run for		竞选	
+run for it		快跑躲避	
+run for office		竞选	
+run free		空车运转	
+run hard to		可同…媲美	
+run high		高涨	
+run in		跑进	
+run in a family		世代相传	
+run in the blood		世代相传	
+run in the family		为一家人所共有	
+run into		跑进	
+run into the ground		把...做过头	
+run its course		按常规发展	
+run light		空车运转	
+run low		减少；缺乏	
+run off		逃跑；市场上最后一笔交易	
+run oil		提炼石油	
+run on		连续	
+run on a bank		向银行挤提存款	
+run out		跑出；背弃	
+run out of		用完	
+run out of work		窝工	
+run out on		抛弃	
+run over		跑过去；沸腾翻出	
+run over with		充满	
+run short		不足；不足	
+run short of		缺少	
+run the risk of		冒...的危险	
+run the show		主持演出	
+run through		跑着穿过	
+run time		运行时间	
+run time call		运行时调用	
+run time data area		运行时数据区	
+run time organization		运行时组织	
+run time result		运行时结果	
+run time service		运行时服务	
+run time support		运行时支援	
+run time system		运行期系统	
+run time value		运行期值	
+run to		跑向	
+run true to form		一如既往	
+run up		向上跑；迅速累积	
+run up against		意外地碰到	
+run up to		跑到	
+run upon		偶遇	
+run with		收为自己的	
+running mate	n	<美>（竞选副总统的）竞选伙伴	
+rush hour	n	（上	

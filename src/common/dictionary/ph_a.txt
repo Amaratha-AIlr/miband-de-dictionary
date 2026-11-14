@@ -1,0 +1,818 @@
+a amount of		大量的	
+a back answer		顶嘴	
+a back issue		过期期刊	
+a back number		过期的刊物	
+a bad job		白费力的事	
+a bad life		不道德的生活	
+a bad lot		一个坏蛋	
+a bad policy		不明智的政策	
+a bad word		猥亵话	
+a bank of		一堆	
+a bank president		银行行长	
+a base area		根据地	
+a bed of down		安乐窝	
+a best man		男傧相	
+a big deal		要人	
+a big dog		大人物	
+a big number		要人	
+a big share of		很大的一部分	
+a bit		一点儿	
+a black list		黑名单	
+a blood bank		血库	
+a body of police		一群警察	
+a book stand		书摊	
+a business doctor		企业顾问	
+a call of nature		要大小便的感觉	
+a car doctor		汽车修理工	
+a case in point		恰当的例子	
+a catch question		奇怪的问题	
+a change of heart		改变主意	
+a change of scene		改换环境	
+a child of nature		天真的人	
+a choice of		各种各样可供选择的…	
+a class		头等	
+a close call		侥幸的脱险	
+a close game		比分接近的比赛	
+a close thing		侥幸的脱险	
+a common year		平年	
+a couple		一对夫妇	
+a couple of		一对...	
+a cup of		一杯…	
+a day off		休息日	
+a dead dog		废物	
+a dead language		死语言	
+a dead loss		净亏损	
+a dead past		已被人们遗忘的往事	
+a dead season		淡季	
+a dead set		敌对态度	
+a dead stop		突然停止	
+a decade of		十个	
+a dog fight		狗打架	
+a drop of		一滴…	
+a few		几个	
+a few of		少数	
+a free fight		混战	
+a free hand		放手处理的权利	
+a free list		免税商品表	
+a friend in court		有势力的朋友	
+a full team		有特别才能的人	
+a fund of		丰富的	
+a future life		来生	
+a game of		一场	
+a game of chance		靠碰运气取胜的游戏	
+a good		相当	
+a good deal		许多	
+a good deal of		很多的	
+a good few		相当多	
+a good job		幸运事	
+a good life		道德的生活	
+a good lot		大量	
+a good many		很多	
+a good time		一段美好时光	
+a good turn		有利的举动	
+a good while		好些时候	
+a great deal		大量	
+a great deal of		很多的	
+a great lot		大量	
+a great many		许许多多	
+a great number of		许多	
+a group of		一组	
+a hard case		不可救药的人	
+a hard hit		沉重的打击	
+a head		一捆	
+a home from home		象家里一样舒适的环境	
+a hot lead		极好的线索	
+a hot number		热门货	
+a hot time		紧张时刻	
+a house of call		零工待雇处	
+a hundred and one		许多	
+a job lot		整批买卖的杂货	
+a kind of		一种	
+a large amount of		大量的	
+a large body of		一大堆	
+a large number of		大量的...	
+a level	n	英国GCE考试甲级标准	
+a light hand		熟练	
+a line of		一行	
+a little		一些	
+a little while		一会儿	
+a little while ago		方才	
+a long time ago		很久以前	
+a long way from		距离…遥远	
+a long while ago		很长时间以前	
+a long word		很长的时间	
+a lot		大量	
+a lot of		许多的	
+a man about town		花花公子	
+a man of ability		能干者	
+a man of business		代理人	
+a man of character		有个性的人	
+a man of decision		有决断能力的人	
+a man of family		有家室者	
+a man of figure		人物	
+a matter at issue		有争议的问题	
+a matter in hand		当前的问题	
+a matter of		...左右	
+a matter of course		理所当然的事	
+a matter of record		有案可查的事	
+a medical man		医生	
+a military area		军区	
+a minute		一分钟	
+a moment ago		刚才	
+a month or so		一个月左右	
+a near go		极侥幸的逃脱	
+a near thing		侥幸的脱险	
+a number of		许多的	
+a page boy		侍童	
+a part of		部分	
+a pay raise		加薪	
+a period of		阵子	
+a person of color		有色人种的人	
+a piece of		一块...	
+a piece of news		一条消息	
+a piece of work		一件工作	
+a play doctor		剧本改编者	
+a point of view		观点	
+a power of		极大的	
+a price list		价目表	
+a public figure		知名人士	
+a red letter day		节日	
+a right guy		可靠的人	
+a series of		一系列...	
+a set of		一组	
+a share		A种股票	
+a short cut		近路	
+a short time		一会儿	
+a short while ago		方才	
+a single	n	单一；单可	
+a single woman	n	单身女子	
+a small number of		少量的...	
+a staff member		一个职员	
+a stock of		储存的	
+a student		一位学生	
+a sure find		必定能找到的猎物藏身处	
+a team of		一队	
+a thought		稍许	
+a thousand and one		一千零一	
+a thousand to one		千对一	
+a type of		一种	
+a watch dog		看家狗	
+a week later		一星期后	
+a while		一会儿	
+a white lie		无恶意的谎话	
+a white night		白夜	
+a whole lot of		很多	
+a word in season		合时宜的话	
+a world of		很多	
+a young animal		幼小的动物	
+a young child		幼童	
+a young country		新兴的国家	
+a young family		幼小子女	
+a young man		青年男子	
+a young person		年轻人	
+a young state		年轻的国家	
+a young tree		幼小的树	
+ability to control		控制能力	
+ability to pay		纳税能力	
+about help		关于帮助	
+about time		<口>早该发生的事	
+about to		即将	
+about turn	n/v	常用于英式英语；向后转；反排向后转	
+accept for		承兑	
+accept of	v	承兑	
+accept record		接受修订	
+accept the face of		偏爱	
+accept the person of		偏爱	
+according as		依据	
+according to		根据	
+according to plan		按计划；按计划	
+according to rule		按惯例	
+acid rain		酸雨	
+across country	adv	越过田野	
+across from		在...对面	
+across the board		全面地	
+across the board cut		全面削减	
+across the country		全国各地	
+across the land		全国各地	
+across the nation		全国	
+action agency		诉讼代办	
+action area		作用面积	
+action at law		法律诉讼	
+action current		作用电流；动作电流	
+action figure		（仿影视等角色的）战士玩偶	
+action film		动作片	
+action group	n	行动小组	
+action language		作用语言	
+action line		作用线	
+action movie		动作片	
+action of performance		履行的诉讼	
+action of real right		物权诉讼	
+action officer		执行官	
+action on the case		案情写在令状上的诉讼	
+action paper		作用纸	
+action period		作用期	
+action plan		行动计划	
+action plant		动作植物	
+action point	n	起诉要点	
+action research		动作研究	
+action system		动作系统	
+activity cost		效率成本	
+activity end		活动结束	
+activity energy		活化能	
+activity factor		活动因子	
+activity job		活动作业	
+activity level		活动程度	
+activity line		作业线	
+activity list		活动表	
+activity product		活度积	
+activity series		活度	
+activity set		活动集	
+activity test		活性试验	
+add all		全部添加	
+add carry		加进位	
+add character		加字符	
+add color		添加颜色；添加颜色	
+add in		把...包括在内；添加	
+add list		附加表	
+add name space		增加名字空间	
+add on		（在计算或目录的末尾额外）加上	
+add time		加法时间	
+add to		加入	
+add together		加起来	
+add tree		加法树	
+add up		合计	
+add up to		合计达	
+add watch		添加监视点	
+add with carry		进位加	
+administration action		遗产管理诉讼	
+administration behavior		管理行为	
+administration center		管理中心	
+administration cost		管理成本	
+administration of law		司法	
+administration order		管理命令	
+administration period		托管期间	
+affirmative action		肯定行动	
+after a little		过了一会儿	
+after a time		过了一会儿	
+after a while		过了一会儿	
+after all		毕竟	
+after current		后电流	
+after effect		事后效应	
+after hour		工作完毕后	
+after much thought		经仔细考虑后	
+after part		尾部；后部	
+after pressure		后压党	
+after school		放学后	
+after service		售后服务；售后服务	
+after table		后机台	
+after tax		纳税后	
+after that		然后	
+after the fact		事后	
+after the form of		按照…的格式	
+after the model of		根据…的典范	
+after treatment		术后疗法	
+again and again		再三地	
+against nature		违反自然地	
+against public interest		与公共利益抵触	
+against the hair		违反天性	
+against time		争分夺秒地	
+age class		年龄级	
+age group		同年龄范围内的人	
+age of consent		合法年龄	
+age of man		第四纪	
+age of reason		理性时代	
+agency for international development		国际开发署	
+agency fund		代管款	
+agency in fact		事实上的代理	
+agency of international development		国际开发署	
+agency security		机构证券	
+agree about		对…取得一致意见	
+agree in		在…意见一致	
+agree on		就…取得一致意见	
+agree to		同意	
+agree upon		就…取得一致意见	
+agree upon a price		谈妥价钱	
+agree with		同意…	
+ahead of		在…之前	
+air base	n	空军基地	
+air bed		气褥	
+air car		气垫汽车	
+air change		换气	
+air condition		空调	
+air control		空气控制	
+air course		风向	
+air cover		空中掩护	
+air current		气流	
+air data computer		飞行参数计算机	
+air defense	n	防空	
+air door		气门	
+air film		空气膜	
+air film table		空气膜工作台	
+air force		空军	
+air force officer		空军军官；空军干部	
+air free		无气的	
+air group		空军大队	
+air law		航空法	
+air letter		航空信	
+air level		水平仪	
+air line		空气管路	
+air man	n	飞行员	
+air movement		空气流动	
+air movement data		空中运动数据	
+air officer		（英国）空军将级军官	
+air out		通通风	
+air plant		压缩空气装置	
+air police		空中宪兵队	
+air power		空军力量	
+air pressure		气压	
+air pressure test		空气压力试验	
+air quality		大气品位	
+air raid		空袭	
+air rate		耗气率	
+air right		空间所有权	
+air set process		常温自硬法	
+air show		空中表演	
+air space		气腔	
+air space law		空间法	
+air strike		空中出击	
+air support		空中支援	
+air table		气垫桌	
+air test		充气试验	
+air traffic controller		空中交通指挥员	
+air way		通风道	
+air well		通风竖井	
+aircraft carrier		航空母舰；航空母舰	
+all about		关于…的一切	
+all along		始终	
+all along of		完全由于…	
+all along the line		到处	
+all arm		编担；是指胳膊是完好的	
+all around		周围	
+all at once		突然；整批发送	
+all better		好啦	
+all but		几乎	
+all by himself		他独自地	
+all clear		解除警报	
+all common control system		全集中控制方式	
+all cut		以削球为主的战术	
+all day		整天	
+all day long		整天	
+all get out		极度	
+all high		空前的最高记录	
+all important	adj	非常重要的	
+all in		疲乏到极点	
+all in all		总而言之	
+all in one		合为一体	
+all night		整夜	
+all night long		整夜	
+all of		实足	
+all of a much		满身是脏	
+all one can		力所能及	
+all one know		力所能及的一切	
+all one to		对...来说都一样	
+all or any part		全部或任何一部分	
+all out		竭尽全力	
+all over		全部结束	
+all over again		完全重做	
+all over the place		到处	
+all over the world		全世界	
+all ready		一切准备就绪	
+all right		好	
+all right for you		算了吧	
+all risk policy		全损保险单	
+all set		一切准备就绪	
+all star game		全由一流选手参加的比赛	
+all such		所有这一类人	
+all that		那么...	
+all the		越发	
+all the better		更好	
+all the day		整天地	
+all the go		非常流行	
+all the more		更加	
+all the same		仍然	
+all the time		始终	
+all the way		从远道	
+all the while		一直	
+all the world		一切	
+all the world to		对…来说比什么都重要	
+all the year around		一年到头	
+all the year through		整年	
+all there		头脑清醒	
+all this		所有这一切	
+all through		一直	
+all time		全部时间的	
+all to nothing		百分之百的	
+all together		一起	
+all too		太	
+all too soon		太早	
+all up		无望	
+all well		一切安好	
+all well and good		也好	
+all year long		终年	
+allow for		虑及	
+allow full play to		使充分活动	
+allow in		准许进入	
+allow me		让我来	
+allow of		容许	
+along about		将近…	
+along of		因为	
+along on		因为	
+along with		与…一道	
+always on top		总在最上面；总在最上面	
+always suggest		总是建议	
+american football	n	美式足球	
+american language		美国语言	
+american law		美国法	
+american party		美国的一无所知党（等于Know-Nothing Party）	
+american plan		美国式劳资交涉法	
+american sign language		美语手语	
+american state		美国州	
+american system		美制	
+american thus		美国松脂	
+amino acid	n	氨基酸	
+among class		级间	
+among others		其中包括	
+among the rest		在其中	
+among them		其中包括	
+amount at interest		生息金额	
+amount in force		有效金额	
+amount of information		信息量	
+amount of loss		损失额	
+amount of money		金额	
+amount share		股本额	
+amount to		等于	
+amount to much		有了不起	
+amount to something		成器	
+and all		连同其他一切	
+and all that		诸如此类	
+and everything		等等	
+and his like		及其同伙	
+and how		<美>非常	
+and interest		及利息	
+and others		以及其他等等	
+and so	adv	因此	
+and so on		等等	
+and such		等等	
+and that		而且	
+and the like		等等；依次类推	
+and then		于是	
+and then some		而且还远不止此	
+and thing		等等	
+and to mean it		说到做到	
+and what have you		诸如此类	
+and what not		诸如此类	
+and yet		可是	
+animal base		动物硷	
+animal black		兽炭黑；骨炭	
+animal disease		兽疫	
+animal economy		机体整体	
+animal food		动物性食物	
+animal foot		动物脚	
+animal force		肌力	
+animal group		动物类别	
+animal life		动物	
+animal material		动物材料	
+animal model		动物模型	
+animal nature	n	兽性；动物本性	
+animal oil		动物油	
+animal order		顺序	
+animal power		动物油	
+animal product		畜产品	
+animal size		动物胶	
+another and yet another		一个又一个	
+another day		改天	
+another place		另一个地方	
+answer back		顶嘴；应答	
+answer book		答卷	
+answer for		符合（…需要）	
+answer in kind		照样回敬	
+answer list		应答表	
+answer the phone		接电话	
+answer to		与…一致	
+answer up		迅速回答	
+answering machine		答录机	
+any amount of		任何数量的	
+any day		随便哪一天	
+any minute		随时	
+any more		再	
+any number		许多	
+any number of		许多	
+any old		任何一个	
+any old how		马马虎虎的	
+any the less		更少/更小一些	
+any time		在任何时候	
+any way		无论如何	
+anything but		单单除...之外	
+anything else	n	别的东西	
+anything like		像…的东西	
+anything of		一点儿	
+apart from		除了...之外	
+appear and stand		到庭候审	
+appear as		表现为	
+appear before a court		出庭	
+appear before the court		出庭	
+appear on the scene		登上舞台	
+appear to		似乎	
+appear to be		似乎有	
+approach a problem		研究一个问题	
+approach a subject		靠岸	
+approach light		起落灯	
+approach to		接近	
+area available for		有效加强面积	
+area data		区域数据	
+area effect		区域效应	
+area factor		区域因数	
+area name		域名	
+area of cut		切削面积	
+area of interest		有权益的地区	
+area of pressure		受压面积	
+area rule		面积法	
+area security table		区域保密表	
+area study		地区研究	
+area type		区域类型	
+argue a matter out	v	把事情辩个水落石出	
+argue about		争论…	
+argue against		反对	
+argue away		把...辩解过去	
+argue for		支持	
+argue out		把…辩论清楚	
+argue over		争论…	
+argue with		和…辩论	
+arm center		臂运动中枢	
+arm in arm		臂挽臂	
+arm of couple		力偶臂	
+arm of force		力臂	
+arm of law		法律的爪牙	
+arm of the law		法律的权力	
+arm rest		臂靠	
+around the time of		在…前后	
+around the world		全世界	
+art and part		教唆及参与犯罪	
+art and part in		策划及参与	
+art class	n	美术课	
+art director		布景师	
+art form		艺术形式（尤指文学	
+art history		艺术史	
+art movement		艺术运动	
+art paper		加工印刷纸	
+art school		美术学校	
+art show		美术展览	
+art student		艺术类学生	
+art teacher		美术教师；艺术老师	
+art up		给…以艺术修饰	
+artificial intelligence		人工智能	
+as a body		作为一个整体	
+as a child		在童年	
+as a group		作为整体	
+as a last resource		作为最后一着	
+as a man		一致地	
+as a result		结果	
+as a result of		作为结果	
+as a rule		通常	
+as a whole		总体上	
+as against		与...相对照	
+as always		一如往常	
+as anything		象什么似的	
+as before		如以前	
+as best	n	石棉	
+as best one can		尽最大努力	
+as best one may		尽最大努力	
+as big as life		与原物一样大	
+as black as night		漆黑	
+as clear as day		一清二楚的	
+as early as		早在…	
+as early as possible	adv	尽快地	
+as ever		依旧	
+as far as		远到	
+as far as possible		尽可能	
+as follow		如下	
+as for		至于	
+as for me		对我来说	
+as for myself		至于我自己	
+as from		从...时起	
+as good as		和...几乎一样	
+as good as dead		和死了一般	
+as happy as large		和云雀一样快乐	
+as how		＝ that	
+as if		好像	
+as if as		至于	
+as it happen		碰巧	
+as it may chance		要看当时情况	
+as large as life		与原物一样大小	
+as like as not		大概	
+as likely as not		很可能	
+as long as		只要...	
+as low as possible		尽可能低	
+as many		一样多	
+as many again		再同样多	
+as many again as		是…的两倍	
+as many as		和...一样多	
+as much		同样多少	
+as much again		两倍	
+as much as		尽...那样多	
+as much as possible		尽可能	
+as near as		接近	
+as of		在…时候	
+as of old		依旧	
+as of right		依法当然取得的	
+as often as		每当	
+as often as not		往往	
+as one		一致的	
+as one man		一致地	
+as people go		照一般人讲	
+as per		根据	
+as quickly as possible	adv	尽快地	
+as security		作为抵押	
+as soon as		一...就	
+as soon as maybe		尽可能快地	
+as soon as not		再也乐意不过地	
+as soon as possible		尽快	
+as still as death		死一般的寂静	
+as still as still		鸦雀无声	
+as such		照比	
+as sure as		肯定无疑	
+as sure as death		的的确确	
+as thing stand		照目前情况	
+as though		好像	
+as thus		像这样	
+as to		根据	
+as we say		正如我们所说的	
+as well		也	
+as well as		也	
+as well if		做...较好	
+as who		像是…的人	
+as who should say		可以这样说	
+as with		如同…的情形一样	
+as yet		至今仍	
+as you know		如你所知	
+aside from		除...以外	
+ask about		打听	
+ask after		探问	
+ask around		到处打听	
+ask for		请求	
+ask for a raise		要求加薪	
+ask for help		求援	
+ask for it		自讨苦吃	
+ask for leave		请假	
+ask for the floor		要求发言	
+ask in		请（某人）进来	
+ask off		请假	
+ask out		请（某人）外出	
+ask over		请（某人）来自己家	
+ask the way	v	问路	
+asking price		要价	
+assembly line		装配线；装配线	
+associated with		与…有关系	
+at a cost of		以…的价格	
+at a loss		困惑	
+at a low price		廉价	
+at a price		以很高代价	
+at a price of		以…的价格	
+at a push		紧急时	
+at a rate of		以…的速度	
+at a run		跑着	
+at a stand		在停顿中	
+at a time		每次	
+at a word		立即	
+at all		根本	
+at all cost		不惜任何代价	
+at all event		不管怎样	
+at all hour		在任何时间	
+at all time		总是	
+at any cost		无论如何	
+at any moment		随时	
+at any price		无论如何	
+at any rate		无论如何	
+at any risk		无论冒什么危险	
+at any time		任何时候	
+at best		最多	
+at call		遂时偿付	
+at choice		供任选	
+at cost		按成本	
+at current price		按当时价格	
+at cut		AT截法	
+at each change in		AT系统时钟	
+at every turn		事事	
+at first		起先	
+at first hand		直接地	
+at first thought		初一想	
+at first view		初看	
+at full value		按总价值	
+at great cost to		耗费…很大的代价	
+at hand		在手边	
+at heart		在内心里	
+at home		在家	
+at issue		在争论中；在争论中	
+at it		在忙碌	
+at large		未被捕；未被捕的	
+at last		终于	
+at law		依法	
+at least		至少；至少	
+at long last		终于	
+at love		【网球】未丢一分地	
+at low water		低潮	
+at make		在接通位置上	
+at market		市价法	
+at most		至多	
+at need		紧急时	
+at night		在晚上	
+at no		原子序数	
+at no period		从来没有	
+at no time		决不	
+at once		立刻	
+at one		融恰	
+at one go		一举	
+at one time		同时	
+at or better		在...或更好的价格	
+at play		在玩耍	
+at question		有问题	
+at rest		安眠	
+at risk		在危险中	
+at school		在学校	
+at second hand		间接听到	
+at sign		单价（商用符号）	
+at some point		在某一时刻	
+at source		在源头	
+at table		在餐桌边	
+at term		到期	
+at that		就那样	
+at that place		彼地	
+at that rate		那样的话	
+at that time		在那时	
+at the age of		在…年龄的时候	
+at the approach of		在…接近时	
+at the base of		在…的基部	
+at the best		至多	
+at the close		最后价格	
+at the close of		在…结束时	
+at the cost of		以...为代价	
+at the end		在…的末尾	
+at the end of		在…末尾	
+at the fall of		在…降临时	
+at the first face		乍一看	
+at the foot of		在…的脚下	
+at the full		在充满的时候	
+at the head of		在...的最前面	
+at the last minute		在最后一分钟	
+at the least		至少	
+at the level of		在…一级	
+at the market		照市价；照市价	
+at the moment		此刻	
+at the most		至多	
+at the national level		在国家一级	
+at the point of		靠近	
+at the price of		以…价格	
+at the ready		可立即使用的：立即可以投入使用的	
+at the risk of		冒...的危险	
+at the risk to		冒…危险	
+at the same time		同时	
+at the scene of		在…现场	
+at the side of		在…旁边	
+at the sound of		一听到…的声音	
+at the start		开始	
+at the thought of		一想起	
+at the time		当时	
+at the time of		在...的时候	
+at the top of		在…顶部	
+at the very least		至少	
+at the very moment		恰恰在那个时刻	
+at the very start		一开始	
+at this		一听到这话	
+at this moment		在这个瞬间	
+at this point		此时	
+at this rate		这样的话	
+at time	adv	偶而	
+at war		在交战状态中	
+at war with		与…不和	
+at what time		在什么时候	
+at while		有时	
+at will		随意	
+at work		在工作	
+at work on		从事于	
+at work upon		从事于	
+at your service		听候吩咐	
+attention line		注意线	
+attention program		引起注意程序	
+attention rule		引起注意规则	
+attorney general		首席检察官	
+author language		编辑语言	
+available energy		有效能；有效能	
+available from stock		仓库中有现货	
+available head		可用落差	
+available line		有效扫描行	
+available plant food		有效植物养料	
+available point		可用点	
+available power		可用功率	
+available rate		可用率	
+available resource		可用资源	
+available space		可用空间	
+available space list		可用空间列表	
+available space table		可用空间表	
+available time		可用时间	
+available work		可用功	
+away back		很久以前	
+away from		离开	
+away from the market		不照市价；不照市价	
+away from the point		离题	
+away game	n	客场比赛	
+away with		取掉	

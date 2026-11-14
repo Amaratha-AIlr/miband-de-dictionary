@@ -1,0 +1,891 @@
+call a meeting		召开会议	
+call about		来打听…	
+call after		追在...的后面叫喊	
+call at		停靠	
+call attention		引起注意	
+call attention to		引起对…的注意	
+call away		叫走	
+call back		叫回来	
+call black into white		诡辩	
+call black white		指黑为白	
+call book		催缴股款簿	
+call boy		仆役	
+call by		顺路拜访	
+call by name		代入名	
+call by result		结果调用	
+call by value		赋值	
+call center		呼叫中心	
+call control character		呼叫控制字符	
+call day		准许执行律师业务日	
+call down		叫...下来	
+call fire		请求射击	
+call for		叫来	
+call girl	n	应召女郎	
+call hour		呼叫小时	
+call house	n	应召女郎连络处	
+call in		召集；叫入	
+call in question		提出异议	
+call into question		对…表示怀疑	
+call it a day		收工	
+call letter		信号	
+call list		调用表	
+call market		短期同行拆放市场	
+call money		活期借款；活期借款	
+call name		呼叫名称	
+call night		唱名之夜	
+call number		图书编目号码；呼叫号码	
+call of the house		开会通知	
+call off		叫走	
+call on		号召	
+call out		召唤...行动	
+call over		点名	
+call pay		待派工资	
+call price		赎回价格	
+call program		调用程序	
+call rate		通知贷款利率	
+call sign		调用符号	
+call the turn		言中	
+call time		（裁判员）宣布时间已到	
+call to order		叫遵守议事规程	
+call to say		打电话来说…	
+call together		召集	
+call up		召集	
+call upon		号召	
+call white black		颠倒黑白	
+call word		调用字	
+campaign for		竞选…	
+can but		只能	
+can do with		需要	
+can make nothing of		完全不明白...	
+can not help		不得不	
+can take it		能经受得住	
+can top		油听盖	
+can you tell me		你能告诉我吗	
+capital punishment		死刑	
+car body		车身	
+car care		汽车护理	
+car company		汽车公司	
+car computer		汽车用计算机	
+car door		车门	
+car oil		车油	
+car park	n	停车场	
+car part		汽车零件；汽车部件	
+car phone	n	汽车电话	
+car race		汽车比赛	
+car tax		车辆税	
+car window		车窗	
+carbon dioxide		二氧化碳；二氧化碳	
+carbon monoxide		一氧化碳；一氧化碳	
+care about		担心	
+care for		喜欢	
+care home	n	（为有特殊需要人群设立的）护理中心	
+care less	adj/n	粗心的；人名	
+care nothing for		不以为意	
+care of		由...转交；转交	
+care worker	n	（护理中心等的）护理工	
+career about		勐冲	
+career break	n	事业中断	
+career girl		<贬>职业妇女	
+career man	n	专业人员	
+career office		职业介绍所	
+career plan		终身职业计划	
+career service		职业性工作人员	
+career woman		职业妇女	
+carry all before one		势如破竹	
+carry along		说服	
+carry away		运走	
+carry back		运回	
+carry down		结转	
+carry everything before it	v	势如破竹	
+carry everything before one		势如破竹	
+carry interest		附加利息	
+carry into effect		实行；实行	
+carry it		获胜	
+carry nation		携带国家	
+carry number		进位数	
+carry off		夺去...的生命；带走	
+carry on		继续开展；继续发展下去	
+carry on business		营业	
+carry on with		与...调情	
+carry out		进行；进行	
+carry out a project		执行计划	
+carry out a test		进行一次试验	
+carry out the law		执法	
+carry over		继续；带出	
+carry over rate		转期利率	
+carry over stock		结转库存量	
+carry set		进位组	
+carry the baby		受束缚	
+carry the can		代人受过	
+carry the cause		胜诉	
+carry the day		得胜；打胜仗	
+carry the house		博得满堂喝采	
+carry through		实现；进行	
+carry time		进位时间	
+carry to		入帐	
+carry to term		生育	
+carry with one		记得	
+case at law		法律案件	
+case by case	n	具体问题具体分析	
+case history		病历；病历	
+case in point		例证	
+case law		判例法	
+case of need		需要时的代理	
+case officer		案件负责人	
+case rate		患病率	
+case report		病案报告	
+case study		实例研究；案例研究	
+case system		格系统；病案教学制	
+cash flow		现金流转；现金流	
+cast iron		铸铁；铸铁	
+caster sugar	n	细白砂糖	
+catch as catch can		用一切办法	
+catch at		试图抓住	
+catch fire		着火着火	
+catch hold of		抓住	
+catch it		受责	
+catch on		变得流行	
+catch on fire		着火燃烧	
+catch on to		理解	
+catch out		<非正>揭露	
+catch the attention of		引起…的注意	
+catch up		把...很快拾起；抓取程序	
+catch up on		补做	
+catch up with		赶上	
+catch water		汽水分离器	
+cause and effect		原因与结果	
+cause and effect relationship		因果关系	
+cause book		诉讼登记册	
+cause concern		引起担忧	
+cause list		最高法院诉讼案排列表	
+cause of action		案由	
+cause of death		死因	
+center across		跨列居中	
+center around		集中围绕	
+center back	n	排球队或手球队站在后排中间的后卫	
+center cost		成本中心	
+center field		中外野	
+center half	n	排球队或手球队站在后排中间的后卫	
+center job		中心作业	
+center line		中心线	
+center of attention		关注的中心；众人瞩目的焦点	
+center of force		力心	
+center of moment		矩心	
+center of pressure		压力中心	
+center on		以…为中心	
+center on page		居中	
+center part		中分	
+center rest		中心扶架	
+center system		中央系统	
+center to center		中心到中心	
+center to end		中心到端面	
+center to face		中心到表面	
+center tree		中心树	
+central administration		中央行政	
+central air data computer		中央航空数据计算机	
+central american		中美洲的	
+central american country		中美洲国家	
+central american nation		中美洲国家	
+central bank		中央银行；中央银行	
+central body		中心体	
+central city		中心城市	
+central computer		中央计算机	
+central computer system		中央计算机系统	
+central control		集中控制	
+central control room		中央控制室	
+central data base		中央数据库	
+central drive		中轴传动法	
+central energy system		能量集中制	
+central field		有心力场	
+central force		有心力	
+central government	n	中央政府	
+central heating		集中采暖	
+central line		中心线	
+central mean		中心均值	
+central moment		中心矩	
+central office		中央局；中央机构	
+central point		中心点	
+central rate		中心汇率	
+central system		中央系统	
+central tax		国税	
+central time	n	中央标准时间（用于美国和加拿大中部）	
+central value		代表值	
+central well down take		中心降液管	
+century plant		龙舌兰纤维	
+certainly not		不	
+chain reaction		连锁反应；链反应	
+chamber of commerce	n	商会	
+chance event		机遇事件	
+chance factor		偶然因素	
+chance it		碰碰运气看	
+chance on		偶然发现	
+chance upon		偶然发现	
+change about		见异思迁	
+change all		全部更改	
+change back		恢复到原来的样子、特性等	
+change color		变色；改变颜色	
+change course		改变航向	
+change down		放慢车速	
+change foot		换步	
+change for		交换	
+change for the better		改进	
+change form		更改表格	
+change from		变化	
+change fund		找零备用金	
+change in size		尺寸变化	
+change into		变成	
+change note		换钱	
+change of air		换气	
+change of base		基期变换	
+change of character		性格变换	
+change of color		变色现象	
+change of control		控制变更	
+change of course		航线改变	
+change of heart		变心	
+change of life	n	经绝；绝经	
+change of mind		转变	
+change of name		更换姓名	
+change of plan		计划变动	
+change of state		物态变化	
+change of voice		变嗓者	
+change off		<美>换班	
+change over		（使）改变	
+change place		换位置	
+change record		变更记录	
+change sign		变更符号	
+change state		改变状态	
+change step		换步	
+change the subject		改变话题	
+change to		变成	
+change up		加快车速	
+change with		随…变化而变化	
+character at a time		每次传送一个字符；每次传送一个字符	
+character data		字符数据	
+character data line		字符数据行	
+character data type		字母资料类	
+character evidence		品格证据	
+character fill		字符填充	
+character of service		使用性能	
+character per second		每秒钟字符数	
+character set		字符集；字符集	
+character size		字符长度	
+character source		字符源	
+character space		字符间隔	
+character store		字符存储	
+character tree		字符树	
+character type		字符类型	
+chat show	n	（电视或广播电台的）访谈节目	
+chief constable		（英国）郡警察局长	
+chief justice		首席法官	
+chief of staff		参谋长	
+child bed		分娩	
+child benefit	n	（英国的）儿童津贴	
+child care		儿童保育	
+child care center		幼儿园	
+child health		儿童卫生	
+child of nature		天之骄子	
+child support	n	（子女）抚养费	
+child wife		年轻的妻子	
+choice law		法律的选择	
+choice lot		入选的货色	
+choice of law		法律的选择	
+choose from		选择	
+choose to		喜欢	
+choose up		<口>（临时性非正式比赛中）选定对阵双方的球员	
+christmas card		圣诞卡	
+christmas eve		圣诞节前夕	
+christmas tree		圣诞树	
+church building		教堂	
+church father		教父	
+church law		寺院法	
+church member		教会会员	
+church music		教会音乐	
+church officer		教会官员	
+church school	n	教会学校	
+church service		礼拜仪式	
+church year		教会年历	
+city bank		城市银行	
+city boy		城市男孩	
+city center		市中心	
+city court		城市法院	
+city father		市政府的主要成员	
+city hall		市政厅；市政厅	
+city health		城市卫生	
+city health administration		城市卫生行政	
+city life	n	城市生活	
+city line		城市线	
+city man	n	<英>实业家	
+city of light	n	巴黎（法国首都）	
+city room		本市新闻编辑人员	
+city state		城邦国家	
+city view		城市景观	
+civil defence	n	（主指防空的）民间防卫（组织）	
+civil servant	n	文职人员	
+civil service		文职部门；文职	
+civil war		内战；内战	
+class action		集体诉讼	
+class character		阶级本性	
+class condition		类别条件	
+class cost system		分类成本制度	
+class director		级任导师	
+class i cover		第一类保险	
+class list	n	优等生名单	
+class name		分类名	
+class number		分类号	
+class of character		字符类	
+class of risk		危险类别	
+class of service		服务级	
+class period		课时	
+class price		等级价格	
+class rate		分级费类	
+class right		阶级权利	
+class test		分类测试	
+class test table		分类测试表	
+class war		阶级斗争	
+clear all		全部清除	
+clear area		清洁区	
+clear as day		一清二楚的	
+clear away		清除	
+clear both		清除数据及格式	
+clear character		空白符号	
+clear data		清除数据；清除数据	
+clear evidence		明显的证据	
+clear hold		空货舱	
+clear in		办理海关进口手续	
+clear land		清除地面树木杂草	
+clear list		清除表	
+clear of		畅通的	
+clear off		清除；清偿	
+clear out		离开；办理海关出口手续	
+clear point		澄清点	
+clear program		清除程序	
+clear side	n	船舶在水面上的部分	
+clear space		净空	
+clear the air		使空气清新	
+clear the court		清理法庭	
+clear the land		驶离陆地	
+clear the way		排除障碍	
+clear the way for		为…扫清道路	
+clear to send		清除发送	
+clear up		整理	
+close a case		销案	
+close a well in		关井停产	
+close about		围住	
+close all		关闭所有文件	
+close at hand	adv	就在眼前	
+close behind		紧跟在…的后面	
+close by		在附近	
+close call		死里逃生	
+close door		歇业	
+close down		关闭	
+close friend		密友	
+close in		包围	
+close in on		包围	
+close market		歇市	
+close near on		接近	
+close off		隔绝	
+close on		接近	
+close order		（军队等）密集队形	
+close out		抛售；卖完	
+close over		淹没	
+close program		闭型程序	
+close season		禁猎季节	
+close set		传近网球	
+close support		密接支援	
+close the door on		拒之门外	
+close to		接近于	
+close to home		中肯	
+close together		比	
+close up		靠拢	
+close upon		包围	
+close with		靠近	
+coal mine		煤矿；煤矿	
+code of conduct		行动守则	
+code of practice	n	业务法规	
+coffee shop		咖啡店	
+coffee table	n	（常置于沙发前的）矮茶几	
+cold war		冷战；冷战	
+college board		大学委员会	
+college boy		男大学生	
+college girl		女大学生	
+college level		大学水平；大学程度	
+college man		大学生	
+college student		大学生	
+college try		全力	
+color base		发色母体	
+color center		色心；色觉中枢	
+color control		色度控制	
+color difference		色差	
+color effect		色效应	
+color film		彩色胶片	
+color force		【物理学】色力	
+color former		成色剂	
+color image		色像	
+color in		填色	
+color light system		色灯制	
+color line		种族界限	
+color name		色名	
+color number		色数	
+color of law		颜色法	
+color picture		彩色图	
+color response		光谱敏感性	
+color sense		色觉	
+color test		颜色试验	
+color throw		色移	
+color tv	n	彩电；彩色电视	
+come a long way		远道而来	
+come about		发生	
+come across		偶遇	
+come after		跟在...后面	
+come again		请再说一遍	
+come along		出现；伸线器	
+come along with		随同	
+come and go		来来往往	
+come around		来	
+come around to		转而接受	
+come at		袭击	
+come away		脱开	
+come back		回来	
+come back home	v	回家	
+come before		发生于...之前	
+come between		在...中间	
+come by		从旁边走过	
+come close		几乎要	
+come down		下来	
+come down on		惩罚	
+come down to		流传下来	
+come down with		被传染上	
+come first		名列第一	
+come for		来接	
+come from		来自	
+come here	v	来这里	
+come high		售价高	
+come home		回家	
+come home to		使感动	
+come in		进来；利润	
+come in for		遭到	
+come in on		参加	
+come in view of		看尽	
+come in with		参加	
+come into		得到；继承	
+come into effect		开始生效；生效	
+come into focus		进入焦点	
+come into force		开始有效；生效	
+come into full play		开始充分起作用	
+come into line		排齐	
+come into line with		採取与…一致的意见	
+come into play		开始活动	
+come into power		执政；执政	
+come into question		被讨论	
+come into season		上市	
+come into service		开始被使用	
+come into the market		上市	
+come into the open		公开说出	
+come into the picture		成为基本部分	
+come into the world		出生	
+come into use		开始被使用	
+come into view		进入视野	
+come into wear		流行开来	
+come it		成功	
+come it over		趾高气扬	
+come it strong		做得过分	
+come near		几乎	
+come new to		对…来说不熟悉	
+come of		出身于	
+come of age		到法定年龄；成年	
+come off		发生	
+come off it		不胡诌	
+come off second best		输掉	
+come on		偶遇	
+come on strong		给人以强烈印象	
+come on the scene		到场	
+come out		到边远地区来	
+come out against		反对	
+come out first		得第一名	
+come out in		出	
+come out of		由...产生	
+come out of that		走开!	
+come out on top		获胜	
+come out strong		以坚决的姿态发言	
+come out top		名列前茅	
+come out with		发表	
+come over		过来；馏出	
+come right		变得正确	
+come short		缺乏	
+come through		经历...仍活着	
+come to		谈到	
+come to a close		结束	
+come to a decision		作出决定	
+come to a head		出脓	
+come to a period		结束	
+come to a point		变尖	
+come to a stand		陷于停顿	
+come to a stop		停止	
+come to attention		立正	
+come to good		有好结果	
+come to hand		到手	
+come to life		苏醒	
+come to light		暴露	
+come to little		没有什么结果	
+come to mind		想起来了	
+come to no good		没有好结果	
+come to nothing		终未实现	
+come to pass		发生	
+come to power		上台	
+come to rest		停止移动	
+come to sense		苏醒过来	
+come to stay		得到公众的承认	
+come to the ground		失败	
+come to the point		变尖锐	
+come to the top		出名	
+come to time		履行义务	
+come to town		到城里	
+come together		聚会	
+come true		实现	
+come under		归入	
+come under fire		遭到射击	
+come up		走上前来；按照指标达到质量标准	
+come up against		突然碰到	
+come up to		达到	
+come up with		赶上	
+come upon		偶遇	
+come what may		不管如何	
+come what will		无论如何	
+come with		伴随…发生	
+come within		在...范围内	
+come wrong		不受欢迎	
+comic book	n	连环漫画册	
+commercial bank		商业银行；商业银行	
+common action		普通诉讼	
+common approach		通用的方法	
+common area		公用区	
+common bed		公用底座	
+common cost		共同成本联合成本	
+common court		普通法院	
+common difference		公差	
+common factor		公因子	
+common field		公用区	
+common form		普通表格	
+common good		共同的利益	
+common ground		共同基础；共同点	
+common interest		共同利益	
+common land		公地	
+common language		公用语言；通用文字	
+common language family		通用语言系列	
+common law		习惯法	
+common law action		普通法诉讼	
+common law system		普通法体系	
+common letter system		普通书信法	
+common man	n	平民	
+common market		西欧共同市场；共同市场	
+common name		常用名	
+common national language		民族共同语言	
+common people	n	平民	
+common person		普通人	
+common police		普通警察	
+common practice		风尚	
+common program		公用程序	
+common resource		共用资源	
+common return		共同归路	
+common right		普通权利	
+common room		公共休息室	
+common school		公立学校	
+common sense		常识	
+common service area		公用服务区	
+common share		普通股	
+common staff cost		一般人事费用	
+common state		公用状态	
+common stock		普通股；普通股	
+common time	n	普通拍子	
+common to		共同的	
+common will		共同意志	
+common woman		公娼	
+common year	n	普通年	
+community care		社区护理	
+community center		社区活动中心	
+community college	n	社区学院	
+community economy		共有经济	
+community home		公共教养院	
+community law		共同体法	
+community model		共同体模型	
+community of interest		共同利益	
+community of stock		联股	
+community school		社区学校	
+community service	n	感化	
+community view		共同意向	
+compact disc	n	镭射碟；压缩盘	
+company car	n	公司汽车	
+company image		公司商誉	
+company law		公司法	
+company man	n	公司人（指忠于公司资产胜于同事的雇员）	
+company name		公司名称	
+company officer	n	尉官	
+company policy		公司政策	
+company town		企业生活区	
+computer business		电脑业务	
+computer center		电脑中心	
+computer class		电脑课	
+computer control		计算机控制；计算机控制	
+computer control language		计算机控制语言	
+computer control state		计算机控制状态	
+computer control system		计算机控制系统	
+computer data base		计算机数据库	
+computer data base organization		计算机数据库组织	
+computer field		计算机字段	
+computer game		计算机博弈	
+computer hospital care		计算机医院监护	
+computer industry		计算机产业	
+computer language		计算机语言；电脑语言	
+computer name		计算机名	
+computer organization		计算机组织	
+computer paper		计算机用纸	
+computer power		计算能力	
+computer process control		计算机程序控制	
+computer program		计算机程序	
+computer project		计算机规划	
+computer resource		计算机资源	
+computer room		计算机机房；计算机室	
+computer run		计算机运行	
+computer security		电脑安全	
+computer store		存储器	
+computer system		计算机系统	
+computer technology		电脑技术	
+computer time		计算机时间	
+computer type		计算机类型	
+computer word		计算机字	
+concentration camp	n	集中营	
+concern about		使（自己）关心…	
+concern for		为…担心	
+concern over		对…的忧虑	
+concern with		使关心	
+condition event system		条件事件系统	
+condition field		条件字段	
+condition list		条件表	
+condition name		条件名	
+condition name condition		条件名条件	
+condition number		性态数	
+condition of service		服务条件	
+condition value		条件值	
+conservative party	n	保守党	
+consider and decide		裁断	
+consist of		由...组成	
+constituent assembly	n	制定或修改宪法的国民代表大会	
+contact lens	n	接触镜	
+continue with		继续进行着	
+control ability		控制能力	
+control action		控制作用	
+control animal		对照动物	
+control area		控制区	
+control board		控制盘	
+control break		控制改变	
+control break level		控制改变级	
+control building		调度室	
+control center	n	控制中心	
+control change		控制变换	
+control character		控制字符	
+control computer		控制用计算机	
+control condition		控制条件	
+control control program		控制程序	
+control data		控制数据	
+control data name		控制数据名	
+control field		控制场	
+control group		控制栏	
+control information		控制信息	
+control language		控制语言	
+control law		控制律	
+control line		控制线	
+control number		控制号	
+control of organization		组织的管理	
+control of price		控制价格	
+control on		对…的控制	
+control period		控制时期	
+control point		控制点；控制点	
+control power		控制权	
+control price		管制的物价	
+control program		控制程序	
+control record		控制记录	
+control relationship		控制关系式	
+control response		控制响应	
+control room		操纵室	
+control set		控制集	
+control state		管理状态	
+control stock		控制股票	
+control system		控制系统	
+control test		对照试验	
+control word		控制字	
+cost approach		成本计算法	
+cost behavior		成本特性	
+cost center		成本中心	
+cost control		成本控制；控制	
+cost data		成本数据	
+cost down		降价	
+cost for control		成本控制	
+cost free		免费赠送	
+cost in business		企业成本	
+cost increase		成本增加	
+cost information		成本信息	
+cost of development		开发费用；开发成本	
+cost of floor space		占用土地面积成本	
+cost of living	n	生活费	
+cost of material		原料成本	
+cost of money		借款利息	
+cost of price		原价	
+cost of service		服务成本	
+cost or market		成本或市价	
+cost performance		性能价格比	
+cost period		成本计算期	
+cost price		原价	
+cost rate		成本率	
+cost report		成本报告	
+cost system		成本制度	
+cost to cost		成本比例法	
+cost value		成本价值	
+cotton wool		原棉；脱脂棉	
+council tax	n	（英国的）家庭税	
+country bank		乡镇银行	
+country doctor		乡村医生	
+country house		别墅	
+country life		乡村生活	
+country music	n	乡村音乐	
+country note		地方银行发行的纸币	
+country people		乡下人	
+country road		乡村之路	
+country store		乡村杂货店	
+county council	n	郡议会	
+couple action		电偶作用	
+couple in		耦合	
+couple on		结合到	
+couple up		把…耦联起来	
+couple with		与…连接在一起	
+course data		航向数据	
+course development system		课程开发系统	
+course line computer		航线计算机	
+course of action		行动方针	
+course of disease		病程	
+course of nation		自然的趋势	
+course of performance		履属约过程	
+course of study		研究课程	
+course of treatment		疗程	
+court case		诉讼案件	
+court day		开庭日	
+court game		球类项目	
+court house		法院	
+court of appeal		上诉法庭	
+court of common law		普通法法庭	
+court of law	n	法院	
+court of record		记录法庭	
+court order		法庭秩序	
+court party		执政党	
+court record		法院记录	
+cover die		定模	
+cover for		代替	
+cover girl	n	（杂志的）封面女郎	
+cover ground		走完一段路程	
+cover head		顶封头	
+cover in		封盖	
+cover into		缴回	
+cover letter		（附于包裹或另一信件中作为说明或附言的）附函	
+cover note		承保通知书	
+cover over		遮没	
+cover page		覆盖页面	
+cover paper		书面纸	
+cover story	n	封面故事	
+cover the ground	v	旅行	
+cover the position		补进	
+cover up		掩盖	
+cover up for		包庇	
+cover version	n	翻唱版本	
+cover with		覆盖	
+create name		指定名称	
+create system call		生成系统调用	
+credit card		信用卡；信用卡片	
+credit rating		客户信贷分类；信用程度	
+crown court	n	英国刑事法庭	
+crown prince	n	皇太子	
+crude oil		原油；原油	
+cruise missile	n	巡航导弹	
+crystal clear		完全透明的	
+culture media		培养基	
+cup tie		优胜杯决赛	
+current account		往来帐户；经常帐	
+current business year		本营业年度	
+current cost		现在成本	
+current cost control		现时成本控制	
+current drive		当前驱动器；当前驱动器	
+current fund		流动基金	
+current information		现行信息	
+current interest		本期利息	
+current line point		当前行指示字	
+current market price		当时市价	
+current market value		现行市价	
+current money		通货	
+current of air		气流；通风	
+current page		当前页；当前页	
+current paper		近期论文	
+current period		本期	
+current price		时价	
+current price on market		行市	
+current rate		当日汇率	
+current record		当前记录	
+current return		本期报酬率	
+current situation		时势	
+current source		电源	
+current state		现行状态	
+current step		电流阶跃	
+current tax		本期税捐	
+current time		实时	
+current time period		本期	
+current type		当前类型；当前类型	
+current value		当前值；现值	
+current year		本年度	
+cut a figure		崭露头角	
+cut a loss		赶紧脱手以免多受损失	
+cut a poor figure		显的可怜	
+cut about		乱砍	
+cut across		抄近路通过	
+cut after		急忙跟随	
+cut and come again		请尽量吃	
+cut and run		急忙逃走	
+cut and try system		试行型系统	
+cut at		猛砍	
+cut away		切掉	
+cut back		修剪	
+cut back on		削减	
+cut down		砍倒；切断作业	
+cut down on		减少	
+cut down the price		减价	
+cut down to size		使有自知之明	
+cut form		切割纸	
+cut goal		删节目标	
+cut house		分类专业小组	
+cut in		插嘴；加入	
+cut in line		超车	
+cut in on		打断	
+cut into		打断	
+cut it		办成事	
+cut it fine		扣得紧	
+cut it out		停止	
+cut no figure		无足轻重	
+cut off		切掉；切断	
+cut oil		乳化油	
+cut on		很快向前走	
+cut open test		切开试验	
+cut out		切掉；切断	
+cut out for		生来就合适	
+cut out to be		天生适合	
+cut over		采伐	
+cut point		分馏界限	
+cut price		削价	
+cut rate		折扣	
+cut school	v	旷课	
+cut set		割集	
+cut short		打断	
+cut through		抄近路走过	
+cut time		二二拍子	
+cut to		将…减少到	
+cut tree		分割树	
+cut under		卖得比...便宜	
+cut up		切碎	
+cut up well		留下大笔遗产	
+cutting edge	n	尖端	
+cystic fibrosis	n	囊性纤维化（属遗传性胰腺病）	

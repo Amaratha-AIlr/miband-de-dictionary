@@ -1,0 +1,92 @@
+habit	n/vt	习惯；使穿衣	
+habitat	n	栖息地；习生地	
+hair	n	头发；毛	
+half	n/adj/adv	一半；一半的；一半地	hahf
+hall	n	门厅	hawl
+hand	n/vt	手；交给	
+handful	n	少数	
+handle	n/vt/vi	柄；触摸；搬运	handl
+hang	n/vt/vi	悬挂；悬挂；悬着	
+happen	vi	发生	ha'-puhn
+happy	adj	快乐的	ha'-pi
+hard	adj/adv	坚硬的；坚硬地	hahd
+hardly	adv	刚刚	hahd'-li
+hat	n/vt	帽子；给...戴帽子	
+hate	n/vt/vi	憎恨；憎恨；仇恨	hayt
+have	vt/aux	有；已经	hav
+he	pron/n	他；男孩	hee
+head	n/vt/vi	头；为首；朝特定方向行进	hed
+headline	n/vt	大标题；为...做标题	hed'-lain
+headquarters	n	总部；本部	hed'kwaw-tuhz
+health	n	健康；健康	helth
+healthy	adj	健康的；健康的	hel'-thi
+hear	vt/vi	听到；听见	hi-uhr
+hearing	n	听；听	hi'-uh-ring
+heart	n/vt	心；鼓励	haht
+heat	n/vi/vt	热；加热；把...加热	heet
+heaven	n	天堂	hevn
+heavily	adv	很重地	he'-vi-li
+heavy	adj/adv/n	重的；沉重地；重物	he'-vi
+heel	n/vt/vi	脚后跟；尾随；紧随	
+height	n	高度；高度	hait
+helicopter	n/vt/vi	直升机；由直升机运送；乘直升机	he'-li-kop-tuhr
+hell	n/vi	地狱；狂饮	hel
+hello		interj. 喂	huh'loh
+help	n/vt/vi	帮忙；帮助；有用	
+helpful	adj	有帮助的	
+her	pron	她的	hur
+here	adv/n	在这里；这里	hi-uhr
+heritage	n	遗产；遗传性	he'-ri-tij
+hero	n	英雄	hi'-uh-roh
+herself	pron	她自己	hur'self
+hey		interj. 嗨	hay
+hi		interj. 喂	hai
+hide	n/vt/vi	兽皮；藏；躲藏	haid
+high	n/adj/adv	高度；高的；高度地	hai
+highlight	n/vt	加亮区；加亮；突出	hai'-lait
+highly	adv	非常；大大地	hai'-li
+highway	n	公路；公路	hai'-way
+hill	n/vt	小山；作成土堆	hil
+him	pron	他	
+himself	pron	他自己	
+hip	n/adj/vt	臀部；熟悉内情的；使忧郁	
+hire	n/vt/vi	租金；雇请；受雇	hai-uhr
+his	pron	他的；组氨酸	hiz
+historian	n	历史学家	hi'stor-i-uhn
+historic	adj	历史上著名的	hi'sto-rik
+historical	adj	历史的；历史性的	hi'sto-ri-kuhl
+history	n	历史；历史记录	his'-tuh-ri
+hit	n/vt/vi	打击；打；打	
+hold	n/vt/vi	把握；保存；支持	hohld
+hole	n/vt/vi	孔；挖洞；进洞	hohl
+holiday	n/vi	假日；度假	ho'-luh-di
+holy	adj/n	神圣的；神圣的东西	hoh'-li
+home	n/adj/adv	家；家庭的；在家	hohm
+homeless	adj	无家的	hohm'-lis
+honest	adj	诚实的	o'-nist
+honey	n/adj/vt	蜂蜜；蜂蜜似的；加蜜使甜	hu'-ni
+honor	n/vt	荣誉；尊敬	o'-nuhr
+hope	n/v	希望；希望	hohp
+horizon	n	地平线	huh'rai-zuhn
+horror	n	惊骇；恐怖	ho'-ruhr
+horse	n/vi/vt	马；骑马；使骑马	haws
+hospital	n	医院；医院	hos'-pi-tuhl
+host	n/vt	主人；当主人招待；主机	hohst
+hot	adj/adv	热的；热	
+hotel	n	旅馆	hoh'tel
+hour	n	小时	ow-uhr
+house	n/vt/vi	房子；给...房子住；住	hows
+household	n/adj	一家人；家庭的	hows'-hohld
+housing	n	遮盖；外壳	how'-sing
+how	adv/n	如何；方式	
+however	adv/conj	然而；然而	how'e-vuhr
+huge	adj	极大的	hyooj
+human	n/adj	人；人类的	hyoo'-muhn
+humor	n/vt	幽默；迎合	hyoo'-muhr
+hundred	n/num/adj	百；百；一百的	hund'-ruhd
+hungry	adj	饥饿的；欠鞣皮	hung'-gi
+hunter	n	猎人	hun'-tuhr
+hunting	n	狩猎；寻找平衡	
+hurt	n/v	伤害；伤害	
+husband	n/vt	丈夫；节俭	huz'-buhnd
+hypothesis	n	假设；假设	hai'po-thuh-sis

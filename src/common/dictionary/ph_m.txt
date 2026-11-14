@@ -1,0 +1,558 @@
+machine gun		机关枪	
+machine tool	n	机床	
+mad cow disease	n	狂牛病	
+magnetic field		磁场；磁场	
+mail order		邮购；邮购	
+main land		本土	
+main road		干道	
+main stream		干流	
+major book		主要帐簿	
+major break down		大事故	
+major company		大公司	
+major control break		主控制断路	
+major control change		主控改变	
+major control data		主控数据	
+major control field		主控字段	
+major face		主面	
+major factor		主要因素	
+major form class		（英语中的名词、动词、形容词、副词等）主要词类	
+major idea	n	主旨	
+major in		主修	
+major industry		大型工业	
+major issue		主要争论点	
+major movement		长期趋势	
+major order		较多序	
+major part		大半	
+major party		主要政党	
+major power		大国	
+major product		主要产品	
+major program		主要计划	
+major project		重点工程；主要方案	
+major service		大修	
+major state		主状态	
+major term		大词	
+major word		主字	
+make a bad start		开端坏	
+make a big find		作出重大发现	
+make a break of		连续得分	
+make a call		打电话	
+make a career	v	向上爬	
+make a career of		在…有所建树	
+make a change		对计划作一点更动	
+make a choice		挑选	
+make a deal with		与...做生意	
+make a decision		作决定	
+make a difference		有区别	
+make a difference between		区别对待；区别对待	
+make a drive		驾驶	
+make a face		做鬼脸	
+make a figure		崭露头角	
+make a fire		生火	
+make a go of		完成	
+make a good start		开端好	
+make a hit		获得成功	
+make a left at		在…向左拐	
+make a list of		把…列成一张表	
+make a long arm		伸臂	
+make a long face		拉下脸	
+make a market		制造兴旺假象；制造兴旺气象	
+make a market of		把...作为赚钱的机会	
+make a million		赚大钱	
+make a model		做榜样	
+make a move		走一步	
+make a movie of		把…摄制成电影	
+make a name		出名	
+make a note		作笔记	
+make a note of		记录	
+make a phone		打电话	
+make a place for		为…获得一席之地	
+make a play for		挖空心思吸引某人；想取得	
+make a point		立论	
+make a point clear		阐明观点	
+make a point of		强调	
+make a practice of		经常进行	
+make a price		开价	
+make a raise		筹款	
+make a raise of		收集到	
+make a reach for		伸手去拿…	
+make a record of		创造…的记录	
+make a report		作报告	
+make a return for		回报	
+make a return of		申报…	
+make a rise		掘到金矿脉	
+make a rule		制订规则	
+make a scene		当众大吵一场	
+make a sign		打手势	
+make a stand		站住	
+make a stand against		反对	
+make a stand for		坚决拥护	
+make a stay		作短暂逗留	
+make a stop		停下来	
+make a study of		对…加以研究	
+make a success of		使…成功	
+make a talk		制造口实	
+make a thing of		认为…不得了	
+make a try		尝试一下	
+make a turn		旋转	
+make a will		立遗嘱	
+make after		追随	
+make against		不利于	
+make all the difference		关系重大	
+make and break		接与断	
+make and break current		接及断电流	
+make as if		假装	
+make at		扑向	
+make away		逃走	
+make away with		带...而逃走；杀掉	
+make bed		铺床	
+make believe		假装；假装	
+make big		飞黄腾达	
+make book		打赌	
+make certain		确定	
+make change		改变	
+make choice of		选定	
+make clear		清楚表明	
+make common cause with		与...联合起来	
+make difference		关系重大	
+make do		将就着使用	
+make do with		设法应付	
+make do with something		将就过去	
+make down		改小；清算	
+make every effort		尽一切努力	
+make every effort to		竭尽全力…	
+make for		走向	
+make free		随意	
+make free of		随便使用	
+make free with		擅用	
+make friend again		言归于好	
+make friend with		与…交朋友	
+make from		由...制造	
+make full		充分	
+make full use of		充分利用...	
+make fun of		取笑	
+make game of		嘲弄	
+make good		成功；维持	
+make good time		进行得顺利	
+make great play with		过分强调	
+make grow		增长	
+make happy		使开心；使快乐；使幸福	
+make head		向前进	
+make head against		迎头击败	
+make history		做出永垂史册的事情	
+make in		向...进入	
+make into		把...制成...	
+make it		及时抵达	
+make it easy on		对…放大要求	
+make it up		和好	
+make land		看见陆地	
+make law		制定法律	
+make light of		轻视	
+make like		模仿	
+make little of		不重视	
+make love		做爱	
+make market of		把...作为赚钱的机会	
+make money		挣钱；赚钱	
+make much difference		要紧	
+make much of		重视；认为极重要	
+make music		奏乐	
+make news		成为新闻	
+make no difference		没有影响	
+make no question of		承认	
+make no response to		不答复	
+make no sense		毫无意义	
+make nothing of		弄不懂	
+make of		用...制造	
+make off		离开	
+make off with		带...而逃；偷	
+make one		参加	
+make or break		要么成功要么毁灭	
+make or buy decision		自制或购买决策	
+make out		书写；开出	
+make out of		用...制造	
+make over		转让；把转让	
+make pass		通过	
+make place for		让位于	
+make play		行动有效	
+make possible		使…变成可能	
+make public		公布	
+make ready		准备好	
+make ready time		生产准备时间	
+make room for		让机会/地位给...	
+make sense		有意义	
+make sense of		搞清...的意思	
+make short work of		迅速简便地完成/做某事	
+make some difference		有些影响	
+make something do		将就	
+make something of		利用	
+make sport of		嘲笑	
+make sure		确定	
+make sure of fact		确查事实	
+make sure that		查明	
+make talk		闲谈	
+make term		达成协议	
+make the bed		铺床	
+make the best of		充分利用	
+make the difference between		区别	
+make the land		看到陆地	
+make the most of		尽量利用	
+make the scene		露面	
+make through	n	使…通过使…度过	
+make through with		完成	
+make time		进行	
+make to order		定制	
+make up		弥补；弥补	
+make up a bed		临时搭起床铺	
+make up for		补偿	
+make up of		构成	
+make up time		补足工作时间	
+make up to		接近	
+make up with		与…和解	
+make use of		使用	
+make war		开战	
+make war on		对…发动战争	
+make war upon		向...开战	
+make water		小便	
+make way		前进	
+make way for		让路给	
+make with		作出	
+man and boy		从小到大	
+man and wife		丈夫和妻子	
+man date	n/vt	授权；授权	
+man day		人口	
+man hour		工时	
+man in the street	n	普通人	
+man minute		一个人一分钟的工作量	
+man month		一月人工	
+man of action		活动家；实干家	
+man of business		代理人	
+man of law		法律界人士	
+man of the world	n	饱经世故者	
+man power		人力	
+man up	v	（给矿业、农业等）补充人力	
+managing director	n	总经理	
+manor house	n	庄园主的住宅	
+many a		许多	
+many a long day		好久	
+many a man		许多人	
+many a time		许多次	
+many another		许多	
+many happy return		祝你长寿	
+market condition		行情	
+market day		集市日	
+market development		市场发展	
+market difference		市价的差异	
+market economy		市场经济	
+market economy country		市场经济国家	
+market factor		市场因素	
+market house		市场管理所	
+market information		市场信息	
+market leader	n	市场主要股份	
+market letter		商情报告书	
+market off		市场下跌	
+market order		市场定购单	
+market place		市场位置；市场	
+market price		市价	
+market rate		市场利率	
+market rate of interest		市场利率	
+market report		市况报告	
+market research	n	市场调查	
+market risk		市场风险	
+market share		市场占有率	
+market size		市场规模	
+market street		市场街	
+market strong		行情坚挺	
+market test		市场测验；市场测试	
+market town		集镇；集镇	
+market value		市面价值；市场价值	
+martial art	n	武术	
+martial law	n	戒严法	
+mass media		大众传播媒体；舆论工具	
+material at site		工作地点存料	
+material body		物质肉体	
+material cause		主要原因	
+material condition		实质条件	
+material control		材料管理	
+material cost		材料成本	
+material difference		本质上的区别	
+material in amount		材料金额	
+material issue		实质性的争论点	
+material law		实体法	
+material line		母系	
+material list		材料清单	
+material man		材料供给人	
+material number		材料号	
+material order		材料定单	
+material point		质点	
+material rate		材料率	
+material resource		物质条件	
+material stock		存料	
+material system		材料系统	
+material technology		材料工艺学	
+material test		材料试验	
+material time		关键时间	
+material want		物质缺乏	
+material well		物料窝	
+matter of course	n	必然发生的事	
+matter of fact		实际上	
+matter of law		法律事实	
+matter test		炉前试验	
+matter to		对…重要	
+may as well		还是...好	
+may be		也许	
+may day		国际劳动节；五一劳动节	
+may well		很有理由	
+me too		我也是	
+mean activity		平均活度	
+mean business		当真	
+mean difference		平均差	
+mean down time		平均停机时间	
+mean energy		平均能	
+mean hour		平均小时	
+mean life		平均寿命；平均寿命	
+mean life rate		平均寿命率	
+mean line		等分线	
+mean much	v	具有重要的意义；具有非常重要的意义	
+mean power		平均功率	
+mean time		平时	
+mean to		对…来说很重要	
+mean value		平均值；平均值	
+mean well		对...怀有善意	
+mean well by		对…怀有好意	
+media event		媒介事件	
+media of information		新闻工具	
+media player		媒体播放机；媒体播放机	
+media research		媒介调查	
+medical board		医学部	
+medical building		医疗建筑	
+medical care		医疗	
+medical care system		医疗保健制度	
+medical case		内科病例	
+medical center		医疗中心	
+medical college		医学院	
+medical community		医学界	
+medical computer language		医学计算机语言	
+medical data base		医学数据库	
+medical director		医用导子	
+medical evidence		医学证明	
+medical history		病历	
+medical information system		医学信息系统	
+medical man		医生	
+medical officer		军医	
+medical paper		医药纸	
+medical practice		医疗实践	
+medical record		病历卡	
+medical record program		医学记录程序	
+medical report		医生检查报告书	
+medical school		医学院	
+medical service		医疗服务	
+medical social worker		医学社会工作者	
+medical student		医科学生	
+medical system		医疗系统	
+medical treatment		麦克匪特斯氏疗法	
+meet the case		令人满意	
+meet up		偶然地碰到	
+meet up with		偶遇	
+meet with		偶遇	
+meet with success		取得成功	
+meeting house	n	礼拜堂	
+meeting minute		会议纪录	
+meeting place	n	会场	
+meeting system		会议系统	
+member bank		会员银行	
+member condition		成分条件	
+member government		会员国政府	
+member of congress		国会议员；国会众议院议员	
+member of family		家属	
+member of parliament		国会议员；下议院议员	
+member of state administration		国家行政管理工作人员	
+member organization		会员组织	
+member rate		会员运费率	
+member record		成员记录	
+member state		会员国	
+merchant bank		商业银行	
+middle age		中年	
+middle class		中产阶级；中级	
+might as well		还是...的好	
+might well		多半会	
+military action		军事行动	
+military age		兵役年龄	
+military base		军事基地	
+military campaign	n	战役；军事行动	
+military cause		军事案件	
+military computer		军用计算机	
+military computer family		军用计算机系列	
+military control		军管	
+military court		军事法庭	
+military force		军事力量；武力	
+military government		军事管制政府	
+military group		军事集团	
+military heart		神经性循环衰弱	
+military hospital		军医院	
+military issue		军事问题	
+military law		军法	
+military leader		武将	
+military man		军人	
+military might		军事实力	
+military music		军乐	
+military officer	n	军官	
+military order		军令	
+military organization		军事组织	
+military police		宪兵队；军事警察	
+military position		军事地位	
+military power		军权	
+military service	n	兵役	
+military service law		兵役法	
+military time		军用时间	
+milky way		银河	
+mind game		（尤指为了压倒对方而展开的）心理游戏	
+mind out		注意	
+mind set	n	心态	
+mind the store		看铺子	
+mind you		注意	
+mind your own business		自管自吧	
+mind your step		当心脚步	
+mineral water		矿泉水	
+minute book		会议记录簿	
+minute hand	n	分针	
+mirror image		镜象；镜像	
+miscarriage of justice		审判不公；审判不当	
+mixed up	adj	（常指因情感或社会问题而）头脑混乱的	
+mobile home	n	（由汽车拖拉的）活动房屋	
+mobile phone		移动电话	
+model base		模型库；模型库	
+model building		模型建造	
+model building language		模型建立语言	
+model change		产品更新	
+model former		成模器	
+model home		样品屋	
+model law		相似定律	
+model number		型号	
+model order		模型的阶	
+model problem		模型问题	
+model space		模式空间	
+model stock plan		标准库存量制度	
+model test		模型试验；模型试验	
+molecular biology	n	分子生物学	
+moment of a couple		力偶矩	
+moment of couple		力偶矩	
+moment of force		力矩	
+money article		金融栏	
+money cost		货币成本	
+money down		现款支付；现金	
+money in hand		库存现金	
+money man		投资者	
+money market		金融市场；金融市场	
+money market fund		货币市场资金	
+money market rate		货币市场利率	
+money matter		贷借事件	
+money office		汇兑办事处	
+money on all		遂时可以收回的借款	
+money on call		随时可收回的借款	
+money order		汇票；汇兑	
+money out of hand		无现款	
+money paper		钞票纸	
+money plant		黄金葛	
+money rate of interest		货币利率	
+money stock		货币存量	
+money supply	n	货币供应量	
+money tree		摇钱树	
+month after month		一月又一月	
+month by month		逐月	
+month in month out		月月	
+month order		月度定货	
+more and more		越来越多	
+more like		大约	
+more likely	adj	可能的	
+more often than not		多半	
+more or less		或多或少	
+more than		比...多	
+more than once		不止一次	
+morning after		宿醉	
+morning line		马情晨报	
+morning paper		早报	
+morning room	n	晨间起居室	
+morning star		晨星	
+morning time		早晨的每一天	
+most and least		毫无例外	
+most especially	adj	尤其	
+most high		上帝	
+most like	adj	like的变形	
+most likely	adj	可能的	
+most of		大多数	
+most of all		尤其	
+most of the time	adv	多数情况下	
+most recent		最新的	
+most recently		最近	
+most significant character		最高位字符	
+mother board		主机板	
+mother country		祖国	
+mother daughter		母女	
+mother figure		母职人物	
+mother in law		岳母	
+mother nature		自然的力量	
+mother oil		原油；原生石油	
+mother right		母权	
+mother star		母星体	
+mother water		母液	
+motion picture		电影	
+motor car	n	摩托车；汽车	
+mountain bike	n	山地车	
+move about		走来走去	
+move along		继续向前或后移动	
+move around		走来走去	
+move away		离开	
+move away from		离开	
+move back		退缩	
+move down		向下移	
+move house		搬家	
+move in		生活于	
+move in on		潜近...	
+move in position		移动位置	
+move in to		进入	
+move into		搬进...	
+move off		离开	
+move on		继续前进	
+move on to		转换	
+move out		搬出	
+move out of		迁出	
+move over		移动一下	
+move picture		移动图片	
+move through		穿过	
+move to		移到	
+move up		向前移动；向上移	
+move upon		进逼	
+movement of population		人口动态	
+movie film		电影片	
+movie house		电影院	
+movie industry		电影产业	
+movie star	n	电影明星	
+movie theater		电影院	
+much as		虽然	
+much at one		几乎相等	
+much less		更不	
+much more		更加	
+much more so		更加如此	
+much of		许多	
+much the same		几乎相同	
+much too		太	
+multiple sclerosis	n	多发性硬化	
+music book		乐谱	
+music case		乐谱夹	
+music director	n	音乐指挥	
+music hall	n	杂耍戏院	
+music paper	n	乐谱用纸	
+music piece		音乐作品	
+music power		音乐功率	
+music school		音乐学校	
+music stand		乐谱架	
+music teacher		曲终情未了	
+musical instrument		乐器	
+must have		必须拥有	
+mutual fund	n	合股投资（公司）	
+my bad		（北美	
+my boy		喂	
+my eye		瞎说	
+my love		我的爱	
+my very own		完全属我所有	
+my word		嗳呀	
+my word upon it		我向你保证确是这样	

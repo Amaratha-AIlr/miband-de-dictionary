@@ -1,0 +1,655 @@
+labour force		劳动力；劳动力	
+labour market		劳动力市场；劳动力市场	
+land administration		土地管理	
+land agency		土地管理	
+land and building		土地和房屋	
+land area		陆地区域	
+land bank		地产银行	
+land board		土地局	
+land court		土地裁判所	
+land development		土地开发	
+land fall		土地所有权的获得	
+land law		土地法	
+land let		地段	
+land line	n	陆线	
+land of opportunity		机会之乡	
+land office		土地管理局	
+land on		猛烈抨击	
+land power		陆军强国；陆军强国	
+land price		地价	
+land return		陆地折回	
+land right		土地权	
+land site		土地点	
+land tax		地税	
+land up		到达	
+land value		土地价值	
+language area		语言区	
+language center		言语中枢	
+language character		语言字符	
+language form		语言类型	
+language information		语言信息	
+language level		语言级别	
+language of the court		法庭用语	
+language rule		语言规则	
+language school	n	（教授外语的私立）语言学校	
+language set		语言集	
+language system		语言系统	
+large computer project		大型计算机规划	
+large computer system		大型机系统	
+large data base		大型数据库	
+large end		粗端	
+large number		大数	
+large order	n	艰巨的工作	
+large part		大型模制品	
+large person		大个子	
+large white		英国大白猪	
+last but not least		最后但并不是最不重要的	
+last but one		倒数第二	
+last call		收市叫价	
+last change		上次修改；上次修改	
+last class		上次课	
+last cost		最终成本	
+last cut		最后馏分	
+last day		最后审判日	
+last for		持续	
+last half		后半局	
+last in first out		后进先出（法）	
+last in on hand		后进现存法	
+last level		末级	
+last minute	n	最后一刻	
+last month		上月	
+last name		姓	
+last night		昨晚	
+last not least		最后一点	
+last opportunity		最后机会	
+last out		持续	
+last record		最后一个记录	
+last significant figure		末尾有效数字	
+last son		末子	
+last term		最后项；前期	
+last thing		深夜（尤指睡前）最后做的事	
+last through		度过	
+last time		上次	
+last week		上星期	
+last will		临终遗嘱	
+last word		最后一句话；最后一句话	
+last year		去年	
+late for		参加…迟到了	
+late in the season		季末	
+late today		今日稍后	
+later on		稍后	
+law and order		治安；治安	
+law book		法律学书籍	
+law case		法律案件	
+law court		法院	
+law for business organization		工商业组织法	
+law in force		现行法	
+law list		开业律师人名录	
+law of chance		机遇律；机遇律	
+law of control		控制规程	
+law of economic development		经济发展规律	
+law of education		教育法	
+law of effect		效果律	
+law of evidence		证据法	
+law of family		家庭法	
+law of health		健康法	
+law of heart		心脏定律	
+law of land		土地法	
+law of large number		巨量定律	
+law of market control		市场管理法	
+law of nature		自然法	
+law of return		归回法	
+law of tax		税法	
+law of the land		当地法律	
+law of the situation		处境定律	
+law of value		价值规律	
+law of war		战争法	
+law office		律师事务所；律师事务所	
+law officer		司法人员	
+law practice		法律实践	
+law school		法学院	
+law society		律师协会	
+law student		司法学生	
+law term		法律用语；法律用语	
+lead a life		过活	
+lead away		使盲从	
+lead back		回出	
+lead bank		领头银行	
+lead evidence		诱导拿出证据	
+lead in		引入线	
+lead line		铅线	
+lead off		开始	
+lead on		劝诱	
+lead out		开始	
+lead plant		铅厂	
+lead red		红丹	
+lead response		受铅性	
+lead role		主要角色	
+lead singer	n	主唱	
+lead story		重要新闻	
+lead the field		比赛领先	
+lead the way		带路	
+lead the way in		率先…	
+lead time		订货至交货的时间；研制周期	
+lead to		导致	
+lead tree		铅树	
+lead up		抢先	
+lead up to		带到	
+lead water		铅水；铅水	
+lead white		铅白	
+leader board		（尤指高尔夫球比赛中的）领先选手积分牌	
+leader character		前导字符；前导字符	
+leader of the house		议院议长	
+leader record		引导记录	
+leading article		主要文章；吸引顾客的特别廉价商品	
+learn about		学习	
+learn by heart		记住	
+learn from		向...学习	
+learn of		听说...	
+learn off		牢记	
+learn the hard way		费一番苦功才学会	
+least cost point		最小成本点	
+least effort		省力	
+least member		最小元素	
+least of all		最不	
+least significant character		最小有关字符	
+least significant difference		最低位差	
+least significant end		最低端	
+least value		最小值	
+leave a note		留言	
+leave about		乱放	
+leave behind		不带	
+leave for		到...去	
+leave go of	v	松手	
+leave in the air		使悬而不决	
+leave it at that		把某事暂且搁置起来	
+leave it to chance		听任命运	
+leave of court		经法院许可	
+leave off		停止	
+leave office		辞职	
+leave out		省去	
+leave over		剩下	
+leave pay		假期薪金	
+leave room for		留有…的余地	
+leave school		退学	
+leave the country		出境	
+leave the room		离开房间	
+leave with pay		工资照付的假期	
+leave without pay		留职停薪	
+leave word		留言	
+leave word with		给…留言	
+left bank		左坡度；左岸	
+left end		左端	
+left eye		左眼	
+left field	n	<美>左外野	
+left hand		左手	
+left hand rule		左手定则	
+left hand side		左手边	
+left heart		左心	
+left off		不用的	
+left out		遗漏	
+left over		剩余	
+left part list		左部表	
+left side		左边	
+left turn		左转弯	
+legal aid	n	法律援助（指对无钱聘请律师或进行诉讼者给予的经济援助）	
+lending rate	n	贷款利率	
+less and less		越来越少	
+less but better		少而精	
+less than		小于	
+less than no time		很快	
+let be		听任	
+let blood		放血	
+let down		放下；放下	
+let drive		（用拳、导弹）打	
+let drive at		对准打	
+let drop		说出	
+let fall		让...倒下/落下	
+let go		放开	
+let go hold of		放开	
+let go of		释放	
+let in		放进	
+let in for		使陷入	
+let into		让...进入	
+let it be		随它去	
+let it go		放手吧	
+let me see		让我看看	
+let off		放出；放出	
+let on		<非正>泄密	
+let out		放掉；出租	
+let pass		放过	
+let stand		把…搁置起来不实施	
+let the side down		有失众望	
+let up		减小	
+let value		线能量转移值	
+let you go		让你走	
+letter book		书信备查簿	
+letter case		字母盘	
+letter character		字母字符	
+letter of administration		委任管理函	
+letter of the law		法律的字面意义	
+letter paper		信纸；信笺	
+letter quality		印刷质量	
+letter record		书信记录簿	
+letter security		信件安全	
+letter space		字母间隔	
+letter stock		召募股份函	
+level best		全力	
+level control		电平调节	
+level control table		级控制表	
+level down		拉平	
+level number		层号	
+level of factor		因素水平	
+level of oil		油面	
+level of sound energy		声能级	
+level off		平整	
+level out		把...弄平	
+level up		通过提高来拉平；使整齐	
+level work area		级工作区	
+liberal democrat		自民党人	
+liberal party	n	自由党	
+lie about		懒散	
+lie along the land		沿岸航行	
+lie around		到处散放	
+lie back		倚靠	
+lie by		躺在...边上	
+lie close		躲藏起来	
+lie down		躺下	
+lie down under		甘受	
+lie in		在于...	
+lie in bed		卧床	
+lie in state		埋葬前任人吊唁	
+lie in wait		埋伏着等待	
+lie in wait for		埋伏着等待	
+lie low		卧伏	
+lie north of		位于...的北面	
+lie off		暂停工作	
+lie on		依赖	
+lie on the table		被搁置	
+lie over		等待以后处理	
+lie still		躺着不动	
+lie to		顶风停住	
+lie under		蒙受	
+lie up		隐藏	
+lie with		是...的权利/义务	
+life assurance	n	人寿保险	
+life class		模特儿教学班	
+life cycle		生活周期；生存期	
+life end point		寿命终止点	
+life expectancy		估计寿命；耐用期限	
+life force		生命力	
+life form		生活型	
+life history		生活史	
+life imprisonment		无期徒刑	
+life insurance		人寿保险；人寿保险	
+life interest		终身财产所有权	
+life line	n	救生索	
+life list		（野鸟研究家的）百鸟录	
+life of a person		人的生命	
+life office		人寿保险业	
+life period		存在时间；耐用年数	
+life policy		人寿保险单	
+life sentence	n	无期徒刑的判决	
+life story	n	生命轨迹	
+life support		生命维持	
+life table		寿命表；耐用年限表	
+life test		使用期限试验	
+life time		使用期限	
+life tree		寿命树	
+light air		一级风	
+light arm		轻兵器	
+light bulb	n	灯泡	
+light center		光心	
+light come light go		来得容易去得快	
+light company		轻步兵连	
+light cut		轻馏分	
+light effect		光效应	
+light face		细体字	
+light hour		轻负荷时	
+light in hand		易于驾驭	
+light in the head		头晕的	
+light industry		轻工业	
+light into		攻击...	
+light line		轻质油管线	
+light minute		光分	
+light music		轻音乐	
+light oil		轻油；低粘度油	
+light on		飞临	
+light out		匆匆离去	
+light pressure		光压	
+light process oil		轻操作油	
+light red		淡红色的	
+light second		光秒	
+light sense		光觉	
+light show		光表演	
+light source		光源；光源	
+light table		看版台	
+light time		光时	
+light treatment		光线疗法	
+light up		开始吸烟；点火	
+light upon		（偶然）发现	
+light water		轻水	
+light within		内在之光	
+light year	n	光年	
+like a book		文绉绉地	
+like all nature		非常地	
+like another		普通的	
+like anything		象什么似的	
+like for like		以牙还牙	
+like it or not		不管你喜欢不喜欢	
+like that		就象上述那样的	
+like to		差点儿就要	
+like water		大量地	
+limited edition	n	发行额有限的限定版	
+line and staff organization		垂直与参谋组织概念	
+line art		艺术线条	
+line at a time		每次传送一行	
+line bank		线触排	
+line between		分隔线	
+line blood		血统	
+line break		换行符；输送管线断裂	
+line current		输送管线上电流	
+line data set		行式数据集	
+line drive	n	平直球	
+line drop		线路压降	
+line factor		谱线因子	
+line group		线群	
+line hit		传输线瞬断	
+line level		线路电平	
+line loss		线路损失	
+line number		行号	
+line of action		作用线	
+line of business		行业	
+line of control		控制线	
+line of cut		切割线	
+line of defense		防线	
+line of fire	n	发射线	
+line of force		力线	
+line of heart		心脏线	
+line of life		（手掌上的）生命线	
+line of position		定位线	
+line of thought	n	思路；思维	
+line of work		行业	
+line officer	n	指挥部队的军官	
+line organization		垂直组织	
+line out		划出	
+line pressure		输送管压力	
+line relationship		垂直管辖关系	
+line set		线组	
+line short		线路短路	
+line single		线单	
+line size		管道尺寸	
+line through		划掉	
+line up		整队	
+line up test		综合测试	
+line upon line		一排排地	
+line well		边界井	
+line with lead		衬铅	
+line worker		流水线工人	
+lip service		口惠	
+list area		表域	
+list form		表格形式	
+list head		表头	
+list of son		子表	
+list price		目录价格	
+list system		按名单选举制	
+list table		编目表	
+listen before talk		对话前监听	
+listen for		倾听	
+listen in		收听；收听	
+listen to		听	
+listen to reason		服从理智	
+listen up		听好了	
+listen while talk		边听边说	
+little board		小公告牌	
+little brother		弟弟气旋	
+little by little		渐渐	
+little dog		小犬座	
+little finger	n	小指	
+little girl		小妞儿	
+little guy		矮子	
+little hand		小手	
+little man		<谑>小鬼	
+little more than		和…无差别	
+little office		【罗马天主教】小礼拜	
+little one		小东西	
+little or no		很少	
+little or nothing		简直没有	
+little people	n	（前面与the连用）小精灵	
+little short of		简直不比...差	
+little thing		小东西	
+little woman	n	（前面与the连用）妻子	
+live a lie		做人虚伪	
+live a simple life		过着俭朴的生活	
+live action	n	（与动画等相区别的）真人（或实景）电影	
+live and let live		自己活也让别人活	
+live blood		睑跳	
+live body		活体	
+live by		靠…为生	
+live center		活动顶尖	
+live data		活数据	
+live down		通过行动使人们原谅	
+live end		活端	
+live for		为…而生活	
+live high		过奢侈的生活	
+live in		住进	
+live in the street		老是不在家	
+live it up		狂欢一场	
+live line		活线	
+live off		以...为食料	
+live oil		新鲜石油；活油	
+live on		继续生活	
+live on air		不吃东西	
+live out		活过	
+live over		重温	
+live program		正在运转的程序	
+live room		混响室	
+live show		现场演出	
+live stock		牲口	
+live system		实用系统	
+live the part		把角色演活了	
+live through		度过	
+live time		使用期限	
+live together		住在一起	
+live up to		实践	
+live well		过得好	
+live with		与…一起生活	
+living room		客厅	
+living standard	n	生活标准	
+local action		局部作用；局部作用	
+local administration		地方行政	
+local authority	n	地方当局	
+local bank		地方银行	
+local call		市内通路	
+local cause		局部原因	
+local central office		地区中心局	
+local color	n	（文艺作品等的）地方特色	
+local company		地方公司	
+local control		局部控制	
+local current		局部电流	
+local data base		局部数据库；局部数据库	
+local death		局部坏死	
+local disease		局部病	
+local effect		局部作用	
+local field		局部场	
+local government		地方政府	
+local group		局部组	
+local law		本地法	
+local line		市内线	
+local market		本地市场	
+local or own type		局部或固有类型	
+local pressure		局部压力	
+local pressure loss		局部压力损失	
+local program		局部程序	
+local rate		区间运率	
+local record		局部记录	
+local road		支路	
+local road tax		地方公路税	
+local service		市内业务	
+local service area		本地服务区	
+local street		地方街道	
+local talk		局部会话装置	
+local tax		地方税	
+local time	n	当地时间	
+local treatment		局部疗法	
+local view		局部视图	
+local war		局部战争	
+local work area		局部工作区	
+locker room		衣帽间	
+long after		很久以后	
+long ago		很久以前	
+long arm		长臂	
+long before		在...以前很久	
+long face		闷闷不乐	
+long figure		巨额	
+long for		渴望	
+long form		详细格式	
+long hundred		一百二十	
+long interest		买方	
+long lead		长引线	
+long lead time		长研制周期	
+long life		长使用期限	
+long line		长线	
+long live		万岁	
+long long ago		很久很久以前	
+long market		买多市场	
+long number		长数	
+long oil		长油度的	
+long period		长周期	
+long position		对市场价格持看涨观点	
+long price		高价	
+long rate		银行外汇期票贴现率	
+long run		长时间操作；长期使用	
+long side		买方	
+long since		很久以前	
+long stock		看涨股票	
+long term		长期的	
+long term policy		长期策略	
+long test run		长期试验	
+long throw		长投	
+long time	adj	长期的（持久的）	
+long time ago		很久以前	
+long type		长类型	
+long view		远虑	
+long word		长字	
+look about		四处寻找	
+look about one	v	察看自己的情况	
+look across		打量；向对面看	
+look after		目送	
+look around		四下观望	
+look around for		到处寻找	
+look as if		看起来好像…	
+look at		看	
+look away		不再看（某人或某物）	
+look back		回顾；银行对过去贷款的审查	
+look back on		回头看	
+look bad		看起来很糟糕	
+look before and after		瞻前顾后	
+look big		做出一副了不起的样子	
+look black		面带怒容	
+look black at		怒视	
+look down		向下看	
+look down at		向下看	
+look down on		轻视	
+look down upon		蔑视	
+look for		寻找	
+look for work		找工作	
+look forward to		期望	
+look good	n	好上去不错	
+look here		喂!注意!	
+look in		看望；搜索	
+look into		窥视；调查	
+look into a problem		调查研究问题	
+look like		看起来与（某人或某物）相像	
+look on		观看	
+look on to		向外眺望	
+look out		面朝	
+look out for		当心…	
+look out of		从…向外看	
+look out on		面临	
+look out over		俯瞰	
+look over		从...上面看	
+look small		显得渺小	
+look table		查找表格	
+look the other way		故意朝另一边看	
+look the part		看起来适合这角色	
+look through		看穿	
+look to		照看	
+look up		向上看；查阅	
+look up and down		上下打量	
+look up to		抬头看（某人或某物）	
+look upon		看作	
+look well		看上去健康	
+loose end	n	未了结的部分	
+lose all reason		失去理智	
+lose color		变苍白	
+lose control of		失控	
+lose face		丢脸	
+lose ground		撤退	
+lose heart		丧失勇气	
+lose hold of		失去对...的掌握	
+lose interest		失去兴趣	
+lose interest in		对…失去兴趣	
+lose it		失去它	
+lose money		亏本	
+lose no time		不失时机	
+lose out		输掉	
+lose plant		枯死	
+lose the day		打败	
+lose the game		输了比赛	
+lose the lead		失去领先地位	
+lose the way		迷路	
+lose time		走得慢	
+lose way		减速	
+loss call		未接通的呼叫	
+loss factor		损耗系数；损耗角	
+loss leader		为吸引顾客亏本卖出的东西	
+loss list		伤亡名单	
+loss order		赔款支付命令	
+loss rate		损失率	
+loss report		损失报告	
+loss time		损耗时间	
+lot money		拍卖费	
+lot no	n	批号；地段编号	
+lot note		分批票据	
+lot number		批号；批数	
+lot of		大量的	
+lot on	v	期待	
+lot size		批量	
+love affair		风流韵事	
+love child		私生子	
+love interest		（电影或小说中的）恋爱角色（常为主角的情人）	
+love letter		情书	
+love life		爱情生活	
+love line		感情线	
+love story		爱情故事	
+love tree		爱情树	
+low church		低教会派教会	
+low class		低级	
+low cost		低成本	
+low cost computer		简易型计算机	
+low down		内幕	
+low heart		低位心	
+low in price		低价	
+low interest		低利	
+low interest policy		低利政策	
+low interest rate		低利率	
+low level		低级的；低水平	
+low life		下层社会的生活	
+low oil level		低油位	
+low oil pressure		低油压	
+low order end		低位端	
+low order position		低位位置	
+low point		最无趣的部分	
+low power		低功率；低倍	
+low pressure	n	松懈	
+low pressure area		低压面积	
+low pressure test		低压试验	
+low quality		低质量	
+low rate		低利率	
+low season		淡季	
+low side		低端	
+low value stock		低票面股份	
+low water		低潮	
+lump sum		总额	
+luncheon meat		午餐肉	

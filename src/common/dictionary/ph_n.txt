@@ -1,0 +1,414 @@
+name after		以…的名字起名	
+name call		名字调用	
+name center		名词记忆中枢	
+name day		股票过户日	
+name field		名字域	
+name it		讲出来	
+name list name		名字表名	
+name of article		货名	
+name order		名称次序	
+name part		名字部分	
+name record		名字记录	
+name share		记名股	
+name space		名字区	
+name table		名字表	
+name the day		确定日期	
+name value		名字值	
+name word		名字字	
+nation state		单一民族国家	
+national anthem		国歌；国歌	
+national bank		国民银行	
+national city		国民城市银行	
+national computer security center		美国国家计算机安全中心	
+national congress		全国代表大会	
+national curriculum		国民教育课程	
+national day		国庆日	
+national defense		国防	
+national economic plan		国民经济计划	
+national economic policy		国民经济政策	
+national economy		国民经济	
+national government		联合政府	
+national health service		国家医疗保健机构	
+national insurance	n	国民保险	
+national law		本国法	
+national leader		民族领袖	
+national market		全国市场	
+national number		国家号码	
+national park	n	国家公园	
+national policy		国家政策	
+national power		国力	
+national product		国民产值	
+national road		国道	
+national security		国家安全	
+national security agency		国家安全局；美国国家安全局	
+national service		兵役	
+national tax		国税	
+national tax policy		国家税收政策	
+national treatment		国民待遇	
+native american		印第安人	
+natural ability		本能	
+natural action		自然行动	
+natural base		生物碱	
+natural body		自然人	
+natural business year		自然营业年度	
+natural condition		自然条件	
+natural control		自然控制	
+natural current		自然电流	
+natural daughter		私生女	
+natural death		自然死	
+natural drug		天然药物	
+natural economy		自然经济	
+natural event		自然事件；爱男	
+natural evidence		自然证据	
+natural father		生父	
+natural food	n	天然食品	
+natural force		自然力	
+natural gas		天然气	
+natural head		天然落差	
+natural history	n	博物学	
+natural image		自然图象	
+natural increase		人口的自然增松率	
+natural join		自然连接	
+natural language		自然语言	
+natural language data base		自然语言数据库	
+natural language system		自然语言系统	
+natural law		自然率；自然法则	
+natural law school		自然法学派	
+natural life		自然寿命	
+natural light		自然光	
+natural loss		自然损耗	
+natural man		自然人	
+natural mother		生母	
+natural number		自然数	
+natural oil		天然油	
+natural order		自然顺序	
+natural period		自然周期	
+natural person		自然人	
+natural process		不可逆过程	
+natural product		天然产品	
+natural rate of growth		正常增松率	
+natural rate of interest		自然利率	
+natural reason		自然理性	
+natural red		红紫素	
+natural resource		自然资源	
+natural risk		正常的风险	
+natural series		自然系列	
+natural state		自然状态	
+nature increase		自然增长	
+nature of a thing		事物的本性	
+nature of business		商业性质	
+nature of law		法律的性质	
+nature of the evidence		证据的性质	
+nature study		小学自然课	
+nature time		松弛时间	
+near by		在…附近	
+near east	n	近东（前面与the连用）	
+near enough		几乎一样	
+near field		近场	
+near future		不久的将来	
+near here		在附近	
+near money		近期可收回的货币	
+near north		近北	
+near on		将近…	
+near point		近点	
+near term		近期	
+near thing	n	侥幸脱险	
+near to		接近于	
+near upon		将近	
+need not		不必	
+need to		需要	
+negotiating table	n	谈判桌	
+nervous breakdown	n	神经失常	
+nervous system	n	神经系统	
+never a		一个也没有	
+never a one		没有一个	
+never again		到此为止	
+never call		未调用	
+never come to anything		彻底失败	
+never even		连...也不/没	
+never ever		从不	
+never for a moment		决不	
+never look back		获得全胜	
+never mind		没关系	
+never more		决不再	
+never say die		别气馁	
+never so		非常	
+never so much as		甚至不	
+never the		毫不	
+never the less		仍然；尽管如此	
+new age	n	新时代	
+new blood		家庭、社会等的新成员	
+new cause of action		新的诉因	
+new class		新类	
+new data		新建数据	
+new deal		新政	
+new drug		新药	
+new economic policy		新经济政策	
+new energy		新能源	
+new evidence		新发现的证据	
+new face		新面孔	
+new fact		新事实	
+new for old		新换旧	
+new found	adj	新发现的	
+new from		刚从…到来	
+new group		新建群组	
+new group name		新建群组名	
+new growth		新生物	
+new high		新高峰	
+new information		新信息	
+new issue		新发行的证券或纸币	
+new issue market		新发行市场	
+new kid		新来的孩子	
+new left		新左派	
+new line		新行	
+new line break		换行	
+new line character		换行字符	
+new look	n	新观点；新风貌	
+new man		新派男子	
+new material		新材料	
+new matter		新的事件	
+new media		新传播媒介	
+new model		新型号	
+new name		新建名称	
+new oil		新油	
+new process		新工艺	
+new product		新产品	
+new program language		新程序语言	
+new right		新右派	
+new series		新增序列；新增序列	
+new share		新股份	
+new share off		新股无权	
+new size		新容量；新容量	
+new star		新星（等于nova）	
+new technology		新技术	
+new testament	n	新约全书	
+new to		刚知道的	
+new town	n	<英>新市镇	
+new type		新类型	
+new wave	n	新潮流	
+new window		新建窗口；新建窗口	
+new world		新世界（指西半球或南、北美洲及其附近岛屿）	
+new world order		国际新秩序；世界新秩序	
+new year		新年	
+news agency		通讯社	
+news article		新闻	
+news conference		记者招待会	
+news event		新闻动态	
+news media		新闻媒介	
+news organization		新闻机构	
+news program		新闻节目	
+news report		新闻报道	
+news show		新闻展示	
+news story		（不加评论的）新闻报道	
+news to this hour		最新消息	
+news window	n	新闻图片栏	
+next brother		下一个兄弟	
+next but one		下下一个	
+next current state		下一个当前状态	
+next day fund		隔日资金	
+next door		隔壁	
+next door to		与...相邻	
+next father		下一个父亲	
+next field		转栏	
+next friend		次代理人	
+next in line		（按顺序的）下一个	
+next in line for		下一个轮到	
+next month		下月	
+next period		下期	
+next record		下一个记录	
+next son		下一个儿子	
+next state		下一状态	
+next time		下次	
+next to		几乎	
+next to last		倒数第二	
+next to nothing		差不多没有	
+next use information		下一使用信息	
+next week		下星期	
+next year		明年	
+night after night		一夜又一夜	
+night and day		夜以继日	
+night court		夜间法庭	
+night effect		夜间效应	
+night game		夜场比赛	
+night letter		夜间电报	
+night life		夜生活	
+night light	n	夜间照明灯	
+night man		更夫	
+night night		晚安（非正式）	
+night piece		夜景	
+night school		夜校	
+night table		床头几	
+night time		夜间	
+night watch		守夜；守夜	
+no action letter		不干涉信件	
+no amount policy		无保额保险单	
+no better		没有好转	
+no better than		几乎等于	
+no big deal		有你没你	
+no call for		不需要	
+no case to answer		无须答辩	
+no catch		不值得买的东西	
+no chance		不可能	
+no class		低劣的	
+no end		非常	
+no end of		无数	
+no go		不行	
+no good		没用	
+no great of a		没有什么了不起的	
+no home record		无地址记录	
+no late than		不迟于…	
+no later than		不迟于	
+no less		不少于	
+no less than		正如	
+no little		许多的	
+no market for		货不通行	
+no matter		无论	
+no matter how		不管如何	
+no matter what		无论如何	
+no mean		不差的	
+no mean something		很好的	
+no more		不再	
+no more than		至多	
+no nothing		什么也没有	
+no one	n	没有人	
+no one but		除了…谁也不	
+no other than		只有	
+no pay		无报酬	
+no place		出版处不明	
+no play		不休息	
+no problem		不麻烦	
+no record		无案可查	
+no shoot		切勿投掷	
+no side		比赛完毕	
+no such		没有这样的	
+no test		无密押	
+no thank to		并非由于	
+no through road		此路不通	
+no time		<口>一会儿工夫	
+no use		没用	
+no way		无论如何也不	
+no what		不什么	
+north american		北美洲的	
+north american country		北美国家	
+north american nation		北美国家	
+north by east		北偏东	
+north by west	n	北偏西方向（略作NbW）	
+north side		北边	
+north star		北极星	
+north star state		北星州	
+not a		一个也不	
+not a chance		没有丝毫机会	
+not a few		不少	
+not a little		许多	
+not a single		没有一个…	
+not all		并非所有的	
+not all that		不那么...	
+not any more		不再	
+not any more than		不过...	
+not at all		一点也不	
+not at any price		无论如何都不行	
+not available		无法使用	
+not bad		确实不错	
+not begin to		毫不...	
+not better than		最多是	
+not but		虽然	
+not but that		虽然...	
+not but what		虽然...	
+not care a thing		毫不在乎	
+not exactly		（说反话时用）并不	
+not far to seek		不难找到	
+not feel like anything		感觉身体不舒服	
+not for a minute		决不	
+not for a moment		从没有	
+not for the world		无论如何不	
+not go		不通过	
+not good		失败	
+not half		一点也不	
+not half bad		不错	
+not hear of		拒绝考虑	
+not in		歪投球；不在列表	
+not in it		不足以成其为对手的	
+not in stock		不在贮存中	
+not in the least		一点不怕	
+not least		在一定程度上	
+not less than		至少...	
+not long after		不久以后	
+not long ago		不久前	
+not look back		勇往直前	
+not more than		至多	
+not much		几乎没有	
+not much of a		不善于...	
+not nearly		远非	
+not on		办不到	
+not on your life		一点也不	
+not once		一次也没有	
+not only		不但	
+not over well		健康状况不好	
+not ready		非准备好	
+not so		不是那样	
+not so bad		确实不错	
+not so hot		不太好	
+not so much as		连…都不肯	
+not system		"非"系统	
+not that		并不是说...；非	
+not the least		丝毫没有	
+not think much of		认为...没什么了不起	
+not to say		虽不能说...	
+not to speak of		更不用说	
+not too bad		不太坏	
+not too well		不太好	
+not turn a hair		不动声色	
+not turn a hand		不费举手之劳	
+not until		直到...才...	
+not up to much		没多大价值	
+not very		不很	
+not with it		局外人	
+not without reason		不无理由	
+not yet		尚未	
+note down		记录	
+note for a term		期票	
+note issue		流通中的钞票总额	
+note list		记录表	
+note of hand		亲笔期票	
+note to order		记名支票	
+note value	n	音符值；音符时值	
+note well		注意	
+nothing better than		只	
+nothing but		只	
+nothing else but		除了...以外什么也不	
+nothing else than		除了...以外什么也不	
+nothing for it		别无其他办法	
+nothing for it but		除了…之外别无其他办法	
+nothing if not		极其	
+nothing in it		假的	
+nothing in life		毫无	
+nothing less than		和...一模一样	
+nothing like		没有什么能比得上...	
+nothing more than		不过是...	
+nothing much		很少	
+nothing of the kind		哪儿的话	
+nothing short of		简直不比...差	
+nothing the matter		对…来说是无足轻重的	
+nothing to speak of		不值一提	
+now and again		时而	
+now and then		偶尔	
+now now		嘿	
+now or never		勿失良机	
+now that		既然...	
+now then		喂	
+nuclear reactor	n	核反应堆	
+number base		数基	
+number language		数字语言	
+number line		数字行	
+number of character		字符数	
+number of order		汇票号	
+number off		报数	
+number one		自己	
+number period		数字周期	
+number plate	n	（车辆的）牌照	
+number sign		数的符号	
+number system		数制	
+number system base		数系基	
+number two	adj	第二位的	
+nursery school		幼儿园	
+nursing home		私人疗养院	

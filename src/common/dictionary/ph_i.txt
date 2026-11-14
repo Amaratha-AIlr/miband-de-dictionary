@@ -1,0 +1,504 @@
+i hope so		但愿如此	
+i know		我知道	
+i love you		我爱你。	
+i mean		我是说	
+i say		喂	
+i see		我明白	
+i should have thought		我本来认为	
+i should like		我要	
+i should say		我想	
+i should think		我认为	
+i thought as much		我也料到	
+ice age		冰期	
+ice cream		冰淇淋；冰淇淋	
+ice hockey		冰球	
+icing sugar	n	糖粉	
+idea center		概念中枢	
+idea of law		法律的理念	
+idea of public service		公务观念	
+identify with		认为…等同于	
+identity card	n	身份证	
+if a day		十足	
+if and when		如果	
+if any		若有的话	
+if anything		如果有区别的话	
+if at all		如果有的话	
+if ever		很少	
+if level		如果语句层	
+if need be		如果需要的话	
+if not		要不	
+if only		只要	
+if possible		如果可能的话	
+if so		要是这样	
+if then else		假设用法	
+if tree		如果树	
+if you ask me		依我看	
+if you like		如果你愿意	
+if you will		如果你愿意那样说的话	
+ill health	n	不健康	
+image area		象区	
+image control		图像控制；图象控制	
+image data		图象数据	
+image data base		图象数据库	
+image effect		像效应	
+image field		像场	
+image force		像力	
+image quality		图象质量	
+image response		图像响应	
+image source		图像源	
+image space		像空间；成像隙	
+image study		反映研究	
+immune system		免疫系统	
+important case		重大案件	
+important event		重大事件	
+important figure		有地位的人	
+important money		大钞	
+important person		大人物	
+in a bad way		病情严重	
+in a big way		大肆地	
+in a body		全体	
+in a common effort		共同努力	
+in a dead hand		处于永远管业的情况下	
+in a family way		象一家人一样	
+in a good light		在光线好的地方	
+in a group		成群结队地	
+in a hurry		匆忙	
+in a kind		在某种程度上	
+in a little while		过一会儿	
+in a low voice		低声地	
+in a million		百里挑一	
+in a minute		马上	
+in a moment		立刻	
+in a position to		能够	
+in a second		一会儿	
+in a sense		在某种意义上	
+in a short time		<非正>过了一阵子	
+in a similar way		按同样的方式	
+in a small way		小规模地	
+in a state		不整洁	
+in a state of		处于…的状态	
+in a walk		轻而易举地	
+in a way		在某种程度上	
+in a while		马上	
+in a word		总之	
+in action		在活动	
+in addition		另外	
+in advance		预先；预先	
+in all		总共；合计	
+in all sense		在任何意义上说	
+in amount		总之	
+in and of itself		本身	
+in and out		进进出出	
+in and out of		进进出出	
+in answer to		回答	
+in any case		无论如何	
+in any event		不论怎样	
+in any way		以任何方式	
+in as far as		在...的限度内	
+in as much as		既然	
+in bad		倒霉	
+in bad condition		状态恶劣	
+in bed		在床上	
+in between		在中间	
+in black and white		用白纸黑字地写下来	
+in business		在营业	
+in care		以防；免得；监护	
+in care of		由…转交	
+in case		万一	
+in case of		假设	
+in case that		万一	
+in character		适合	
+in charge of		负责...	
+in church		在教堂	
+in class		不上课	
+in clear		用一般文字	
+in common		共有	
+in common with		与…相同	
+in company		一同	
+in company with		一起	
+in condition		健康状况好	
+in control		控制	
+in control of		控制住	
+in course		学完正式课程并经过考试	
+in course of		正在...中	
+in course of time		最后	
+in court		在法庭上	
+in current price		按时价计算	
+in defense of		为...辩护	
+in despite of		不管	
+in detail		详细地	
+in effect		有效；有效	
+in either case		不论发生何种情况	
+in either event		无论这样或那样	
+in every possible way		千方百计地	
+in every sense		在各种意义上	
+in every way		在多方面	
+in evidence		明显；明显的	
+in exchange		在兑换中	
+in face of		面对	
+in fact		事实上；事实上	
+in fact the father		生父	
+in fine		最后；最后	
+in focus		焦点对准	
+in for		保证得到或拥有	
+in force		大规模地；有效	
+in form		身体好	
+in front		在前面	
+in full		充足；全额	
+in full action		充分行动	
+in full career		全速地	
+in full force		全体	
+in full form		身体极好	
+in full play		全速运转	
+in full view		尽收眼底	
+in full view of		在…完全看得见的地方	
+in future		将来	
+in general		大多数	
+in good condition		情况良好；良好状态	
+in good keep		保存完好	
+in good order		很整齐	
+in good season		及时地	
+in good time		及时地	
+in great force		大规模地	
+in great form		兴高采烈	
+in half		分成两半	
+in hand		在手头；处理中	
+in health		身体健康	
+in heart		情绪高涨	
+in her own right		凭借她自己的条件	
+in her right mind		在她正确的脑海里	
+in here		在这里	
+in high keep		保存完好	
+in his own right		在他自己的权利	
+in his right mind		心里明白过来	
+in hot water		处于困境	
+in house		内部的	
+in issue		在争论中；在争论中	
+in its own right		凭借自身能力	
+in its true light		原形毕露	
+in itself		本身	
+in kind		以货代款；以货代款	
+in large		大体上	
+in law		依法	
+in life		一生中	
+in light		被光线照着	
+in light of		按照	
+in line		成一直线	
+in line for		即将得到	
+in line with		符合	
+in little		小规模地	
+in love		相爱	
+in love with		爱上	
+in low water		拮据	
+in make		在制造上	
+in market		在买卖中	
+in memory of		纪念...	
+in my mind		在我脑海中	
+in name		名义上	
+in name only		表面上	
+in nature		实际上；性质上	
+in need		在急需时	
+in need of		需要...时	
+in no case		决不	
+in no sense		决不	
+in no time		立刻	
+in no way		决不	
+in number		总共	
+in off position		在关闭状态	
+in office		执政	
+in on		参加	
+in one		成为一体	
+in one case		在一种情况下	
+in one piece		完整无损的	
+in one way		在某点上	
+in one word		简言之	
+in open		公开地	
+in open court		公开审讯	
+in order		整齐	
+in order for		为了	
+in order of		按...的次序	
+in order that		为了	
+in order to		为了…	
+in other word		换句话说	
+in our own day		当代	
+in part		部分地	
+in person		亲自；亲自	
+in place		在适当的位置	
+in place of		代替；代替	
+in plan		作为平面图	
+in plant		在生长发育中	
+in play		开玩笑地	
+in point		恰当	
+in point of		关于	
+in point of fact		实际上	
+in point of law		依法律观点	
+in position		在适当的位置	
+in power		执政	
+in practice		在实践中	
+in private		私下	
+in process		在进行中	
+in process of time		随着时间的推移	
+in public		当众	
+in question		正被讨论；正被谈论的	
+in real time		实时的	
+in reason		明智	
+in record		记录在案	
+in red		穿红衣	
+in response to		回答...；为响应	
+in result		结果	
+in return		作为报答	
+in return for		作为...的报答	
+in right of		凭...权力	
+in school		在求学	
+in season		当令	
+in security		安全地	
+in security for		作为...的担保	
+in security or		作为…的担保	
+in series		连续地	
+in series with		与...相连	
+in service		在使用	
+in short		简而言之；简言之	
+in short order		在短期内	
+in sign of		作为...的表示	
+in simple language		说得简单一点	
+in site		同位	
+in small		小规模地	
+in so far	adv	到这个程度	
+in so far as		至于	
+in so much as		因为	
+in some sense		在某种意义上	
+in some way		在某些方面	
+in space		片刻	
+in special		格外	
+in sport		为了好玩	
+in state		正式地	
+in step		步调一致	
+in stock		现有；在仓库中	
+in store		贮藏着；存仓	
+in store for		等候	
+in support		后备	
+in support of		支持	
+in term of		用…的话	
+in that		既然	
+in that case		如果是那样的话	
+in that event		如果那种情况发生	
+in that way		那样	
+in the air		在空中；未定的	
+in the area of		在…方面	
+in the back of		支持	
+in the black		赢利；盈利	
+in the blood		生来就	
+in the can		（影片等）摄制完成（准备上映）的	
+in the case of		在...的情况	
+in the cause of		为了…	
+in the character		以…资格	
+in the character of		扮演	
+in the class	adv	上课中	
+in the clear		不受阻碍	
+in the company of		在...陪同下	
+in the control of		由...控制	
+in the country		在乡下	
+in the course of		在...期间；在...过程中	
+in the east of		在...东部	
+in the end		最后	
+in the event		结果；结果	
+in the event of		如果...发生；如果...发生	
+in the eye of		在…心目中	
+in the face of		面对	
+in the fall		在秋季	
+in the family way		怀孕；怀孕	
+in the field		在作战	
+in the field of		在…方面	
+in the first place		首先	
+in the form of		以…形式	
+in the future		未来	
+in the head		脑海里	
+in the hope of		怀着希望	
+in the hope that		怀着...的希望	
+in the interest of		为了	
+in the issue		结果	
+in the know		知道实情	
+in the language of		用…语言	
+in the last		在最后	
+in the last place		最后	
+in the lead		领先	
+in the least		丝毫	
+in the light of		由于；根据	
+in the long run		长远	
+in the long term		长远地	
+in the market		上市	
+in the matter of		就...而论；就...而论	
+in the mean		同时	
+in the mean time		同时	
+in the mind		心里	
+in the money		在富裕境遇中；资金充裕	
+in the morning		明天上午	
+in the movement		随着时代潮流	
+in the name of		以...的名义；假借...名义	
+in the nature of		具有...性质	
+in the near future		在不久的将来	
+in the news		成为新闻	
+in the next place		其次	
+in the night		在夜里	
+in the north		在…的北部	
+in the open		在野外	
+in the order of		大约；按...次序	
+in the past		在过去	
+in the pay of		受...雇用	
+in the person of		代表；以...资格	
+in the picture		让了解情况	
+in the process of		在...的过程中	
+in the public eye		常公开出现的；从公众的观点来看	
+in the quality of		以…的身分	
+in the red		赤字	
+in the result		后来	
+in the right		站在正义的一边	
+in the road		挡路	
+in the same way		同样地	
+in the second place		其次	
+in the sense of		从…意义上说	
+in the short run		从短期看	
+in the short term		短期内	
+in the south		南面	
+in the south of		在…的南部	
+in the space of		在…时间内	
+in the street		在街上	
+in the view of		认为	
+in the way		挡道	
+in the way of		在…方面	
+in the white		处于尚未完工状态	
+in the world		在世界上	
+in the wrong		错了	
+in the year one		很久以前	
+in this		在这种场合	
+in this case		既然这样	
+in this view		根据这种观点	
+in this way		这样	
+in time		及时；如期	
+in time for		及时赶上…	
+in time of		在…时候	
+in top		用高速档	
+in top form		很健康	
+in true		正	
+in turn		依次	
+in two		分为两部分	
+in type		以排好版待印的	
+in use		在使用着	
+in view		在看得见的地方	
+in view of		考虑到；鉴于	
+in want		贫困	
+in want of		需要	
+in wear		流行	
+in what way		怎样…?	
+in white		穿着白衣服	
+in whole		整个地	
+in word		用语言	
+in work		有工作	
+include member		可包括成员	
+income support	n	收入保障津贴	
+income tax	n	所得税	
+increase by		增加了	
+increase in		在...方面增加	
+increase natural		自然增加	
+individual control		个别控制	
+individual drive		单独传动	
+individual economy		个体经济	
+individual life policy		个人人身保险	
+individual line		独用线	
+individual product		个人产品	
+individual system		并列式	
+individual worker		个体劳动者	
+industrial action	n	（罢工等）劳工行动	
+industrial estate	n	<英>工业区	
+industry tax		产业税	
+information age		信息化时代	
+information agency		新闻处	
+information area		信息区	
+information at source		所得额来源资料	
+information bank		资料库	
+information bank system		情报库系统	
+information board		信息板	
+information book		信用调查簿	
+information data		信息数据	
+information language		信息语言	
+information media		信息媒介	
+information paper		电子计算机用纸	
+information rate		信息率	
+information return		资讯报表	
+information system		信息系统；信息系统	
+information technology		信息技术	
+information word		信息字	
+inland revenue		国内税收	
+inner circle	n	核心集团	
+inner city	n	市中心	
+insofar as		在...的限度内	
+instead of		代替	
+intensive care	n	重病特别护理	
+interest condition		附有条件的权益	
+interest cost		利息成本	
+interest factor		利息因素	
+interest free		无息的	
+interest fund		利息基金	
+interest group		利益集团	
+interest in		对…有兴趣	
+interest in black		应收利息	
+interest in red		应付利息	
+interest note		利息单	
+interest on money		利息	
+interest period		利息期	
+interest policy		利率政策	
+interest rate		利率；利率	
+interest rate policy		利率政策	
+interest table		利息表	
+interest tax		利息税	
+interest test		兴趣测试	
+interior design	n	内部装饰业	
+international body		国际机构	
+international business		国际商业	
+international call		国际呼号	
+international case		国际案件	
+international community		国际社会	
+international computer		国际制式计算机	
+international computer center		国际计算机中心	
+international computer program		国际计算机程序	
+international control		国际管制	
+international court		国际法院	
+international data number		国际数据号码	
+international economic order		国际经济秩序	
+international economy		国际经济	
+international energy agency program		国际能源组织	
+international law		国际公法	
+international market		国际市场	
+international military court		国际军事法院	
+international money market		国际金融市场	
+international order		国际秩序	
+international organization		国际组织	
+international person		国际法人	
+international police		国际警察	
+international practice		国际惯例	
+international private law		国际私法	
+international public law		国际公法	
+international public policy		国际性公共政策	
+international show down		国际性摊牌	
+international stock		国际股票	
+international system		国际制	
+international system of control		国际监督和检查制度	
+into action		付诸实施	
+into the open		公开化	
+into water		氽入水；跳水	
+involve in		使参与	
+involved in		涉及	
+iron curtain		铁幕	
+issue bank		发行银行	
+issue from		从...流出	
+issue house		发行商行	
+issue in		导致	
+issue in action		诉讼争论点	
+issue in fact		事实上的争论点	
+issue in law		法律上的争论点	
+issue market		发行市场	
+issue out		流出	
+issue paper money		发行纸币	
+issue price		发行价格	
+issue term		发行条件	
+issue to		把…发给	

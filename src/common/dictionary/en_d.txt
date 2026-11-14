@@ -1,0 +1,163 @@
+DNA		脱氧核糖核酸；无效数据	
+dad	n	爸爸	
+daily	adj/adv/n	每日的；每日地；日报	day'-li
+damage	n/v	损害；损害	da'-mij
+dance	n/v	跳舞；跳舞	dans-dahns
+danger	n	危险；危险	dayn'-juhr
+dangerous	adj	危险的；危险的	dayn'-juh-ruhs
+dare	n/v	挑战；敢	dair
+dark	n/adj	黑暗；黑暗的	dahk
+darkness	n	黑暗	dahk'-nis
+data	pl	资料；数据	day'-tuh
+date	n/vt/vi	日期；约会；注明日期	dayt
+daughter	n/adj	女儿；女儿的	daw'-tuhr
+day	n	天；日	
+dead	adj/n/adv	死的；死者；完全地	ded
+deal	n/vi/vt	交易；处理；分配	deel
+dealer	n	经销商；交易员	dee'-luhr
+dear	n/adj	亲爱的人；亲爱的；interj. 啊	di'-uhr
+death	n	死亡；死亡	deth
+debate	n/v	辩论；争论	di'bayt
+debt	n	债务；借款	det
+decade	n	十年	de'-kayd
+decide	v	决定	di'said
+decision	n	决定；判定	di'si-zhuhn
+deck	n/vt	甲板；装饰；纸牌背面图案	dek
+declare	v	宣布	di'klair
+decline	n/vt/vi	衰退；使降低；下降	di'klain
+decrease	n/v	减少；减少	deek'-rees
+deep	adj/adv/n	深的；深入地；深渊	
+deeply	adv	深刻地	deep'-li
+deer	n	鹿	di-uhr
+defeat	n/vt	败北；击败	di'feet
+defend	vt	防护；作...的辩护律师	di'fend
+defendant	n	被告；被告方	di'fen-duhnt
+defense	n	防卫；防御	di'fens
+defensive	adj/n	防卫的；守势	di'fen-siv
+deficit	n	赤字；短缺	de'-fi-sit
+define	vt	定义；定义	di'fain
+definitely	adv	明确无疑地	de'-fi-nit-li
+definition	n	定义；清晰度	de-fi'ni-shuhn
+degree	n	程度；度	di'gree
+delay	n/v	耽搁；耽搁；延迟	di'lay
+deliver	vt	递送；交运	di'li-vuhr
+delivery	n	递送；交货额	di'li-vuh-ri
+demand	n/v	要求；要求	di'mahnd
+democracy	n	民主政治；民主	di'mok-ruh-si
+democrat	n	民主人士；民主党	de'-muhk-rat
+democratic	adj	民主的；民主的	de-muh'kra-tik
+demonstrate	vt/vi	示范；示威	de'-muhnst-rayt
+demonstration	n	示范；示教	de-muhn'stray-shuhn
+deny	v	否认	di'nai
+department	n	部门；部	di'paht-muhnt
+depend	vi	靠	di'pend
+dependent	n/adj	依赖他人者；依赖的	di'pen-duhnt
+depending		依赖	
+depict	vt	描述	di'pikt
+depression	n	不景气；抑郁	di'pre-shuhn
+depth	n	深度；深度	
+deputy	n	副手	dep'-yu-ti
+derive	vt/vi	得自；起源	di'raiv
+describe	vt	描述	di'skraib
+description	n	描述；说明书	di'skrip-shuhn
+desert	n/adj/vt	沙漠；沙漠的；放弃	de'-zuht-di-'surt
+deserve	vt/vi	该得到；应得报答	di'zurv
+design	n/v	设计；设计	di'zain
+designer	n	设计者；设计员	di'zai-nuhr
+desire	n/vt/vi	欲望；想要；渴望	di'zai-uhr
+desk	n	书桌	
+desperate	adj	不顾一切的	des'-puh-ruht
+despite	n/prep	轻视；虽然	di'spait
+destroy	vt	破坏	di'stroy
+destruction	n	破坏；破坏	di'struk-shuhn
+detail	n/vt/vi	细节；详述；画详图	dee'-tayl
+detailed	adj	详细的；详细的	dee'-tayld
+detect	vt	发现；发现	di'tekt
+determine	v	决定	di'tur-min
+develop	vt/vi	发展；发展	di've-luhp
+developing	adj	发展中的；显影	di've-luh-ping
+development	n	发展；展开	di've-luhp-muhnt
+device	n	装置；设备	di'vais
+devote	vt	投入于	di'voht
+dialogue	n/vi/vt	对话；对话；用对话表达	dai'-uh-log
+die	vi/vt/n	死亡；死；骰子	dai
+diet	n/vt/vi	日常饮食；照规定饮食；忌食	dai'-uht
+differ	vi	不一致；差异	di'-fuhr
+difference	n	不同；差分	di'-fuh-ruhns
+different	adj	不同的；差动	di'-fuh-ruhnt
+differently	adv	差异	dif'-rent-li
+difficult	adj	困难的	di'-fi-kuhlt
+difficulty	n	困难	di'-fi-kuhl-ti
+dig	vt/vi/n	挖；挖掘；挖掘	
+digital	adj/n	数字显示的；数字仪表；数字	di'-ji-tuhl
+dimension	n/vt	尺寸；标出尺寸	dai'men-shuhn
+dining	n	正餐	dai'-ning
+dinner	n	晚餐	di'-nuhr
+direct	adj/vt/vi	直接的；指示；指导	di'rekt
+direction	n	方向；方向	di'rek-shuhn
+directly	adv/conj	径直地；一...；直接的	di'rekt-li-dai'rekt-li
+director	n	主管；寻向偶极子	di'rek-tuhr
+dirt	n	污垢；污垢	durt
+dirty	adj/vt/vi	肮脏的；弄脏；变脏	dur'-ti
+disability	n	无力；劳动能力丧失	di-suh'bi-li-ti
+disagree	vi	不一致；抵触	di-suh'gree
+disappear	vi	消失	di-suh'pi-uhr
+disaster	n	灾祸	di'zahs-tuhr
+discipline	n/vt	训练；训练	di'-sip-lin
+discourse	n/vi	谈话；谈话	dis'-kaws
+discover	vt/vi	发现；发现	dis'ku-vuhr
+discovery	n	发现；要求告知	dis'ku-vuh-ri
+discrimination	n	差别；鉴别	disk-ri-mi'nay-shuhn
+discuss	vt	讨论；讨论	dis'kus
+discussion	n	讨论	dis'ku-shuhn
+disease	n	疾病；病	di'zeez
+dish	n	盘子；皿	
+dismiss	vt/vi	解散；解散；解散	dis'mis
+disorder	n/vt	杂乱；扰乱	di'saw-duhr
+display	n/vt	显示；陈列；显示器	
+dispute	n/v	争论；争论	dis'pyoot
+distance	n	距离；位距	dis'-tuhns
+distant	adj	远的；远期的	dis'-tuhnt
+distinct	adj	清楚的	dis'tingkt
+distinction	n	区别	dis'tingk-shuhn
+distinguish	v	区别	dis'tingg-wish
+distribute	vt	分配；分配	di'strib-yoot
+distribution	n	分配；分布	dist-ruh'byoo-shuhn
+district	n	区域；地区	dist'-rikt
+diverse	adj	不同的	dai'vurs
+diversity	n	差异；多样性	dai'vur-si-ti
+divide	vi/vt/n	分开；分；分配	di'vaid
+division	n	分；部分	di'vi-zhuhn
+divorce	n/vt	离婚；与...离婚	di'vaws
+do	v	做	doo
+doctor	n/vt/vi	医生；授以博士学位；行医	dok'-tuhr
+document	n/vt	文件；证明；文档	dok'-yu-muhnt
+dog	n/vt	狗；跟踪	
+domestic	adj	家庭的；家庭的	doh'mes-tik
+dominant	adj	占优势的；优性的	do'-mi-nuhnt
+dominate	v	支配	do'-mi-nayt
+door	n	门	dawr
+double	n/adj/vt	两倍；两倍的；使加倍	dubl
+doubt	n/v	怀疑；怀疑	dowt
+down	adj/adv/prep	向下的；下；往下	
+downtown	n/adj/adv	市中心区；市中心的；往闹市区	
+dozen	n/adj	打；一打的	duzn
+draft	n/vt	气流；起草；草稿	draftd-rahft
+drag	n/v	拖；拖累；拖动	
+drama	n	戏剧	drah'-muh
+dramatic	adj	戏剧性的	druh'ma-tik
+dramatically	adv	戏剧地	druh'ma-tik-li
+draw	vi/vt/n	拉；拖拉；拉	
+drawing	n	图画；绘图	
+dream	n/v	梦；做梦	dreem
+dress	n/vi/vt	服装；穿着；给...穿衣	dres
+drink	n/v	饮料；喝	dringk
+drive	n/vt/vi	驾车；开车；开车	draiv
+driver	n	驾驶员；驱动器	drai'-vuhr
+drop	n/vi/vt	滴；放下；使滴下	
+drug	n/vi/vt	药；吸毒；使服麻醉药	
+dry	adj/vt/vi	干的；把...弄干；变干	drai
+due	n/adj	应得的东西；到期的	dyoo
+during	prep	在...的时候	dyoor'-ring
+dust	n/vt/vi	灰尘；拂去灰尘；拂去灰尘	
+duty	n	责任；职责	dyoo'-ti

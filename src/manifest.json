@@ -1,0 +1,30 @@
+{
+  "package": "com.miband11exploration.dedict",
+  "name": "De词典",
+  "icon": "/common/images/deicon.png",
+  "versionName": "7.3.0",
+  "versionCode": 22,
+  "minPlatformVersion": 1000,
+  "minAPILevel": 1,
+  "features": [
+    { "name": "system.file" },
+    { "name": "system.vibrator" }
+  ],
+  "deviceTypeList": ["watch", "band"],
+  "config": {
+    "logLevel": "log",
+    "designWidth": "device-width"
+  },
+  "display": {
+    "backgroundColor": "#000000"
+  },
+  "router": {
+    "entry": "pages/index",
+    "pages": {
+      "pages/index": {
+        "component": "index",
+        "path": "/"
+      }
+    }
+  }
+}

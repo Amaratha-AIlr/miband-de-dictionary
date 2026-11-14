@@ -1,0 +1,62 @@
+jet lag	n	飞行时差反应	
+job action		工作行动	
+job behavior		作业特性	
+job case		工作案例	
+job class		作业分类；作业分类	
+job control		作业控制	
+job control language		作业控制语言	
+job control program		工件控制程序	
+job data program		作业数据程序	
+job family		同类工作	
+job lot		小批	
+job lot cost system		批量成本制度	
+job model		作业模型	
+job name		作业名	
+job number		工程号	
+job off		赚钱卖出	
+job office		工务处	
+job order		任务单；分批工作通知单	
+job order cost system		分批成本制度	
+job order system		分批制度	
+job out		分包出去	
+job practice		施工方法；施工方法	
+job program		加工程序；加工程序	
+job rate		生产定额	
+job site		现场；工地	
+job source record		作业源记录	
+job step		作业步；工作步骤	
+job study		工作研究	
+job system		分批制度	
+job time report		工作时间报告	
+job work		包工	
+join force with		合作	
+join in		参加	
+join issue with		与…争论	
+join on		联接在…	
+join up		参军	
+junk bond	n	不值钱的债券	
+just a minute		请等一会儿	
+just a moment		等一会儿	
+just about		几乎	
+just about enough		差不多够了	
+just as		正象	
+just as well		幸好	
+just as you say		正象你说的那样	
+just cause		正当理由	
+just decision		公正的决定	
+just fine		好啊	
+just for once		只这一次	
+just in case		以防万一	
+just in time		正好	
+just in time for		恰好赶上…	
+just now		刚刚	
+just on		差不多	
+just price		合理的价格	
+just right		恰好	
+just so		正是如此	
+just the job		正是需要的东西	
+just the same		完全一样	
+just the thing		正是想要的	
+just then		就在这时候	
+just war		正义战争	
+just yet		还	

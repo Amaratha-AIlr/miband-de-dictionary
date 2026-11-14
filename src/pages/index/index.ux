@@ -1,0 +1,664 @@
+<!-- De词典 v6 · 黑白设计 + 输入时搜索框居中
+
+     配色：纯黑底 / 白色主字 / 灰色次字，无彩色
+     开屏：图标 + 名称 + 署名（系统启动图关不掉，这里同底色衔接）
+     输入：搜索框居中在键盘上方区域正中（不是贴顶栏）
+     键盘：components/InputMethod（212×520 验证版，左右滑动显示全键）
+-->
+<import name="input-method" src="../../components/InputMethod/InputMethod.ux"></import>
+
+<template>
+  <div class="dd-page">
+
+    <!-- ================= ① 首页（整体居中） ================= -->
+    <div class="dd-home" if="{{view === 'home'}}">
+      <image class="dd-homelogo" src="/common/images/deicon.png"></image>
+      <text class="dd-title">DE词典</text>
+
+      <div class="dd-searchbox" @click="openInput">
+        <text class="dd-searchph">点击输入文本</text>
+        <text class="dd-searchicon">⌕</text>
+      </div>
+
+      <text class="dd-about" @click="showAbout">关于</text>
+    </div>
+
+    <!-- ================= ①.5 关于页 ================= -->
+    <div class="dd-aboutview" if="{{view === 'about'}}">
+      <div class="dd-bar">
+        <text class="dd-back" @click="backHome">‹</text>
+        <text class="dd-bartitle">关于</text>
+      </div>
+
+      <div class="dd-aboutbody">
+        <image class="dd-authors" src="/common/images/authors.png"></image>
+
+        <text class="dd-motto">每个词背后，都有一整个世界。</text>
+
+        <text class="dd-sign">Amarantha</text>
+        <text class="dd-sign2">搭载 DSH 的 DeepSeek</text>
+
+        <text class="dd-ver">v{{version}}</text>
+      </div>
+    </div>
+
+    <!-- ================= ② 输入态（搜索框居中） ================= -->
+    <div class="dd-inputview" if="{{view === 'input'}}">
+      <text class="dd-back2" @click="backHome">‹</text>
+
+      <div class="dd-ibox" @click="doSearch">
+        <text class="dd-itext">{{query === '' ? '输入单词或中文' : query}}</text>
+        <text class="dd-isearch">⌕</text>
+      </div>
+
+      <text class="dd-itip">输完点搜索框右边 ⌕</text>
+    </div>
+
+    <!-- ================= ③ 列表页 ================= -->
+    <div class="dd-listview" if="{{view === 'list'}}">
+      <div class="dd-bar">
+        <text class="dd-back" @click="backInput">‹</text>
+        <text class="dd-qtext">{{query}}</text>
+        <text class="dd-count">{{rows.length}}</text>
+      </div>
+
+      <div class="dd-rows">
+        <div class="dd-row" for="{{row in rows}}" @click="openDetail(row.word)">
+          <text class="dd-roww">{{row.word}}</text>
+          <text class="dd-rowm">{{row.meaning}}</text>
+        </div>
+        <text class="dd-empty" if="{{rows.length === 0}}">没找到相关单词</text>
+      </div>
+    </div>
+
+    <!-- ================= ④ 详情页 ================= -->
+    <div class="dd-detailview" if="{{view === 'detail'}}">
+      <div class="dd-bar">
+        <text class="dd-back" @click="backList">‹</text>
+        <text class="dd-bartitle">详情</text>
+      </div>
+
+      <div class="dd-card" if="{{detail !== null}}">
+        <text class="dd-word">{{detail.word}}</text>
+        <text class="dd-resp" if="{{detail.resp !== ''}}">{{detail.resp}}</text>
+        <div class="dd-posrow" if="{{detail.pos !== ''}}">
+          <text class="dd-postag">{{detail.pos}}</text>
+        </div>
+        <text class="dd-meaning">{{detail.meaning}}</text>
+      </div>
+
+      <div class="dd-phrase" @click="showPhrase">
+        <text class="dd-phraset">相关短语 {{phraseRows.length}}</text>
+      </div>
+
+      <div class="dd-phaselist" if="{{phraseRows.length > 0}}">
+        <div class="dd-phaserow" for="{{p in phraseRows}}" @click="openDetail(p.word)">
+          <text class="dd-phasew">{{p.word}}</text>
+          <text class="dd-phasem">{{p.meaning}}</text>
+        </div>
+      </div>
+
+      <text class="dd-nophrase" if="{{phraseTip !== ''}}">{{phraseTip}}</text>
+    </div>
+
+    <!-- ================= 键盘 ================= -->
+    <input-method
+      hide="{{kbHidden}}"
+      keyboardtype="{{kbType}}"
+      maxlength="{{kbMaxLen}}"
+      vibratemode="{{kbVibrate}}"
+      screentype="{{kbScreen}}"
+      @visibility-change="onKbVisibility"
+      @key-down="onKbKeyDown"
+      @delete="onKbDelete"
+      @complete="onKbComplete"
+      @ready="onKbReady">
+    </input-method>
+
+  </div>
+</template>
+
+<style>
+  .dd-page {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    background-color: #000000;
+  }
+
+  /* ---------- 开屏 ---------- */
+  .dd-splash {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+  }
+
+  .dd-splashlogo {
+    width: 92px;
+    height: 92px;
+    border-radius: 20px;
+  }
+
+  .dd-splashtitle {
+    font-size: 28px;
+    color: #ffffff;
+    margin-top: 16px;
+  }
+
+  .dd-splashline {
+    font-size: 12px;
+    color: #9a9a9a;
+    margin-top: 8px;
+  }
+
+  .dd-splashcredit {
+    font-size: 10px;
+    color: #6b6b6b;
+    margin-top: 28px;
+  }
+
+  /* ---------- 首页 ---------- */
+  .dd-home {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+    padding-bottom: 8px;
+  }
+
+  .dd-homelogo {
+    width: 76px;
+    height: 76px;
+    border-radius: 17px;
+    margin-bottom: 14px;
+  }
+
+  .dd-title {
+    font-size: 29px;
+    color: #ffffff;
+    margin-bottom: 22px;
+  }
+
+  .dd-searchbox {
+    width: 176px;
+    height: 42px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 14px;
+    border-radius: 21px;
+    border: 1px solid #4a4a4a;
+    background-color: #141414;
+  }
+
+  .dd-searchph {
+    font-size: 13px;
+    color: #8a8a8a;
+  }
+
+  .dd-searchicon {
+    font-size: 18px;
+    color: #ffffff;
+  }
+
+  .dd-about {
+    font-size: 13px;
+    color: #8a8a8a;
+    margin-top: 26px;
+  }
+
+  .dd-abtip {
+    font-size: 10px;
+    color: #5a5a5a;
+    margin-top: 6px;
+  }
+
+  /* ---------- 输入态：搜索框居中 ---------- */
+  .dd-inputview {
+    width: 100%;
+    height: 215px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+  }
+
+  .dd-back2 {
+    position: absolute;
+    left: 10px;
+    top: 8px;
+    font-size: 20px;
+    color: #9a9a9a;
+  }
+
+  .dd-ibox {
+    width: 178px;
+    min-height: 46px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6px 14px;
+    border-radius: 23px;
+    border: 1px solid #6e6e6e;
+    background-color: #141414;
+  }
+
+  .dd-itext {
+    font-size: 15px;
+    color: #ffffff;
+    flex: 1;
+  }
+
+  .dd-isearch {
+    font-size: 19px;
+    color: #ffffff;
+    margin-left: 6px;
+  }
+
+  .dd-itip {
+    font-size: 11px;
+    color: #5f5f5f;
+    margin-top: 12px;
+  }
+
+  /* ---------- 关于页 ---------- */
+  .dd-aboutview {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    background-color: #000000;
+  }
+
+  .dd-aboutbody {
+    width: 100%;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 18px;
+  }
+
+  .dd-authors {
+    width: 178px;
+    height: 92px;
+  }
+
+  .dd-motto {
+    font-size: 13px;
+    color: #cfcfcf;
+    margin-top: 14px;
+    width: 186px;
+    text-align: center;
+  }
+
+  .dd-sign {
+    font-size: 15px;
+    color: #ffffff;
+    margin-top: 16px;
+  }
+
+  .dd-sign2 {
+    font-size: 10px;
+    color: #8a8a8a;
+    margin-top: 3px;
+  }
+
+  .dd-ver {
+    font-size: 10px;
+    color: #5a5a5a;
+    margin-top: 12px;
+  }
+
+  /* ---------- 通用顶栏 ---------- */
+  .dd-bar {
+    width: 100%;
+    height: 40px;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 8px;
+    background-color: #111111;
+  }
+
+  .dd-back {
+    font-size: 22px;
+    color: #ffffff;
+    width: 26px;
+  }
+
+  .dd-qtext {
+    font-size: 16px;
+    color: #ffffff;
+    flex: 1;
+  }
+
+  .dd-count {
+    font-size: 12px;
+    color: #8a8a8a;
+  }
+
+  .dd-bartitle {
+    font-size: 16px;
+    color: #ffffff;
+  }
+
+  /* ---------- 列表页 ---------- */
+  .dd-listview {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    background-color: #000000;
+  }
+
+  .dd-rows {
+    width: 100%;
+    flex: 1;
+    flex-direction: column;
+    padding: 6px 8px;
+    overflow: hidden;
+  }
+
+  .dd-row {
+    width: 100%;
+    height: 38px;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 8px;
+    background-color: #141414;
+    margin-bottom: 4px;
+    padding: 0px 10px;
+  }
+
+  .dd-roww {
+    font-size: 17px;
+    color: #ffffff;
+  }
+
+  .dd-rowm {
+    font-size: 12px;
+    color: #7a7a7a;
+    margin-left: 8px;
+  }
+
+  .dd-empty {
+    font-size: 14px;
+    color: #7a7a7a;
+    margin-top: 16px;
+  }
+
+  /* ---------- 详情页 ---------- */
+  .dd-detailview {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    background-color: #000000;
+  }
+
+  .dd-card {
+    width: 188px;
+    flex-direction: column;
+    margin: 12px 0px 0px 12px;
+    padding: 12px;
+    border-radius: 14px;
+    background-color: #141414;
+  }
+
+  .dd-word {
+    font-size: 24px;
+    color: #ffffff;
+  }
+
+  .dd-resp {
+    font-size: 14px;
+    color: #9a9a9a;
+    margin-top: 4px;
+  }
+
+  .dd-posrow {
+    width: 100%;
+    flex-direction: row;
+    margin-top: 8px;
+  }
+
+  .dd-postag {
+    font-size: 11px;
+    color: #ffffff;
+    padding: 3px 9px;
+    border-radius: 9px;
+    border: 1px solid #5a5a5a;
+  }
+
+  .dd-meaning {
+    font-size: 16px;
+    color: #e6e6e6;
+    margin-top: 6px;
+  }
+
+  .dd-phrase {
+    width: 124px;
+    height: 34px;
+    justify-content: center;
+    align-items: center;
+    margin: 14px 0px 0px 12px;
+    border-radius: 17px;
+    border: 1px solid #5a5a5a;
+  }
+
+  .dd-phraset {
+    font-size: 13px;
+    color: #cfcfcf;
+  }
+
+  .dd-nophrase {
+    font-size: 11px;
+    color: #6b6b6b;
+    margin: 8px 0px 0px 14px;
+  }
+
+  .dd-phaselist {
+    width: 188px;
+    flex-direction: column;
+    margin: 8px 0px 0px 12px;
+  }
+
+  .dd-phaserow {
+    width: 100%;
+    flex-direction: column;
+    padding: 7px 9px;
+    border-radius: 8px;
+    background-color: #141414;
+    margin-bottom: 4px;
+  }
+
+  .dd-phasew {
+    font-size: 14px;
+    color: #ffffff;
+  }
+
+  .dd-phasem {
+    font-size: 11px;
+    color: #8a8a8a;
+    margin-top: 2px;
+  }
+</style>
+
+<script>
+import file from '@system.file'
+import { createDict } from '../../common/scripts/dict.js'
+
+export default {
+  data: {
+    view: 'home',
+    query: '',
+    rows: [],
+    detail: null,
+    phraseTip: '',
+    version: '7.2.0',
+    phraseRows: [],
+    kbHidden: true,
+    kbType: 'QWERTY',
+    kbMaxLen: 24,
+    kbVibrate: 'short',
+    kbScreen: 'pill-shaped'
+  },
+
+  onInit() {
+    this.dict = createDict(file)
+    console.log('[DeDICT] v7 ready')
+  },
+
+  onDestroy() {
+    this.dict = null
+  },
+
+  /* 分级返回：详情 → 列表 → 输入 → 首页 → 退出 */
+  onBackPress() {
+    if (this.view === 'detail') {
+      this.backList()
+      return true
+    }
+    if (this.view === 'list') {
+      this.backInput()
+      return true
+    }
+    if (this.view === 'about') {
+      this.backHome()
+      return true
+    }
+    if (this.view === 'input') {
+      this.backHome()
+      return true
+    }
+    return false
+  },
+
+  /* ---------- 导航 ---------- */
+  openInput() {
+    this.view = 'input'
+    this.query = ''
+    this.rows = []
+    this.kbHidden = false
+  },
+
+  backHome() {
+    this.view = 'home'
+    this.query = ''
+    this.rows = []
+    this.kbHidden = true
+  },
+
+  backInput() {
+    this.view = 'input'
+    this.kbHidden = false
+  },
+
+  backList() {
+    this.view = 'list'
+    this.detail = null
+    this.phraseTip = ''
+  },
+
+  showAbout() {
+    this.view = 'about'
+  },
+
+  showPhrase() {
+    const that = this
+    const w = this.detail ? this.detail.word : ''
+    if (!w) return
+    this.phraseTip = '查询中…'
+    this.dict.relatedPhrases(w, 8).then(function (list) {
+      that.phraseRows = list || []
+      that.phraseTip = (list && list.length) ? '' : '没有找到相关短语'
+    }).catch(function (e) {
+      that.phraseRows = []
+      that.phraseTip = '短语查询出错'
+      console.log('[DeDICT] phrase error: ' + (e && e.message ? e.message : e))
+    })
+  },
+
+  /* ---------- 键盘事件 ---------- */
+  onKbComplete(evt) {
+    const content = evt && evt.detail && evt.detail.content
+    if (!content) return
+    if (this.query.length >= this.kbMaxLen) return
+    this.query = this.query + content
+  },
+
+  onKbKeyDown(evt) {
+    /* 仅记录，不参与拼接 */
+  },
+
+  onKbDelete() {
+    if (!this.query) return
+    this.query = this.query.substring(0, this.query.length - 1)
+  },
+
+  onKbVisibility(evt) {
+    if (evt && evt.detail) {
+      this.kbHidden = !evt.detail.visible
+    }
+  },
+
+  onKbReady() {
+    console.log('[DeDICT] keyboard ready')
+  },
+
+  /* ---------- 搜索 ---------- */
+  doSearch() {
+    const that = this
+    const q = String(this.query || '').trim()
+    if (!q) return
+    this.kbHidden = true
+    this.view = 'list'
+    this.rows = []
+
+    if (/[\u4e00-\u9fff]/.test(q)) {
+      this.dict.searchZh(q).then(function (r) {
+        const out = []
+        const cands = (r && r.candidates) || []
+        for (let i = 0; i < cands.length && out.length < 40; i++) {
+          out.push({ word: cands[i], meaning: '' })
+        }
+        that.rows = out
+      }).catch(function (e) {
+        that.rows = []
+        console.log('[DeDICT] zh error: ' + (e && e.message ? e.message : e))
+      })
+      return
+    }
+
+    this.dict.searchEn(q).then(function (en) {
+      const out = []
+      const seen = {}
+      function push(word, meaning) {
+        if (!word || seen[word]) return
+        seen[word] = 1
+        out.push({ word: word, meaning: meaning || '' })
+      }
+      if (en.exact) push(en.exact.word, en.exact.meaning)
+      for (let i = 0; i < en.near.length; i++) push(en.near[i].word, en.near[i].meaning)
+      that.rows = out.slice(0, 40)
+    }).catch(function (e) {
+      that.rows = []
+      console.log('[DeDICT] en error: ' + (e && e.message ? e.message : e))
+    })
+  },
+
+  /* ---------- 详情 ---------- */
+  openDetail(word) {
+    const that = this
+    this.view = 'detail'
+    this.detail = null
+    this.phraseTip = ''
+    this.phraseRows = []
+    this.dict.getEntry(word).then(function (e) {
+      that.detail = e || { word: word, pos: '', meaning: '没有找到释义', resp: '' }
+    })
+  }
+}
+</script>

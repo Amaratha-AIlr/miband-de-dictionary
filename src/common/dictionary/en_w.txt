@@ -1,0 +1,99 @@
+wage	n/vt/vi	工资；开展；进行	wayj
+wait	n/vt/vi	等待；等候；等	wayt
+wake	vt/vi/n	叫醒；醒来；守侯	wayk
+walk	n/vi/vt	走；走路；走过	wawk
+wall	n/adj/vt	墙；墙的；给...建墙	wawl
+wander	vi/vt	游荡；在...漫游	won'-duhr
+want	n/vt/vi	需要的东西；要；生活困苦	wont
+war	n/vi/adj	战争；进行战争；战争的	wawr
+warm	adj/vt/vi	暖和的；使温暖；变暖和	wawm
+warn	vt/vi	警告；发出警告	wawn
+warning	n	警告；警告	waw'-ning
+wash	n/vt/vi	洗；洗；洗涤	wosh
+waste	n/adj/vt	浪费；废弃的；浪费	wayst
+watch	n/vt/vi	观察；看；观看	woch
+water	n/vt/vi	水；给...浇水；流泪	waw'-tuhr
+wave	n/vi/vt	波；波动；使波动	wayv
+way	n/adv	路；远远地	
+we	pron	我们	wee
+weak	adj	不牢固的；疲软的	week
+wealth	n	财富；财富	welth
+wealthy	adj	富有的	wel'-thi
+weapon	n/vt	武器；武装	we'-puhn
+wear	n/vt/vi	穿着；穿着；磨损	wair
+weather	n/adj/vt	天气；迎风的；使受风吹雨打	we'-dhuhr
+wedding	n	婚礼；结婚	we'-ding
+week	n	星期	
+weekend	n	周末	
+weekly	n/adj/adv	周刊；每周的；每周	week'-li
+weigh	vt/vi/n	称...重量；称分量；过秤	way
+weight	n/vt	重；加重量于；粗细	wayt
+welcome	n/adj/vt	欢迎；受欢迎的；欢迎	wel'-kuhm
+welfare	n/adj	福利；福利的	wel'-fair
+well	n/v/adj	井；涌出；健康的	wel
+west	n/adj/adv	西方；西方的；向西	
+western	n/adj	西方人；向西方的	wes'-tuhn
+wet	n/adj/vi	湿气；湿的；变湿	
+what	pron/adj	什么；interj. 怎么；什么的	hwot
+whatever	pron	无论什么	hwo'te-vuhr
+wheel	n/vt/vi	轮子；使旋转；旋转	hweel
+when	conj/adv/pron	当...的时候；何时；什么时侯	hwen
+whenever	conj/adv	每当；不论何时	hwe'ne-vuhr
+where	adv/pron/n	在哪里；哪里；地点	hwair
+whereas	conj	然而；考虑到	hwair'raz
+whether	conj/pron	是否；两个中的哪一个	hwe'-dhuhr
+which	pron	哪一个	hwich
+while	n/conj/vt	一会儿；当...的时候；消磨	hwail
+whisper	n/vi/vt	耳语；耳语；低声说	hwis'-puhr
+white	n/adj	白色；白色的	hwait
+who	pron	谁	hoo
+whole	n/adj	全部；所有的	hohl
+whom	pron	谁	hoom
+whose	pron	谁的	hooz
+why	adv/n	为什么；原因	hwai
+wide	adj/adv/n	宽的；广阔地；大千世界	waid
+widely	adv	广泛地	waid'-li
+widespread	adj	充分伸展的	waidsp'-red
+wife	n	妻子；妻子	waif
+wild	n/adj/adv	荒野；野性的；狂暴地	waild
+will	n/vt/vi	意志；用意志的力量驱使；下决心	wil
+willing	adj	乐意的	wi'-ling
+win	vt/vi/n	赢得；获胜；胜利	
+wind	n/vt/vi	风；使通风；嗅出猎物	
+window	n/vt	窗户；给...开窗；窗口	win'-doh
+wine	n/v	葡萄酒；喝酒	wain
+wing	n/vt/vi	翅膀；给...装上翼；飞行	
+winner	n	胜利者；取胜者	wi'-nuhr
+winter	n/adj/vt	冬季；冬天的；使度过冬天	win'-tuhr
+wipe	n/vt/vi	擦拭；擦；擦	waip
+wire	n/vt/vi	电线；用金属丝捆扎；打电报	wai'-uhr
+wisdom	n	智慧	wiz'-duhm
+wise	adj/vi/vt	明智的；知道；教导	waiz
+wish	n/vt/vi	希望；愿；希望	
+with	prep	和...在一起	widh
+withdraw	vt/vi	撤回；撤退	widh'draw
+within	n/adv/prep	内部；在内部；在...之内	wi'dhin
+without	prep/adv/n	没有；在外面；外面	wi'dhowt
+witness	n/vt/vi	证人；目击；作证人	wit'-nis
+woman	n/adj/vt	女人；女用的；贬称...为女人	wu'-muhn
+wonder	n/vt/vi	奇迹；惊奇；惊讶	wun'-duhr
+wonderful	adj	令人惊奇的	wun'-duh-ful
+wood	n/vt/vi	木材；植林于；收集木材	wud
+wooden	adj	木制的	wudn
+word	n/vt	话；用言辞表达；字	wurd
+work	n/vi/vt	工作；工作；使工作	wurk
+worker	n	工人；工人	wur'-kuhr
+working	n/adj	工作；工作的	wur'-king
+works	n	工程；工厂	
+workshop	n	工场；讨论会	wurk'-shop
+world	n	世界；世界	wurld
+worried	adj	担心的	wu'-rid
+worry	n/vt/vi	担心；使烦恼；烦恼	wu'-ri
+worth	n/adj	价值；值...的	wurth
+would	aux	将	wud
+wound	n/vt/vi	创伤；伤害；打伤	woond
+wrap	n/vt/vi	外套；包装；缠绕	rap
+write	vt/vi	书写；写；书写器	rait
+writer	n	作家；记录器	rai'-tuhr
+writing	n	书写；书写	rai'-ting
+wrong	adj/adv	错误的；错误地	rong

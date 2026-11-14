@@ -1,0 +1,127 @@
+I	pron	我；电流	ai
+IE		中断启动	ee'-ay
+Indian	n/adj	印度人；印度的	in'-di-uhn
+Iraqi	n/adj	伊拉克人；伊拉克的	i'rah-ki
+Irish	n/adj	爱尔兰人；爱尔兰的	ai'-rish
+Islam	n	伊斯兰教	iz'-lahm
+Islamic	adj	伊斯兰教的	iz'la-mik
+Israeli	adj/n	以色列的；以色列人	iz'ray-li
+Italian	n/adj	意大利人；意大利的	i'tal-yuhn
+ice	n/vt/vi	冰；使结冰；结冰	ais
+idea	n	主意；观念	ai'di-uh
+ideal	n/adj	理想；理想的	ai'di-uhl
+identification	n	识别；鉴定	ai-den-ti-fi'kay-shuhn
+identify	vt/vi	识别；一致	ai'den-ti-fai
+identity	n	身份；标记	ai'den-ti-ti
+if	conj/n	如果；条件；DOS批处理命令:根据所测试的条件决定是否执行另一条命令	
+ignore	vt	不理睬；忽略	ig'nawr
+ill	n/adj/adv	疾病；生病的；有害地	il
+illegal	adj	违法的；非法的	i'lee-guhl
+illness	n	疾病；病	il'-nis
+illustrate	vt/vi	举例说明；举例说明	i'-luhst-rayt
+image	n/vt	影像；作...的像；图像	i'-mij
+imagination	n	想像；想像	i-ma-ji'nay-shuhn
+imagine	vt/vi	想像；想像起来	i'ma-jin
+immediate	adj	立即的；直接的	i'mee-di-uht
+immediately	adv	直接地	i'mee-di-uht-li
+immigrant	n/adj	移民；移入的	i'-mig-ruhnt
+immigration	n	移民；移民	i-mi'gray-shuhn
+impact	n/vt	冲击；挤入	im'-pakt
+implement	n/vt	工具；实现	imp'-li-muhnt
+implication	n	牵连；推断	imp-li'kay-shuhn
+imply	vt	暗示；隐含	im'plai
+importance	n	重要；重要	im'paw-tuhns
+important	adj	重要的；要点	im'paw-tuhnt
+impose	vt/vi	征；利用	im'pohz
+impossible	adj	不可能的	im'po-suhbl
+impress	n/vt/vi	印象；使有印象；给人印象	im'pres
+impression	n	印象；压迹	im'pre-shuhn
+impressive	adj	给人深刻印象的	im'pre-siv
+improve	vt/vi	改良；变得更好	im'proov
+improvement	n	进步；改善	im'proov-muhnt
+in	prep/adv/adj	在...期间；进入；在里面的	
+incentive	n/adj	动机；激励的	in'sen-tiv
+incident	n/adj	事件；附带的	in'-si-duhnt
+include	vt	包括；DOS内部命令:在CONFIG.SYS文件的一个配置块中包含另一配置块的内容	in'klood
+including	prep	包含；包括	
+income	n	收入；收益	in'-kum
+incorporate	adj/vt/vi	合并的；吸收；合并	in'kaw-puh-rayt
+increase	n/vt/vi	增加；增加；增加	in'krees
+increased	adj	增强的（increase的过去分词）	in'kreest
+increasing		递增	in'kree-sing
+increasingly	adv	逐渐地	in'kree-sing-li
+incredible	adj	难以置信的	in'kre-duhbl
+indeed	adv	的确	
+independence	n	独立；自主性	in-di'pen-duhns
+independent	n/adj	独立自主者；独立的	in-di'pen-duhnt
+index	n/vt/vi	索引；编入索引中；做索引	in'-deks
+indicate	vt	显示；指示	in'-di-kayt
+indication	n	指示；指示	in-di'kay-shuhn
+individual	n/adj	人；个别的	in-di'vi-joorl
+industrial	adj/n	工业的；工业工人	in'dust-ri-uhl
+industry	n	勤劳；工业	in'-duhst-ri
+infant	n/adj	婴儿；婴儿的	in'-fuhnt
+infection	n	传染；传染	in'fek-shuhn
+inflation	n	胀大；充气吹胀	in'flay-shuhn
+influence	n/vt	影响力；影响	inf'-loorns
+inform	vt/vi	通知；提供资料	in'fawm
+information	n	消息；信息	in-fuh'may-shuhn
+ingredient	n	成分；配合剂	in'gree-di-uhnt
+initial	n/adj/vt	字首；开始的；用姓名的首字母签名	i'ni-shuhl
+initially	adv	最初	i'ni-shuh-li
+initiative	n/adj	主动行动；自发的	i'ni-shi-uh-tiv
+injury	n	伤害；伤	in'-juh-ri
+inner	adj/n	内部的；内部	i'-nuhr
+innocent	adj/n	无罪的；天真的人	i'-nuh-suhnt
+inquiry	n	质询；询问	in'kwai-uh-ri
+inside	n/adj/adv	内部；内部的；在里面	in'-'said
+insight	n	察看；自知力	in'-sait
+insist	v	坚持	
+inspire	vt/vi	使感动；吸入	in'spai-uhr
+install	vt	安装；安装	in'stawl
+instance	n/vt	建议；引以为例	ins'-tuhns
+instead	adv	作为替代	in'sted
+institution	n	机构；机关	ins-ti'tyoo-shuhn
+institutional	adj	制度的；组织机构的	ins-ti'tyoo-shuh-nuhl
+instruction	n	指令；指令	in'struk-shuhn
+instructor	n	教员；指导者	in'struk-tuhr
+instrument	n	工具；仪器	inst'-ru-muhnt
+insurance	n	保险；保险	in'shu-ruhns
+intellectual	n/adj	有知识者；智力的	in-tuh'lek-choorl
+intelligence	n	智力；智力	in'te-li-juhns
+intend	vt	计划；想要	
+intense	adj	非常的；强的	in'tens
+intensity	n	强烈；强度	in'ten-suh-ti
+intention	n	意图；愈合	in'ten-shuhn
+interaction	n	交互作用；交互作用	in-tuh'rak-shuhn
+interest	n/vt	兴趣；使感兴趣	int'-rist
+interested	adj	感兴趣的；有利害关系的	int'-ris-tid
+interesting	adj	有趣的	int'-ris-ting
+internal	adj	内在的；内的	in'tur-nuhl
+international	adj/n	国际的；国别设定；国别设定	in-tuh'na-shuh-nuhl
+internet		因特网	in'-tuh-net
+interpret	vt/vi	解释；翻译	in'turp-rit
+interpretation	n	解释；插值	in-turp-ri'tay-shuhn
+intervention	n	插入；干预	in-tuh'ven-shuhn
+interview	n/vt	面谈；接见	in'-tuhv-yoo
+into	prep	进入...之内	in'-too
+introduce	vt	介绍；引进	int-ruh'dyoos
+introduction	n	介绍	int-ruh'duk-shuhn
+invasion	n	侵犯；侵袭	in'vay-zhuhn
+invest	vt/vi	投资；投资	
+investigate	v	调查	in'ves-ti-gayt
+investigation	n	调查；调查	in-ves-ti'gay-shuhn
+investigator	n	调查者；审查员	in'ves-ti-gay-tuhr
+investment	n	投资；包埋料	in'vest-muhnt
+investor	n	投资者；投资者	in'ves-tuhr
+invite	vt/n	邀请；邀请	in'vait
+involve	vt	包括；累及	in'volv
+involved	adj	难懂的；包含	in'volvd
+involvement	n	卷入；财政困难	in'volv-muhnt
+iron	n/vt/vi	铁；烫平；烫平	ai'-uhn
+island	n/vt	岛；使成岛状	ai'-luhnd
+issue	n/vi/vt	发行；发行；使流出	is'-yu
+it	pron	它；信息论	
+item	n	项目；项	ai'-tuhm
+its	pron	它的	
+itself	pron	它本身	

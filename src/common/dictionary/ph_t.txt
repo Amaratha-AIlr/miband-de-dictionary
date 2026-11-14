@@ -1,0 +1,832 @@
+table area		表域	
+table arm		台臂	
+table data		表数据	
+table game		桌面游戏	
+table head		表头	
+table language		表语言	
+table light		台灯	
+table money		就餐费	
+table of information		信息表	
+table of word period		字周期表	
+table oil		高级食用油	
+table seek		表查找	
+table service		成套餐具；餐桌服务	
+table set		成套餐具	
+table size		表大小	
+table talk		席间漫谈	
+table tennis		乒乓球	
+table time		时间表	
+table top		表上部	
+table top computer		台式计算机	
+table write		表写入	
+take a break		休息	
+take a chance		冒险	
+take a chance on		冒险	
+take a course		学习一门课程	
+take a day off		请一天假	
+take a decision		做出决定	
+take a drop		喝酒	
+take a fall		被打败	
+take a good picture		照相好看	
+take a hand in		参与	
+take a hit		主动出击	
+take a letter		记录口授函件	
+take a look		看一看	
+take a look at		看一看…	
+take a mean course		采取折衷方针	
+take a moment		花一些时间	
+take a picture		摄影	
+take a position		抢占位置	
+take a pull at		拉…一下	
+take a rest		休息一下	
+take a right		向右转	
+take a risk		冒险；承担风险	
+take a role in		在…中起作用	
+take a run		跑步	
+take a shoot		在激流中驶过	
+take a stand		採取某种立场	
+take a stand against		反对	
+take a strong line		干得起劲	
+take a test		参加测验	
+take a turn		发生某种变化	
+take a view of		观察	
+take a walk		散步	
+take a wife		娶妻	
+take action		采取行动	
+take action on		对…採取措施	
+take advantage of	v	利用；欺骗	
+take after		像；象	
+take against		反对	
+take air		传开	
+take along		随身携带	
+take as		把...看作是...	
+take away		取走	
+take back		送还；撤消	
+take by		握住	
+take by themselves		就本身来说	
+take care		当心	
+take care of		照顾；抚养	
+take control	vi	采取控制	
+take control of		控制	
+take cover		隐蔽	
+take down		拿下；纪录	
+take effect		见效；生效	
+take fire		着火	
+take first place		居首位	
+take five		稍事休息	
+take for		认为；当作	
+take for a walk		去散步	
+take for choice		要选就选	
+take form		成形	
+take from		减少	
+take from the table		重新讨论	
+take ground		着陆	
+take heart		振作	
+take hold		（如通过抓握来）夺取	
+take hold of		握住	
+take home		送回家	
+take in		接受；收容	
+take in hand		承担	
+take in water		装水	
+take interest in		对…发生兴趣	
+take into effect		开始生效	
+take issue		采取反对立场	
+take issue against		与…争论	
+take issue with		提出异议	
+take it		猜想	
+take it easy		从容	
+take it from me		相信我的话	
+take it hard		受到沉重打击	
+take it out in		接受...作为抵偿	
+take it out of		向...报复	
+take leave		向…告别	
+take leave of		向...告别	
+take leave to		冒昧…	
+take life		杀生	
+take note		重视	
+take note of		注意到	
+take nothing for		不在乎...	
+take notice of		注意到	
+take off		拿掉；取消	
+take off a tax		取消一种税	
+take office		就职	
+take on		呈现	
+take on board		考虑	
+take order to	v	採取适当手段去	
+take order with		安排	
+take out		拿出；取出	
+take out of service		取出不用	
+take over		接收；接管	
+take over for use		征用	
+take part		参加比赛	
+take part in		参与；参加	
+take part with		支持；与...合作	
+take place		发生	
+take rest		休息	
+take risk		承担风险	
+take service with		在...帮佣	
+take side with		偏袒	
+take someone to court		起诉某人	
+take something as read		接受某事物的真实性	
+take step		设法处置	
+take stock		清点存货；清查存货	
+take stock in		购买...的股票	
+take stock of		估计；估量	
+take the air		到户外散步	
+take the air line		走直线	
+take the evidence		保全证据	
+take the field		开始作战	
+take the first place		居首位	
+take the floor		发言；发言	
+take the form of		採取…形式	
+take the ground		搁浅	
+take the lead		为首	
+take the long view		从长远着想	
+take the opportunity		利用机会	
+take the part of		与...站在一边	
+take the part with		与...站在一边	
+take the pick of		有选择的余地	
+take the place of		代替；代替	
+take the risk of		冒…的危险	
+take the road		选择特定道路	
+take the road of		占先	
+take the service		发球	
+take the situation in		认清形势	
+take the stand		站在证人席上作证	
+take the water		下水	
+take thought		寻思	
+take thought for		担心	
+take thought or		对…担心	
+take time		从容进行	
+take time off		<美>抽出一部分时间	
+take time off to		暂停下来	
+take time out to		暂停下来	
+take to		开始	
+take to be		把...看作是...	
+take to heart		对…想不开	
+take to the road		出发	
+take to wife		娶为妻	
+take turn		依次	
+take up		拿起；付清	
+take up a case		受理案件	
+take up a position		选好位置	
+take up position		佔据适当位置	
+take up short		插嘴	
+take up with		与...亲密交往；忍受	
+take water		下水	
+talk about		讨论	
+talk against		讲某人的坏话	
+talk against time		在规定时间内尽快讲完；在规定时间内尽快讲完	
+talk at large		详谈	
+talk away		不断地谈	
+talk back		顶嘴	
+talk big		吹牛	
+talk business		谈生意经	
+talk down		大声说话盖住（某人）	
+talk in high language		说大话	
+talk into		说服（某人）做（某事）	
+talk large		说大话	
+talk of		谈到	
+talk of the town		街谈巷议	
+talk out		把...谈透	
+talk out of		劝服（某人）不做（某事）	
+talk over		商量；以口才使改变立场	
+talk picture	n	有声电影	
+talk sense		说话有道理；讲有道理的话	
+talk show		访谈节目	
+talk time		对话时间	
+talk to		同（某人）谈话	
+talk to death		无限制讨论使通不过；以长篇演说扼杀	
+talk type		对话方式	
+talk up		大声讲	
+talk with		与...交谈	
+tape recorder		磁带录音机；胶带记录器	
+task force		特遣部队	
+tax base		课税依据	
+tax break		减税优惠	
+tax court		税务法庭	
+tax cut		减税	
+tax day		减税日	
+tax effect		课税效果	
+tax evasion		逃税；偷税漏税	
+tax form		纳税申请书	
+tax fund		免源	
+tax in kind		用实物付税	
+tax law		税法	
+tax on price land		地价税	
+tax policy		税务政策	
+tax price		开价	
+tax program		税务计划	
+tax rate		税率	
+tax relief	n	税收减除	
+tax report		纳税报告书	
+tax return	n	纳税申报单	
+tax staff		税务员	
+tax system		税制	
+tax treatment		税务处理	
+tax year		纳税年度	
+teach school		教书	
+teach up		大麻中毒	
+team doctor		运动队大夫	
+team leader		领队	
+team player	n	合作意识强的人	
+team sport	n	团体性运动	
+team up		合作	
+team up with		与…合作	
+team work		协力	
+technology administration		技术管理局	
+technology model		技术模型	
+telephone number		电话号码	
+tell a lie		说谎话	
+tell a story		讲故事	
+tell from		辨别	
+tell its own story		不言而喻	
+tell me		告诉我	
+tell of		讲述	
+tell off		分派出	
+tell on		告发	
+tell the difference		辨别	
+tell the difference between		区别	
+tell the world		当众说	
+tell time		报时	
+term bank		术语库	
+term day		支付日；付款日期	
+term list		检索词表	
+term of office		任期	
+term of policy		定期保险单	
+term of service		保修期限	
+term of time		期限	
+term paper		学期报告	
+term plan		定期计划	
+term policy		限期保险单；定期财产保险契约	
+term time		法定支付期	
+test action		选定作为判案标准的诉讼	
+test base		试验基地	
+test bed	n	试验台；测试台	
+test board		测试板测试台；测试台	
+test case		检查实例	
+test data		测试数据	
+test drive	n	试车	
+test for		对...进行测验	
+test lead		测试引线	
+test line		试线	
+test match	n	国际板球锦标赛	
+test model		试验模型	
+test of ability		能力测验	
+test paper		试卷；试纸	
+test period		测试周期	
+test piece		试件	
+test pilot		试飞员	
+test plant		试验车间	
+test pressure		试验压力	
+test problem		考题	
+test program		检验程序；试验计划	
+test record		测试记录	
+test report		试验报告	
+test result		试验结果	
+test room		试验室	
+test run		测试运行；试车	
+test set		测试机组	
+test stand		试验台	
+test tube		试管；试管	
+test type		视力标型	
+test value		测试值	
+test wait		测试等待	
+test word		测试字	
+thank to		幸亏	
+thank you		谢谢你	
+thank you for nothing		不劳费心	
+that many		那么多	
+that much		那样多	
+that way		那样	
+that will do		够了	
+the administration		行政部门	
+the back of beyond		天涯海角	
+the best part		最大的部分	
+the best people		上流社会人士	
+the best policy		上策	
+the better part		较好的办法	
+the better part of		大部分的…	
+the big idea	n	计划	
+the big lie		弥天大谎	
+the black art	n	魔术	
+the boy		香槟酒	
+the business end	n	使用的一头	
+the center of interest		关注中心	
+the city		城市	
+the current of thought		思潮	
+the dead man		冗员	
+the economy of nature		自然界的秩序	
+the eye of day		太阳	
+the far south		南极	
+the first cause		第一渊源	
+the first family		同FirstFamily条	
+the first thing		首先	
+the former		前者	
+the game		致命游戏（电影名）	
+the great beyond		来世	
+the last		最后的	
+the last day		最后审判日	
+the last thing		就寝前的最后一件事	
+the last word		最后一句话	
+the law		司法人员	
+the left		左边	
+the life beyond		来生	
+the like		辈	
+the little		小人物们	
+the lot		全部	
+the many		多数人	
+the matter		有问题	
+the moment		一…就	
+the month after next		再下一个月	
+the month before last		再上一个月	
+the more		越发	
+the most high	n	上帝	
+the next best		仅次于最好的	
+the next best thing		次上策	
+the next but one		下下一个	
+the next year		翌年	
+the night before last		前晚	
+the number of		…的数目	
+the open air	n	露天	
+the order of nature	n	自然规律	
+the other day		不久前某一天	
+the other life		来生	
+the other night		不久前的一个夜晚	
+the other one		另一个	
+the other way around		从相反方向	
+the pick of		精华	
+the picture of health		身体健康	
+the real thing		货真价实	
+the rest		其余者	
+the rest of		其余的	
+the right way		正路	
+the rise to power		上台	
+the same		一样	
+the same as		与...相同	
+the same to you		同样也祝你…	
+the same with		与……相同	
+the school year		学年	
+the star of day		太阳	
+the still small voice		良心的呼声	
+the street		街道	
+the third		拷问	
+the time		当代	
+the time of day		时刻	
+the true		真理	
+the turn of life		更年期	
+the very		就是…	
+the very same		正是这个	
+the way		用这样的方法	
+the web		网	
+the week		本週	
+the week after next		下下星期	
+the while		其时	
+the whole day	adv	整天	
+the whole shoot		一切	
+the whole time		一直地	
+the whole way		从远道	
+the world		人间	
+the world over		全世界	
+the wrong side out		表里倒置地	
+the year after next		后年	
+the year before last		前年	
+the young		青年们	
+theme park	n	（游乐园中的）主题乐园	
+then again		而且	
+then and there		当时当地	
+then as now		过去和现在一样	
+there and back		到那里再回来	
+there and then		当时当地	
+there be		有（句型）	
+there you go		这边请	
+they say		人们说	
+think a lot of		看重	
+think about		考虑	
+think again		改变主意	
+think back		回想	
+think better of		重新考虑后决定不做；改变...的念头	
+think it over		仔细考虑一下	
+think little of		不重视	
+think much of		认为...很不错	
+think no end of		极看重	
+think nothing of		把...看得很平常	
+think nothing of it		没有为此感谢我	
+think of		考虑	
+think of as		把...看作	
+think of for		考虑...合适于...	
+think on		考虑	
+think out		彻底思考	
+think over		仔细考虑	
+think piece		时事短评	
+think the world of		钦佩	
+think through		彻底地全面考虑	
+think time		判断时间	
+think up		想出	
+think upon		考虑	
+think well of		非常看重	
+think with		和…意见一致	
+third age		第三龄（中年和老年之间依然活跃的年龄段）	
+third base	n	三垒	
+third class	n	三等	
+third eye		第三只眼	
+third force		第三种力量	
+third hand		卷纸工	
+third house		（美国国会的）第三院（院外活动集团）	
+third market		上市股票在场外的交易	
+third order		三等	
+third party	n	第三方	
+third person	n	第三人称	
+third position		第三胎位	
+third power		三次幂	
+third rate		劣等的	
+third way		第三条道路（介乎两种极端立场之间的行动方案或政策）	
+third world		第三世界	
+this and that		又是这个...又是那个	
+this child		本人	
+this day last year		去年今日	
+this day month		上月的今天	
+this day week		上星期的今天	
+this day year		去年今日	
+this life		今生	
+this many a day		很久以来	
+this month		本月	
+this morning		今天早上	
+this much		这样多	
+this night		今天晚上	
+this once		就这么一回	
+this side of		在...以前	
+this side up		此端向上	
+this time		这次	
+this time next year		明年今日	
+this way		如此	
+this way and that		这边那边	
+this week		本周	
+this year		今年	
+thought police		思想警察（被认为试图控制他人思想、禁止独立观点的集体）	
+thought process		思维过程	
+three hundred		三百	
+three market		三方竞争的市场	
+three name paper		三人联署支票	
+three state of matter		物质三态	
+three year old		三周岁的	
+through ability		由于能力	
+through and through		完全	
+through group		直通群	
+through level		过路位准	
+through line		直通线	
+through rate		联运运费率	
+through street		（车辆不等信号的）直通道	
+through the agency of		由于...的作用	
+through to		直到	
+through with		完成	
+throw a big party		举行盛大舞会	
+throw about		到处扔	
+throw away		丢弃	
+throw back		扔回	
+throw by		扔掉	
+throw down		扔下	
+throw in		扔进	
+throw light on		照亮	
+throw off		扔开	
+throw on		匆匆穿上	
+throw open		突然打开	
+throw out		伸出；否决	
+throw over		抛弃；放弃	
+throw the book at		把罪名尽量加在...身上	
+throw together		匆匆拼凑	
+throw up		呕吐	
+thus and so		如此这般	
+thus and thus		如此这般	
+thus far		迄今为止；至今	
+thus much		这些	
+tidal wave		潮汐波；潮波	
+tied up	adj	忙得不可开交的	
+time after time		多次	
+time and a half		超过原工资标准半倍的加班工资	
+time and again		反复地	
+time and time again		一再	
+time base		时基	
+time book		工作时间记录簿；工作时间记录簿	
+time case		时间角色	
+time control		修整控制	
+time cost		工时成本	
+time data		工时数据	
+time difference		时差	
+time effect		时效	
+time enough		还早	
+time factor		时间因素	
+time limit		期限；限期	
+time line		时线	
+time money		定期贷款	
+time note		定期偿还的期票	
+time of day		时刻；时间	
+time of effect		有效期间	
+time of life		年龄	
+time of performance		履行期限	
+time of rise		波升时间	
+time of set		凝固时间	
+time of year		一年中	
+time off	n	休假	
+time order		限期命令	
+time out	n	暂停比赛时间	
+time out of mind		很久以前	
+time over		超时	
+time period		期间	
+time plan		时间计划	
+time policy		定期保险单	
+time program control		时间程序控制	
+time rate plan		计时工资率制	
+time rate system		计时工资制	
+time response		时间响应	
+time sense		时觉	
+time series		时间序列；时间序列	
+time series model		时间序列模型	
+time study		时间研究	
+time table		时间表	
+time to come		未来	
+time to live		存活时间	
+time trial	n	计时赛；计时测验	
+time up		时间终了	
+time value		时间定额	
+time value of money		货币的时间价值；货币的时间价值	
+time work		计时的工作	
+time zone		时区	
+title track	n	（与专辑同名的）主打曲目	
+to a day		一天也不差	
+to a hair		丝毫不差地	
+to a man		无一例外地	
+to a moment		准时地	
+to a point		在每一点上	
+to a point where		在…的程度上	
+to a turn		恰好	
+to add up		讲得通	
+to and from		来往于	
+to appear to do		似乎...	
+to ask for it		自找麻烦	
+to back down		放弃	
+to be		存在	
+to be short		简单地说	
+to be sure		诚然	
+to begin		从头开始	
+to begin with		首先	
+to book		目标工作簿	
+to center		找中心	
+to clear the air		使空气流通	
+to come		未来地	
+to come into force		开始实施	
+to come to attention		采取立正姿势	
+to death		极度	
+to do		要做某事	
+to do so	v	这样做；为…做	
+to each one		到每一个	
+to feel bad		感到不愉快	
+to get by heart		牢记	
+to get the air		被解雇	
+to get up early		早起	
+to go		剩下	
+to go all out		鼓足干劲	
+to go into action		投入战斗	
+to go over big		大受欢迎	
+to ground		触礁	
+to group		到组	
+to hand		在手头	
+to have on		穿	
+to head south		向南走去	
+to it	n	人名	
+to kill		极其	
+to know by heart		牢记	
+to learn by heart		牢记	
+to let		招租	
+to make a fire		生火	
+to make big		飞黄腾达	
+to no effect		无效	
+to no end		无益地	
+to order		空白抬头	
+to put to test		做试验	
+to say nothing of		更不待言	
+to say the least		退一步说	
+to say yes		同意	
+to show for		作为某事的利益	
+to speak of		值得一提的	
+to stand at attention		立正	
+to start with		作为开始	
+to stay up late		熬夜	
+to take action		采取行动	
+to take air		传开	
+to take heart		振起精神	
+to take the air		到户外	
+to talk big		说大话	
+to tell a lie		说谎	
+to that		即为	
+to that effect		带有那个意思	
+to that end		为了那个目的	
+to the amount of		总数为…	
+to the bad		亏损	
+to the death		到底	
+to the east of		在…以东	
+to the effect that		大意是	
+to the end	adv	到底	
+to the end that		为…起见	
+to the eye		从表面上看来	
+to the feel		在触角上	
+to the full		完全地	
+to the good		有好处	
+to the ground		彻底地	
+to the last		到底	
+to the last drop		喝干	
+to the last minute		直至最后一分钟	
+to the letter		严格按照字句	
+to the life		逼真地	
+to the minute		一分不差	
+to the moment		分秒不差地	
+to the music of		伴随着…音乐	
+to the north		向北方	
+to the number of		达到...的数目	
+to the point		中肯	
+to the point of		达到...的成度	
+to the question		针对所讨论的题目	
+to the same effect		相同意义	
+to the south		向南方	
+to the very last		直至最后	
+to the view		公开地	
+to the west of		在...以西	
+to the world		极度地	
+to think big		想干大事情	
+to this day		至今	
+to this end		为了这个目的	
+to top it all		更有甚者	
+to walk on air		洋洋得意	
+to wear away		磨损	
+to wear of		逐渐消减	
+to wear out		筋疲力竭	
+to well off		富有	
+to your health		祝你健康	
+today week		（英）（从今日起算的）下星期	
+together with		和	
+too bad		遗憾	
+too development		工具开发	
+too far north		精明的	
+too large		太大	
+too late		客来扫地	
+too little		太少	
+too much		太多	
+too much for		太多	
+too right		（非正式）（表示积极赞同） 对啊	
+too soon		为时过早	
+too too		简直太	
+top a plant		给植物打尖	
+top base		顶端插座	
+top board		顶板	
+top class		层级	
+top cover		顶盖	
+top dead center		上死点	
+top dog	n	胜利者	
+top down		组织严密的	
+top level		顶层	
+top line		报纸标题	
+top of form		页头	
+top of page		页眉	
+top of the line	n	极品	
+top off		达到顶点	
+top out		举行建筑物落成典礼	
+top part		上模	
+top pressure		顶部压力	
+top price		高价	
+top product		塔顶产品	
+top secret		绝密	
+top side		正面	
+top table		上座	
+top the list		名列榜首	
+top up		加满	
+top view		顶视图	
+tour operator	n	旅游经营者	
+toward the end		将近结束的时候	
+tower block		（高层建筑）塔式大楼	
+town car		市内汽车	
+town father		城镇官员	
+town girl		妓女	
+town hall		市政厅	
+town house		市内住宅	
+town meeting	n	<美>镇民大会	
+town police		城镇警察	
+town talk		街谈巷议	
+track record		径赛成绩记录；工作履历	
+track suit	n	径赛服	
+trade mark		商标	
+trade union		工会；工会	
+trade unionist	n	工团主义者	
+traffic jam		塞车	
+traffic light		红绿灯；交通指挥灯	
+training camp	n	训练营地	
+travel agent		旅行代理人；旅行业者	
+treatment effect		处理效应	
+tree approach		求树法	
+tree house	n	树上小屋	
+tree line	n	林木线	
+tree only		树	
+true carry		真进位	
+true condition		真实条件	
+true cost		真实成本	
+true course		真航线	
+true form		原码形式；原码	
+true image		真像	
+true interest		真实利息	
+true love		真爱	
+true north		真北	
+true power		真功率	
+true rate of interest		实际利率	
+true time		实时	
+true time system		实时系统	
+true to		忠于	
+true to form		一如既往	
+true to life		逼真的	
+true to nature		逼真的	
+true to type		典型的	
+true up		校准	
+true value		真值；真值	
+trust fund	n	信托基金	
+try a case		审理案件	
+try a fall with	v	与…较量一番	
+try again	n	再发球	
+try back		重新回到	
+try for		争取	
+try hard		努力	
+try it on		大胆无礼	
+try my best		尽最大努力	
+try off		试盖	
+try on		试穿	
+try out		试验	
+try out for		竞争	
+try to		试图/努力...	
+try up		校准	
+turn about		转身	
+turn against		（使）转为反对	
+turn and turn about		依次地	
+turn around		（使）转身	
+turn away		不准...入内	
+turn away from		厌恶	
+turn back		往回走	
+turn back to		翻回到	
+turn down		拒绝；拒绝	
+turn factor		匝因数	
+turn from		对...感到厌恶	
+turn in		拐入；归还	
+turn into		进入	
+turn left		向左转	
+turn night into day		拿黑夜当白天	
+turn of		从…撵出去	
+turn of life		绝经	
+turn of mind		性情	
+turn of the century		世纪转变期	
+turn of the market		市场变化	
+turn off		关掉	
+turn on		开	
+turn out		打扫；逐出	
+turn out of		把…逐出…	
+turn out to be		结果是	
+turn out to do		结果...	
+turn out well		终于证明很不错	
+turn over		打翻；移交	
+turn over number		转化数	
+turn right	v	向右转	
+turn table		旋转台	
+turn the other way		转向另一侧	
+turn to		转向	
+turn to the left		向左转	
+turn up		开大	
+turn up the pressure		抬起压力	
+turning point		转折点；转折点	
+tv program		电视节目	
+tv room		电视机房	
+tv set		电视机	
+tv show		电视节目	
+tv star		电视明星	
+two action line		双向传输线	
+two hundred		二百	
+two to one rule		二对一原则	
+two year old		两岁的	
+type a		A型	
+type body		打印主体	
+type case		铅字盘	
+type character		类型字符	
+type class		类型种类	
+type culture		标准培养	
+type face		打印字样	
+type family		字类	
+type in		在已打好的材料上加入	
+type line		指纹的线型	
+type list		打印表	
+type name		类型名	
+type of action		作用方式	
+type of information		信息类型	
+type of name		名字类型	
+type of security		保密类型	
+type of use		使用类型	
+type of work		工种	
+type out		打印输出	
+type page number		请键入页码	
+type real		实数类型	
+type set		集合类型	
+type state		类型状态	
+type test		典型试验	

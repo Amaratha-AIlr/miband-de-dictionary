@@ -1,0 +1,139 @@
+MS		美国微软公司；主存储器	miz
+Mexican	n/adj	墨西哥人；墨西哥的	mek'-si-kuhn
+Mr		先生；存储器回收程序	mis'-tuhr
+Mrs		太太	mi'-siz
+Muslim	n	伊斯兰教	myzlim'-'muz-lem
+machine	n/vt	机器；以机器制造	muh'sheen
+mad	adj/n	疯狂的；狂怒	
+magazine	n	杂志；卡片箱	ma-guh'zeen
+mail	n/vt	邮件；邮寄；邮件	mayl
+main	n/adj	主要部分；主要的；主群组	mayn
+mainly	adv	主要地	mayn'-li
+maintain	vt	维持；维修	mayn'tayn
+maintenance	n	维护；维护	mayn'-tuh-nuhns
+major	n/adj/vi	主修课；主要的；主修	may'-juhr
+majority	n	多数；多数逻辑	muh'jo-ri-ti
+make	vt/vi/n	制造；开始；制造	mayk
+maker	n	制造者；制造者	may'-kuhr
+makeup	n	组成	may'-kup
+male	n/adj	男人；男性的	mayl
+mall	n	林荫路	mawl
+man	n/vt	男人；为...配备人手；城域网	
+manage	vi/vt	处理；管理	ma'-nij
+management	n	经营；管理处	ma'-nij-muhnt
+manager	n	经理；管理器	ma'-ni-juhr
+manner	n	样子；方式	ma'-nuhr
+manufacturer	n	制造业者；制造人	man-yu'fak-chuh-ruhr
+manufacturing	n/adj	制造业；制造业的	man-yu'fak-chuh-ring
+many	n/adj/pron	多数；许多的；许多	me'-ni
+map	n/vt	地图；映射；实用程序	
+margin	n/vt	页边的空白；加边于；页边距	mah'-jin
+mark	n/vt/vi	标志；做标记于；作记号	mahk
+market	n/vt/vi	市场；在市场上交易；在市场上买卖	mah'-kit
+marketing	n	行销；推销	mah'-ki-ting
+marriage	n	婚姻；婚姻	ma'-rij
+married	adj	已婚的；结了婚的	ma'-rid
+marry	vt/vi	与...结婚；结婚	ma'-ri
+mask	n/vt/vi	面具；戴面具；化装	
+mass	n/adj/vt	块；群众的；使集合	mas
+massive	adj	大而重的；大块的	ma'-siv
+master	n/adj/vt	主人；主人的；征服	mahs'-tuh-'mas-tuhr
+match	n/vt/vi	比赛；使相配；结婚	mach
+material	n/adj	材料；物质的	muh'ti-uh-ri-uhl
+math	n	数学	
+matter	n/vi	事件；有关系	ma'-tuhr
+may	n/aux	五月；愿能	
+maybe	adv/n	也许；可能性	may'-bee
+mayor	n	市长；市长	mair
+me	pron	我	mee
+meal	n/vi	一餐；进餐	meel
+mean	adj/vt/vi	低劣的；意谓；用意	meen
+meaning	n/adj	意义；意味深长的	mee'-ning
+meanwhile	n/adv	其时；同时	meenh'-wail
+measure	n/vt/vi	尺寸；测量；度量	me'-zhuhr
+measurement	n	尺寸；度量	me'-zhuhd-muhnt
+meat	n	肉；肉类	meet
+mechanism	n	机械；机理	me'-kuh-nizm
+media	n	媒体；媒质	mee'-di-uh
+medical	n/adj	医生；医学的	me'-dikl
+medication	n	药物治疗；药疗法	me-di'kay-shuhn
+medicine	n/vt	药；给...用药	me'-di-sin
+medium	n/adj	媒体；半生熟的；媒体	mee'-di-uhm
+meet	n/adj/vt	会；适宜的；遇见	
+meeting	n	会议；会议	
+member	n	成员；│肢	mem'-buhr
+membership	n	会员的资格；会员资格	mem'-buh-ship
+memory	n	记忆；内存；存储器	me'-muh-ri
+mental	adj/n	心智的；精神病患者	mentl
+mention	n/vt	提到；提到	men'-shuhn
+menu	n	菜单；菜单	men'-yoo
+mere	n/adj	小湖；仅仅的	mi-uhr
+merely	adv	只	mi'-uh-li
+mess	n/vt/vi	食堂；将...弄糟；陷入困境	mes
+message	n/vt/vi	消息；通知；通报	me'-sij
+metal	n/adj/vt	金属；金属制的；以金属覆盖	me'-tuhl
+meter	n/vt	米；以仪表计量	mee'-tuhr
+method	n	方法；法	me'-thuhd
+middle	n/adj	中央；中央的	midl
+might	n/aux	力量；可能	mait
+military	n/adj	军队；军事的	mi'-li-tuh-ri
+milk	n/vt/vi	奶；挤乳；产乳	
+million	n/num	百万；百万	mil'-yuhn
+mind	n/vi/vt	思想；介意；注意	maind
+mine	n/vt/vi	矿；挖掘；开矿	main
+minister	n/vi	部长；服侍	mi'-nis-tuhr
+minor	n/adj/vi	未成年人；较小的；副修	mai'-nuhr
+minority	n/adj	少数；少数的	mai'no-ri-ti
+minute	n/vt/adj	分；记录；微小的	mi'-nit-mai-'nyoot
+miracle	n	奇迹	mi'-ruhkl
+mirror	n/vt	镜子；反映	mi'-ruhr
+miss	n/vt/vi	失误；未得到；失败	mis
+missile	n/adj	发射物；可发射的	mi'-sail
+mission	n/vt	任务；派遣	mi'-shuhn
+mistake	n/vi/vt	错误；犯错；误解	mis'tayk
+mix	n/vt/vi	混合物；使混合；相混合	miks
+mixture	n	混合；混合物	miks'-chuhr
+mode	n	模态；方式	mohd
+model	n/adj/vi	模型；模范的；做模型	mo'-duhl
+moderate	adj/vt/vi	适度的；节制；变缓和	mo'-duh-ruht
+modern	n/adj	现代人；现代的	mo'-duhn
+modest	adj	谦逊的；适当的	mo'-dist
+mom	n	妈妈	mum
+moment	n	片刻；片刻	moh'-muhnt
+money	n	金钱；货币	mu'-ni
+monitor	n/v	监督器；监视；监视器	mo'-ni-tuhr
+month	n	月；月	munth
+mood	n	心情；心境	
+moon	n/vi/vt	月亮；闲荡；虚度	
+moral	n/adj	道德；道德的	mo'-ruhl
+more	n/adj/adv	更多；多的；多	mawr
+moreover	adv	而且	maw'oh-vuhr
+morning	n	早晨	maw'-ning
+mortgage	n/vt	抵押；抵押	maw'-gij
+most	n/adj/adv	最多；大多数的；最	mohst
+mostly	adv	大概；大部份	mohst'-li
+mother	n/vt	母亲；产生	mu'-dhuhr
+motion	n/v	移动；打手势	moh'-shuhn
+motivation	n	动机；促动	moh-ti'vay-shuhn
+motor	n/adj/vt	马达；马达的；推动	moh'-tuhr
+mount	n/vi/vt	乘骑用马；乘马；爬上	mownt
+mountain	n	山	mown'-tin
+mouse	n/vi/vt	老鼠；捕鼠；探出	mows
+mouth	n/vi/vt	嘴；装腔作势说话；说出	mowth
+move	n/vt/vi	移动；移动；移动	moov
+movement	n	运动；运动	moov'-muhnt
+movie	n	电影	moo'-vi
+much	n/adj/adv	大量；很多的；多	
+multiple	n/adj	倍数；多样的	mul'-tipl
+murder	n/vt/vi	谋杀；谋杀；犯杀人罪	mur'-duhr
+muscle	n	肌肉；肌	musl
+museum	n	博物馆	myoo'zi-uhm
+music	n	音乐	myoo'-zik
+musical	n/adj	音乐片；音乐的	myoo'-zikl
+musician	n	音乐家	myoo'zi-shuhn
+must	n/aux	必须；必须	
+mutual	adj	相互的；相互的	myoo'-choorl
+my	pron	我的；迈尔	mai
+myself	pron	我自己	mai'self
+mystery	n	秘密	mis'-tuh-ri
+myth	n	神话	mith

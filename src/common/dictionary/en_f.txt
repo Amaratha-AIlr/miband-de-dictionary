@@ -1,0 +1,142 @@
+French	n/adj	法国人；法国的	
+fabric	n	织物；组织	fab'-rik
+face	n/vt/vi	脸；面对；朝	fays
+facility	n	容易；设施	fuh'si-li-ti
+fact	n	事实	fakt
+factor	n	因素；因式	fak'-tuhr
+factory	n	工厂；工厂	fak'-tuh-ri
+faculty	n	才能；能力	fa'-kuhl-ti
+fade	vi/vt/n	褪色；使褪色；淡入	fayd
+fail	vi/vt/n	失败；忘记；不及格	fayl
+failure	n	失败；故障	fayl'-yuhr
+fair	n/adj/adv	展览会；公平的；公平地	
+fairly	adv	美观地	fair'-li
+faith	n	信心；信任	fayth
+fall	n/vi/adj	落下；倒下；秋天的	fawl
+false	adj/adv	错误的；不准确地	fawls
+familiar	adj/n	熟悉的；熟友	fuh'mil-yuhr
+family	n/adj	家庭；家庭的	fa'-muh-li
+famous	adj	出名的	fay'-muhs
+fan	n/vt/vi	风扇；煽动；飘动	
+fantasy	n	幻想；幻想	fan'-tuh-si
+far	adj/adv	远的；甚远地	fahr
+farm	n/vt/vi	农场；耕种；种田	fahm
+farmer	n	农夫；农民	fah'-muhr
+fashion	n/vt	流行；形成	fa'-shuhn
+fast	adj/adv/n	快速的；很快地；绝食	fahst
+fat	n/adj	脂肪；肥的；文件分配表	
+fate	n/vt	命运；注定	fayt
+father	n/vt	父亲；当...的父亲	fah'-dhuhr
+fault	n/vt/vi	过错；挑剔；产生断层	fawlt
+favor	n/vt	好意；赐予	fay'-vuhr
+favorite	n/adj	喜欢的事物；特别受喜爱的	fay'-vuh-rit
+fear	n/v	恐怖；害怕	fi-uhr
+feature	n/vt/vi	面孔的一部分；是...的特色；起重要作用	fee'-chuhr
+federal	adj	联邦的；联邦的	fe'-duh-ruhl
+fee	n/vt	费用；付费给	
+feed	n/vt/vi	饲料；喂；吃东西	
+feel	vt/vi/n	感觉；有知觉；感觉	
+feeling	n/adj	摸；有同情心的	
+fellow	n/adj	男人；同伴的	fe'-loh
+female	n/adj	女性；女性的	fee'-mayl
+fence	n/vt/vi	围墙；用篱笆围住；击剑	fens
+few	adj/n	很少的；少数	fyoo
+fewer	adj	较少的	fyoo'-uhr
+fiber	n	纤维；纤维	fai'-buhr
+fiction	n	小说；虚构的事实	fik'-shuhn
+field	n/vt/adj	领域；使...晒在场上；田间的	feeld
+fifteen	num	十五	
+fifth	num	第五	
+fifty	num	五十	fif'-ti
+fight	n/v	打架；对抗	fait
+fighter	n	斗士	fai'-tuhr
+fighting	adj/n	战斗的；战斗	fai'-ting
+figure	n/vt/vi	数字；描绘；计算	fi'-guhr
+file	n/vi/vt	档案；列队行进；归档	fail
+fill	vt/vi/n	装满；充满；满足	fil
+film	n/vt/vi	软片；覆以薄膜；生薄膜	
+final	n/adj	期末考试；最后的	fainl
+finally	adv	最后	fai'-nuh-li
+finance	n/vt/vi	财政；供给...经费；筹措资金	fai'nans
+financial	adj	财政的；财政的	fai'nan-shuhl
+find	vt/vi/n	发现；裁决；发现	faind
+finding	n	发现；调查结果	fain'-ding
+fine	n/adj/vt	罚款；好的；罚款	fain
+finger	n/v	手指；用手指拨弄；网络命令	fing'-guhr
+finish	n/vt/vi	完成；完成；结束	
+fire	n/vt/vi	火；点燃；着火	fai'-uhr
+firm	n/adj/vt	公司；坚定的；使牢固	furm
+first	adv/adj/num	首先；第一的；第一	furst
+fish	n/vt/vi	鱼；钓；捕鱼	
+fishing	n/adj	钓鱼；钓鱼的	
+fit	n/adj/vt	适宜；适宜的；适合	
+fitness	n	适合；适合性	fit'-nis
+five	num	五	faiv
+fix	vt/vi/n	使固定；固定；困境	fiks
+flag	n/vt/vi	标志；悬旗；无力地下垂	
+flame	n/vt/vi	火焰；焚烧；燃烧	flaym
+flat	adj/adv/n	平坦的；平直地；扁平物	
+flavor	n/vt	滋味；加味于	flay'-vuhr
+flee	vt/vi	逃避；逃	
+flesh	n/vt/vi	肉；以肉喂；长胖	
+flight	n/vi/vt	飞行；迁徙；射击	flait
+float	n/vi/vt	漂流物；浮动；使漂浮	floht
+floor	n/vt	地板；铺地板；地面	flawr
+flow	n/vi/vt	流程；流动；使流动	floh
+flower	n/vi/vt	花；开花；用花装饰	flow'-uhr
+fly	n/vi/vt	苍蝇；飞；飞	flai
+focus	n/vi/vt	焦点；聚焦；使聚焦	foh'-kuhs
+folk	n/adj	人们；民间的	fohk
+follow	vt/vi/n	跟随；跟随；跟随	fo'-loh
+following	n/adj	下列各项；下列的	fo'-loh-ing
+food	n	食物；食物	
+foot	n/vt/vi	脚；走在...上；跳舞	fut
+football	n	足球	fut'-bawl
+for	prep/conj	为；因为；DOS批处理命令:对一组参数重复执行指定的命令	fawr
+force	n/vt	力量；强迫；人工转移	faws
+foreign	adj	外国的；外来的	for'-in
+forest	n/vt	森林；植树于	fo'-rist
+forever	adv	永远	fuh're-vuhr
+forget	vt/vi	忘记；忘记	fuh'get
+form	n/v	形状；形成；表单	fawm
+formal	adj/n	正式的；正式的社交活动	faw'-muhl
+formation	n	形成；形成	faw'may-shuhn
+former	adj/n	从前的；起形成作用的人	faw'-muhr
+formula	n	客套语；公式	fawm'-yu-luh
+forth	adv	往前	fawth
+fortune	n	财富；命运	faw'-chuhn
+forward	adj/vt/adv	向前的；促进...的生长；向前地	faw'-wuhd
+found	vt	建立；find的过去式和过去分词	fownd
+foundation	n	基础；地基	fown'day-shuhn
+founder	n/vt/vi	创立者；使沉没；沉没	fown'-duhr
+four	num	四；四冲程循环	fawr
+fourth	num	第四	fawth
+frame	n/vt	框；构成；框架	fraym
+framework	n	结构；构架组织	fraym'-wurk
+free	adj/vt/adv	自由的；释放；自由地	
+freedom	n	自由；自由	free'-duhm
+freeze	vi/vt/n	冻结；使结冰；结冰	freez
+frequency	n	频率；频率	freek'-wuhn-si
+frequent	adj/vt	时常发生的；时常来访	freek'-wuhnt
+frequently	adv	频繁	freek'-wuhnt-li
+fresh	adj/adv/n	新鲜的；最新地；开始	
+friend	n	朋友；朋友	frend
+friendly	adj/adv	友好的；友善地	frend'-li
+friendship	n	友谊	frend'-ship
+from	prep	从	
+front	n/vt/vi	前面；面对；朝向	frunt
+fruit	n	水果；果实	froot
+frustration	n	挫折；挫折	frus'tray-shuhn
+fuel	n/vt/vi	燃料；加燃料；得到燃料	fyoorl
+full	n/adj/adv	全部；充满的；完全地	ful
+fully	adv	十分地	fu'-li
+fun	n/vi/adj	乐趣；开玩笑；供娱乐用的	
+function	n/vi	官能；活动；功能	fungk'-shuhn
+fund	n/vt	基金；提供资金	
+fundamental	n/adj	基本原理；基本的	fun-duh'men-tuhl
+funding		债务转期	
+funeral	n	葬礼	fyoo'-nuh-ruhl
+funny	adj/n	好笑的；滑稽人物	fu'-ni
+furniture	n	家具	fuh'-ni-chuhr
+furthermore	adv	此外	fur'-dhuh-'mawr
+future	n/adj	未来；将来的	fyoo'-chuhr

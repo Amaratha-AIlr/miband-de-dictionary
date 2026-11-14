@@ -1,0 +1,509 @@
+game law		狩猎法	
+game of chance		靠碰运气取胜的游戏	
+game of life		生命游戏	
+game on		比赛开始信号	
+game plan		球队比赛的策略	
+game point		决胜分	
+game program		博弈程序	
+game room		娱乐室	
+game show	n	（电视）游戏节目	
+game tree		博弈树；对策树	
+gas mask		防毒面具；防毒面具	
+gas station		加油站	
+gene therapy	n	基因治疗	
+general election		普选；大选	
+general public		公众	
+general strike		总罢工；总罢工	
+genetic engineering		遗传工程；基因工程	
+get a bad start		开端坏	
+get a fall		跌倒	
+get a good start		开端好	
+get a hold on		抓紧	
+get a line		<口>取得关于…的情报	
+get a look		看看	
+get a move on		赶紧	
+get a name	v	成名	
+get a raise		被加薪	
+get a view of		观看	
+get a word in		插进来说句话	
+get about		走动	
+get across		通过	
+get after		追击	
+get along		生活	
+get along with		进展	
+get around		病后能够走动	
+get around to		设法找到足够的时间去做（某事）	
+get at		得到	
+get away		离开	
+get away from		离开	
+get away with		拿走	
+get away with it		做了坏事/错事而不被发觉/处分	
+get back		回来	
+get back at		报复	
+get back at someone		报复	
+get back to		回到…	
+get behind		落后	
+get better		痊愈	
+get by		通过	
+get data		检索数据	
+get down		下来	
+get down on		开始不喜欢	
+get down to		开始认真考虑	
+get down to business		开始做正经事	
+get even		得到报复	
+get even with		和…算帐	
+get hold		抓住	
+get hold of		抓住	
+get home		回家	
+get hot		变热	
+get hot over		因…激动起来	
+get in		进入	
+get in a word		插嘴	
+get in on		参加	
+get in the way		挡住去路	
+get into		进入	
+get into hot water		陷入困境	
+get it		了解	
+get it all together		头脑清醒过来	
+get it on		<美俚>兴奋	
+get it wrong		误解	
+get left		被遗弃	
+get off		下来	
+get off it		别胡扯了	
+get off the ground		开始	
+get off work		下班	
+get on		生活	
+get on board		上车	
+get on for		接近	
+get on in life		发迹	
+get on the move		开始行动	
+get on the phone		接电话	
+get on top of		超出	
+get on with		继续（干某事）	
+get out		出去	
+get out of		离开	
+get out of hand		失去控制	
+get out of order		发生故障	
+get out of service		退役	
+get over		爬过	
+get ready		准备好	
+get ready for		准备好...	
+get real		爱的初体验	
+get right		恢复正常	
+get set		作好准备	
+get some rest		休息一会儿	
+get someone with child		使怀孕	
+get something for nothing		不花钱白白得到某物	
+get the air		被解雇	
+get the best		选最好的	
+get the best of		战胜	
+get the better of		战胜	
+get the drop on		先发制服	
+get the eye		引人注目	
+get the feel of		获得感受	
+get the fire under		控制住火势	
+get the floor		有发言权	
+get the picture		了解（形式、情况等）	
+get the push		被解雇	
+get the run around		有外遇	
+get the run upon	v	佔上风	
+get the word		理解意思	
+get there		成功	
+get through		做完	
+get through to		打通…电话	
+get through with		完成	
+get to		到达	
+get to business		认真办事	
+get to know		认识	
+get together		聚集	
+get under		抑制	
+get under the fire		惹火上身	
+get under way		开动	
+get up		起床	
+get up early		早起	
+get up to		到达	
+get up with it		赶上时髦	
+get well		康复	
+get with it		警觉	
+get word		获得消息	
+get wrong		弄错	
+girl friend	n	女朋友	
+girl next door		女孩次世代（组合名）	
+girl power		女权（认为女性应主宰自己的事业和生活的观念）	
+give a decision for		做出有利于…的决定	
+give a hand		帮助	
+give a pull		拉	
+give a talk on		作关于…的谈话	
+give a test		举行测验	
+give a thought to		对…加以考虑	
+give air to	v	发表	
+give and take		平等交换	
+give and take system		求偿主义	
+give attention to		对…加以注意	
+give away		分发	
+give back		归还	
+give birth		使诞生	
+give care		留意	
+give care to		护理	
+give cause for		说明…	
+give color to		使显得可信	
+give effect to		使实行起来；使生效	
+give evidence		证明	
+give free play to		使任意活动	
+give full play to		充分发挥	
+give good service		服务周到	
+give good value		卖东西货真价实	
+give ground		退却	
+give in		屈服	
+give into		通向	
+give it a try		试一试	
+give light		发光	
+give me		给我	
+give name to		为…命名	
+give of		奉献	
+give off		发出	
+give on		向着	
+give one his say		让某人把话讲出来	
+give or take		增减...而无大变化	
+give out		分发	
+give over		交	
+give place to		让位于	
+give plan to		为…制定计划	
+give rise		引起；招致	
+give rise to		引起	
+give security		作保人	
+give support to		支持	
+give the eye		注目	
+give the floor		给予发言权	
+give the game away		洩密	
+give the once over		非同一般地看某人	
+give the show away		露出马脚	
+give the use of		给…使用权	
+give the word		下命令	
+give the world to		不惜一切代价	
+give time		给予一个期限	
+give to	vt	送给	
+give to the public		发表	
+give to the world		出版	
+give up		放弃；放弃	
+give up on		不再相信	
+give up to		陷入	
+give voice		表达；发声	
+give voice to		表达	
+give way		撤退；下跌	
+give way to		向…屈服	
+global warming	n	全球变暖	
+go a good way		走了一大段路	
+go a great way		走了一大段路	
+go a little way		不大有作用	
+go a long way		大有帮助	
+go about		从事	
+go across		穿过	
+go after		追逐	
+go against		反对	
+go all out		全力以赴	
+go all the way		完全一致	
+go along		前进	
+go along with		陪...一起去	
+go and		去	
+go and do		去做某事	
+go around		参观	
+go at		扑向	
+go at large		自由行动	
+go away		走开	
+go away with		带走	
+go back		回去	
+go back from		不守	
+go back home		回家	
+go back on		违约	
+go back to		回去	
+go bad		变质	
+go before		时间上居先	
+go behind		探究	
+go between		调停	
+go beyond		超出	
+go black		变黑	
+go board		去板	
+go by		走过	
+go by land		从陆路去	
+go by the board		从船上落水	
+go down		下去	
+go down on		（粗俚）口交	
+go down to		延续至	
+go down town		到市中心区去	
+go down with		因…而病倒	
+go easy		从容不迫	
+go easy on		节约	
+go easy with		节约	
+go far		大有前途	
+go far toward		大有助于	
+go figure		猜猜看	
+go for		去找	
+go for a drive		去开车兜风	
+go for a pull		去划船	
+go for a walk		散步	
+go for it		放手向前	
+go for little		被认为不大有用处	
+go for nothing		被认为没有用处	
+go game		围棋	
+go home		回家	
+go home to		使感动	
+go in		走进	
+go in at		痛打	
+go in for		参加	
+go in with		与…合伙	
+go international		走向国际	
+go into		进入；调查	
+go into action		投入战斗	
+go into business		从事商业	
+go into effect		生效	
+go into service		去当佣工	
+go into society		步入社交界	
+go into the red		发生亏损	
+go it		做神	
+go it strong		过分地做	
+go it strong on		坚决支持	
+go large		顺风航行	
+go live		（计算机）（系统）启动	
+go near to		几乎	
+go off		离开	
+go off into		开始	
+go off the air		停止广播	
+go off with		拿去	
+go on		继续下去；继续	
+go on for		接近	
+go on leave		申请给假	
+go on record		公开表明观点	
+go on the air		开始广播	
+go on to		转入	
+go on with		暂时使用	
+go one better		稍稍胜过	
+go out		出去	
+go out and about		外出到处走动	
+go out for		努力争取	
+go out like light		开始醉得不省人事	
+go out of		从…出来	
+go out of business		歇业	
+go out of control		使去控制	
+go out of use		被废弃	
+go out to service		去当佣工	
+go over		转变	
+go over big		十分成功	
+go over the side		私自离开船只	
+go over the top		超过限额	
+go over the wall		越狱；越狱	
+go past		经过	
+go public		摊牌	
+go right		进展顺利	
+go right home		直接回家	
+go security		为...作保	
+go security for		做…的保证人	
+go share		分摊	
+go short		短缺	
+go short of		缺乏	
+go some		做了不少	
+go strong		强健	
+go strong on		竭力主张	
+go the big figure		彻底地干	
+go the way of		走…的道路	
+go the whole figure		彻底做	
+go there		去那里	
+go through		经历	
+go through with		完成	
+go to		转到	
+go to a show		去看戏	
+go to bed		上床	
+go to court		起诉；起诉	
+go to it		加油	
+go to law		打官司	
+go to market		试一试	
+go to page		转到第…页	
+go to piece		崩溃	
+go to school		上学	
+go to special		定位条件	
+go to table		转向表	
+go to the bad		变坏	
+go to the beyond		死	
+go to the ground		失败	
+go to the people		为争取人民对其政府或某计划的支持而举行公民投票	
+go to the police		报警	
+go to the school		到学校去	
+go to the wall		被推开在一旁	
+go to town		上城里去	
+go to war		当兵	
+go to work		上班	
+go together		互相协调	
+go too far		走得太远	
+go under		死	
+go up		上升	
+go up the line		上前线	
+go up to		入…	
+go up to town		上城里去	
+go well		（南非）一切顺利	
+go well with		在…进展顺利	
+go west		死	
+go with		伴随	
+go with the current		随波逐流	
+go without		没有也行	
+go wrong		走错路	
+goal area		球门区	
+goal line	n	（足球）球门线	
+goal seek		单变量求解；单变量求解	
+goal set		目标集合	
+goal state		目标状态	
+goal tree		目标树	
+gold medal		金牌	
+golden age		黄金时代	
+golf ball	n	高尔夫球	
+golf club	n	高尔夫球棍	
+golf course	n	高尔夫球场	
+good and		非常	
+good at		擅长…	
+good book	n	（前面与the连用）圣经	
+good cause		正当理由	
+good day	n	日安（白天见面或分手时的招呼）	
+good deal		划算	
+good enough		足够好的	
+good for		值...的	
+good for nothing		毫无价值	
+good for you		真是了不起	
+good form		礼貌的举动	
+good guy	n	正面人物	
+good health		健康	
+good life		保险公司乐意接保的健康人	
+good man		在经济上有信用的人	
+good market		销场好	
+good money		优良货币	
+good morning		早上好	
+good name		美称	
+good nature		好脾气	
+good news		好消息	
+good night		晚安	
+good old boy		好老弟（美国南方各州的典型白人男子）	
+good order		情况正常	
+good paper		可靠支票	
+good part		好的部分	
+good pay		薪金优厚	
+good person		好人	
+good sense		正确判断力	
+good story		好故事	
+good talk		好的谈话	
+good the day		限当日	
+good this month		限当月	
+good this week		限当周	
+good through		联运	
+good time		正常工作时间	
+good turn		亲切	
+good will		善意	
+good woman		好女人	
+good word		好话	
+government activity		政府活动	
+government agency		政府机关	
+government body		政府机构	
+government building		政府大楼	
+government by law		法治	
+government by the people		民治	
+government issue		公债券发行	
+government land		政府土地	
+government man		联邦调查局调查员；官员	
+government money		公款	
+government note		政府纸币	
+government office		政府机构	
+government official		政府官员	
+government paper		政府发行的有价债券	
+government risk		政治风险	
+government security		政府证券	
+government service		政府职务	
+government take		政府所得	
+grammar school		小学或初级中学	
+grand jury	n	大陪审团	
+grand slam		大满贯	
+great and small		大人物们和小人物们	
+great at		精于...的	
+great care		托大	
+great deal	n	大量	
+great dog	n	大犬座	
+great house		大宅（英国和美国南方乡村或种植园中的主要住宅）	
+great hundred	n	一百二十	
+great mother		大母神	
+great on		很熟悉...的	
+great power		强国	
+great room		大房间	
+great wall		长城	
+great war	n	第一次世界大战	
+great white hope		白人的希望	
+great white way		白色大道	
+great with		为所激动的	
+great year		大年	
+green party		绿党（关于环境的政府部门）	
+greenhouse effect	n	温室效应	
+greenhouse gas	n	二氧化碳、甲烷等导致温室效应的气体	
+ground control		地面控制	
+ground control center		地面控制中心	
+ground control system		地面控制系统	
+ground cover	n	地被植物	
+ground current		通地电流	
+ground die		磨制螺模	
+ground effect		地面效应	
+ground fire		地表火	
+ground floor	n	第一层	
+ground floor price		最低价格	
+ground lead		接地线	
+ground level		地平面；地面标高	
+ground on		基于	
+ground out		击出内场地滚球后在一垒被杀出局	
+ground plan		平面图	
+ground point		接地点	
+ground return		地回路	
+ground risk		地面险	
+ground rule		程序	
+ground staff		运动场的维护人员	
+ground state		基态	
+ground system		接地系统	
+ground term		基本项	
+ground water		地下水；地下水	
+ground work		基础	
+group a		A组	
+group action		集团诉讼	
+group bank		道群排	
+group by group		分批地	
+group call		组呼叫	
+group carry		成组进位	
+group control		群控	
+group cost system		班组成本核算制度	
+group data set		组数据集	
+group decision		群体决策；集体决定	
+group drive		集体驱动	
+group goal		集体目标	
+group home		教养院	
+group hospital		联合医院	
+group indicate		组指示	
+group meeting		小组会议	
+group move		成组传送	
+group name		组名	
+group number		组号	
+group order		分类定货	
+group practice		集体医疗	
+group product		集体产品	
+group record		成组记录	
+group technology		成组技术	
+group therapy	n	集体治疗	
+group view		分组视图	
+group window		组窗口；组窗口	
+group work		小组作业	
+grow away from		脱离	
+grow back		重新长出	
+grow from		从…长出	
+grow into		长成	
+grow on		引起...爱好	
+grow out		长出来	
+grow out of		长得与...不相称	
+grow over		覆盖…	
+grow up		成熟	
+growth company		发展中公司	
+growth factor		增长系数；生长因子	
+growth industry		增长行业	
+growth of private right		私权的发生	
+growth rate		生长速率；生长率；增长率	
+growth stock		增长股票	
+guinea pig		天竺鼠	

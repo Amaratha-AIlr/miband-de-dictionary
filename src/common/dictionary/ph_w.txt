@@ -1,0 +1,506 @@
+wait a minute		等会儿	
+wait a second		等一等	
+wait about		等在附近	
+wait and see		等着瞧	
+wait around		在附近等候	
+wait at table		伺候进餐	
+wait behind		在其他人走后留下来	
+wait character		等待字符	
+wait condition		等待条件	
+wait for		等待	
+wait for a while		等一会儿	
+wait in		在家里等	
+wait in line		排队等候	
+wait list		等待表	
+wait on		服侍	
+wait on table		伺候进餐	
+wait out		等到...结束	
+wait state		等待状态	
+wait store		等待存储	
+wait table		伺候进餐	
+wait time		等待时间	
+wait until		等到…再	
+wait up		等候着不睡	
+wait up for		等候着不睡	
+wait upon		侍候	
+waiting list		待任名者的名单；候补名单	
+waiting room		候车室；侯诊室	
+walk about		踱来踱去	
+walk around		绕…而走	
+walk away		走开	
+walk away from		从...旁边走开	
+walk away with		轻易取得	
+walk down		通过散步消除；讯息丧失	
+walk home		走回家	
+walk in		走进	
+walk into		痛斥	
+walk it		徒步旅行	
+walk of life		行业	
+walk off		不通知就离开	
+walk off the job		离开工作	
+walk off with		轻易赢得	
+walk on		<非正>小心翼翼	
+walk on air		洋洋得意	
+walk out		罢工；罢工	
+walk out of		从……走出	
+walk out on		遗弃	
+walk out with		追求…	
+walk over		穿过	
+walk over the course		轻易获胜	
+walk right on		不拐弯地一直走	
+walk the hospital		到医院见习	
+walk through		轻松地初排	
+walk up		沿...走	
+walk up to		走近	
+wall effect		壁效应；壁效应	
+wall energy		畴壁能	
+wall growth effect		壁生长效应	
+wall in		筑墙围住	
+wall off		杜绝	
+wall paper		糊墙纸	
+wall set		墙机	
+wall state		畴壁状态	
+wall street		华尔街；华尔街	
+wall system		长壁开采法	
+wall to wall		铺垫物	
+wall up		堵塞	
+want for		缺少	
+want for nothing		不缺乏任何生活必需品	
+want in		想要进来	
+want of age		不够年龄	
+want of care		疏忽	
+want off		想要走掉	
+want out		想要出去	
+want out of		想从…离出去	
+want to		<口>应该	
+want to do		必须做	
+war baby		战时工业	
+war economy		战时经济	
+war game		军事演习；军事演习	
+war material		军事资物	
+war party		作战小组	
+war power		战争权	
+war rate		战争险费率	
+war risk		兵险	
+war room	n	作战室	
+war story		英勇故事（指个人经历中冒险活动等难忘的事）	
+war tax		战争税	
+war time economy		战时经济	
+war to end war		停止战争	
+washing machine		洗衣机；洗胶机	
+watch case		表壳	
+watch fire		营火	
+watch for		守候	
+watch for a chance		等候机会	
+watch it		小心	
+watch night		除夕	
+watch out		密切注意	
+watch out for		戒备	
+watch over		监督；监视	
+watch point		监视点	
+watch system		值班制度	
+watch tv		看电视	
+watch type		监视类型	
+watch window		观察窗口	
+water back		贮水器	
+water bed		充水床垫；水褥	
+water boy		（为工人	
+water company		水公司	
+water development		水利开发	
+water dog		会游水的狗	
+water down		掺水于	
+water level	n	水准	
+water line		吃水线	
+water of life	n	生命之水	
+water plant		水厂	
+water power		水力	
+water pressure		水功	
+water program		水方案	
+water project		水利工程	
+water rate		水费；水费	
+water right		用水权；水权	
+water source		水源	
+water sport		水上运动	
+water supply		水源；给水	
+water system		供水系统	
+water table		地下水位；地下水位	
+water test		液压试验；水试验	
+water treatment		水处理；水的处理	
+water treatment plant		水处理厂	
+water way		水运	
+water white		水白色的	
+way back		老早就	
+way base		方法库	
+way behind		远远落在后面	
+way of life		生活方式	
+way out		出口	
+way over		远远地超过	
+way point		路点	
+way up	adv/adj	<美>远远在上；高级的	
+wear a long face		拉下脸	
+wear away		磨损	
+wear black		穿丧服	
+wear down		磨损	
+wear of work		工件磨损	
+wear off		逐渐减弱	
+wear on		缓缓消逝	
+wear out		穿破	
+wear test		磨耗试验	
+wear through		穿破	
+wear through the day		好歹过了一天	
+wear to		磨成	
+wear upon		穿上	
+wear well		经久耐用	
+week about		每隔一周	
+week after week		接连好几个星期	
+week and week about		每隔一週	
+week by week		一周又一周；周复一周	
+week in week out		一星期又一星期地	
+welfare state		福利国家；福利国家	
+well again		康复	
+well and good		也好	
+well as		不仅	
+well away		进展顺利	
+well cut		做工精细的	
+well enough		还好	
+well head value		井口价值	
+well in	n	人名	
+well known		众所周知的	
+well of court		法庭律师席	
+well off		富裕的	
+well out		打得好	
+well out of		幸运地摆脱	
+well out of it		侥幸脱身	
+well over		溢出	
+well point		井点	
+well read	adj	博览群书的	
+well run		运转良好的	
+well thought out		经过深思熟虑的	
+well up		涌出	
+well up for		对…有充分准备	
+well up in		对...有详细了解	
+well water		井水	
+west bank		约旦河西岸	
+west by north		西偏北	
+west by south		西偏南	
+west country	n	英格兰西南部诸郡；西南部各郡	
+west end	n	伦敦西区	
+west of		在...以西	
+west point	n	西点军校	
+west side	n	（美国纽约）曼哈顿西区	
+what about	adv	怎么样	
+what day		星期几	
+what do you think		你认为如何	
+what do you want		你要什么	
+what else		还用问吗	
+what ever	adj/pron/conj	不管什么样的；无论什么；无论什么	
+what for		为何目的	
+what have you		诸如此类	
+what if		如果…那又怎么样?即使…那又有什么关系?	
+what matter if		即使...又何妨	
+what of		...的情况怎样	
+what though		尽管...有什么关系	
+what way		怎样	
+what with		由于	
+whatever may come		无论得到什么	
+when and where		时间和地点	
+when in position		恢复原位后	
+where do you live		你住在哪里	
+whether or no		不管怎样	
+whether or not		无论…与否	
+while away		消磨	
+while away the time		消磨时光	
+white book		白皮书	
+white girl		白妞	
+white head		头皮白痂病	
+white hope	n	人们寄予厚望者	
+white house		白宫	
+white house office		白宫办公室	
+white lead	n	铅白	
+white level		白水平	
+white lie		善意的谎言	
+white light		白光	
+white line		空白行；白线	
+white list	n	白名单（指经认可或批准事项的一览表）	
+white man	n	白人	
+white matter		白质	
+white night		不眠之夜	
+white oil		白油	
+white out		不透明	
+white paper		白皮书	
+white people		白种人	
+white person		白人	
+white power		白色巨塔（电视剧名）	
+white race		白色人种；白种人	
+white room	n	绝尘室	
+white space		空格	
+white war		不流血的战争	
+white water		白水	
+white way		灯火辉煌（或灯火通明）的街道	
+white woman		白色女人	
+whole blood		全血	
+whole brother		嫡亲兄弟	
+whole event		全事件	
+whole food		天然食品	
+whole house		批发店	
+whole language		整体语言教学法	
+whole life policy		终生保险单	
+whole name		全名	
+whole note		全音符	
+whole number		整数	
+whole page		整页	
+whole rest		全休止符	
+whole show		全部活动	
+whole some		合乎卫生的	
+whole step		全步	
+why ever		为什么（表示惊讶）	
+why not		何妨	
+wild flower		野花	
+will call		定购部	
+will power		意志力	
+will to power		权力欲	
+win at		在…取胜	
+win back		重新获得	
+win by a head		以一马头距离获胜	
+win clear		挣脱	
+win free		挣脱	
+win on		影响	
+win out		获胜	
+win over		争取到	
+win the day		得胜	
+win through		历尽千辛万苦获得成功	
+win up		上马	
+window class		窗口类	
+window image		窗影	
+window program		窗口程序	
+window service		窗口业务	
+window show		逛街	
+window size		窗口大小	
+window system		窗口系统	
+window tax		窗户税	
+wine bar	n	酒吧	
+wishful thinking		如意算盘	
+with a fall of		以…的落差	
+with a free hand		慷慨地	
+with a high hand		用高压手段	
+with a light heart		轻松愉快地	
+with a past		有着悠久历史的	
+with a run		跑着…	
+with a single eye		一心一意地	
+with a strong hand		坚决地	
+with a thought		立刻	
+with a view of		以...为目标	
+with a view to		以...为目标；为了要	
+with a will		努力	
+with age		因年老	
+with attention		留心地	
+with care		小心地	
+with child		怀孕	
+with concern		关切地	
+with decision		断然地	
+with economy		经济地	
+with effect		有效地	
+with energy		精神抖擞地	
+with great care		小心翼翼地	
+with half a heart		半心半意地	
+with interest		有兴趣地	
+with it	adj	（尤指文化上）时髦的	
+with love		赐予我爱情（歌曲名）	
+with no need for		不需要…	
+with one voice		异口同声地	
+with reason		有道理	
+with right		有认购新股的权利	
+with strong hand		用强制手段	
+with success		成功地	
+with that		接着就	
+with the approach of		随着…的到来	
+with the best		跟任何人一样好	
+with the development of		随着…的发展	
+with the even hand		公平地	
+with the growth of		随着…的增长	
+with the help of		借助于…	
+with the result that		其结果是...	
+with the view of		以...为目的；为了...目的	
+with this		说完这个就	
+with time		随着时间的推移	
+with young		怀胎	
+within a hair of		以一发之差	
+within call		在附近	
+within door		在屋内	
+within easy reach of		在…附近	
+within reach		在附近	
+within reach of		在…附近	
+within reason		在合理范围内	
+within the law		在法律范围内	
+within the space of		在…时间内	
+within view		在视野之内	
+without a break		不断地	
+without a break of		不断地	
+without a name		无名	
+without book		凭记忆；无权	
+without cause		无故	
+without cost		不计价	
+without cover		坦白地	
+without day		不定期；无限期的	
+without door		在户外	
+without effort		毫不费力地	
+without end		无穷	
+without interest		除利息	
+without issue		无后裔	
+without number		数不胜数	
+without price		极其珍贵的	
+without question		毫无疑问	
+without reason		没道理；无理由	
+without reason or cause		无缘无故	
+without result	adv	毫无结果	
+without return		不可退货	
+without so much as		甚至于不...	
+woman about town		放荡的女人	
+woman of the house		女主人	
+woman of the street		妓女	
+woman power		女权	
+word break		字的断开	
+word by word		一字一字地	
+word class		词类	
+word family		词族	
+word for word		逐字地	
+word form		词形	
+word game		猜字游戏	
+word of art		新词录	
+word order	n	词序	
+word picture		口头描述	
+word play		文字游戏	
+word process		文字处理	
+word processor		文字处理软件；文字处理软件	
+word rate		单词速率	
+word rest		工作件挟器	
+word sense	n	字意；辨识词义	
+word size		单词尺寸	
+word space		字空间	
+word table		字表	
+word time		字时间	
+word time rate		字时间率	
+work a friend		骗取一个朋友的钱	
+work ability		劳动能力	
+work against		对…不利	
+work against time		抢时间完成工作	
+work animal		役畜	
+work area		工作区域；工作区	
+work area number		工作区号码	
+work as		担任	
+work at		解	
+work at high pressure		紧张地工作	
+work away		不停地连续工作	
+work book		工作规程	
+work center		工作中心；工作中心	
+work condition		工况	
+work data set		工作数据集	
+work day		工作日	
+work experience	n	工作经验	
+work factor test		工作因素试验	
+work for		为…工作	
+work force		劳动力；劳动力	
+work hard		努力工作	
+work in		渐渐进入	
+work in process		在制品	
+work in with		与...相配合	
+work it		完成	
+work life		有效期间	
+work material		加工材料	
+work model		工作模型	
+work of art	n	艺术作品	
+work of mind		智力作品	
+work off		消除；清偿	
+work on		继续工作	
+work order		工作定单；工作通知单	
+work out		设计出；编制	
+work out a problem		解出一道题目	
+work over		彻底检查	
+work party		工作组	
+work people		工人们	
+work period		工作周期	
+work piece		工件；工作物	
+work place		工作场所	
+work product		工作成果	
+work program		工作计划	
+work room		工作室	
+work short		工作疗法	
+work space		工作空间；工作室	
+work study		工作效率的研究	
+work study program		工作研究程序	
+work system		工作系统	
+work table		工作表	
+work test		工作试验	
+work through		（使）逐渐通过	
+work time		有效工时；工作时间	
+work to rule		怠工	
+work together		同…在同一处工作	
+work up		逐步建立	
+work up to		逐步发展	
+work upon		对...起作用	
+work week		工作周	
+work with		与…共事	
+working capital		营运资本；运用资本	
+working class		工人阶级	
+working group	n	工作组	
+working party	n	工作组	
+world bank		世界银行	
+world bank group		世界银行集团	
+world class		世界级	
+world community		国际社会	
+world court		国际法庭；国际法院	
+world cup	n	世界杯	
+world economy		世界经济	
+world health organization		世界卫生组织；世界卫生组织	
+world language		世界语	
+world line		世界线	
+world market		世界市场	
+world model		宇宙模型	
+world music	n	（使用有民族乐器的）流行音乐	
+world organization		世界组织	
+world power		世界强国	
+world record		世界记录	
+world series		全美职业棒球冠军赛	
+world space		自然空间	
+world view	n	世界观	
+world war	n	世界大战	
+world war i		欧战；第一次世界大战	
+world war one		第一次世界大战	
+world war two		第二次世界大战	
+world without end		永远	
+worn out		磨穿	
+would as soon		欣然	
+would be	adj/n	冒充的；想要成为某种人物的人；过去将来时	
+would better		最好还是…	
+would like		想要	
+would like to		想…	
+would love to		希望	
+wound up	adj	紧张的	
+wrapped up	adj	专心致志的	
+write a good hand		写一手好字	
+write a program		编制程序	
+write about		写…的事	
+write away		写信（索要）	
+write away for		函购	
+write back		注销	
+write down		写下；记录	
+write for		为…而写作	
+write head		写头	
+write in		把...写入；写入	
+write in for		向商行写信提要求/意见	
+write of		写；记述	
+write off		一口气写成；注销	
+write off as		一口气写成	
+write off for		写信寄出	
+write on		写	
+write on a subject		撰写…题材	
+write out		写出；誊写	
+write out a list		造表	
+write time		写时间	
+write to		给…写信	
+write up		详细记叙；记述	
+wrong in the head		大脑不正常	
+wrong number		错号	
+wrong side		反面	
+wrong side out		反面朝外	
+wrought iron		锻铁；锻铁	

@@ -1,0 +1,101 @@
+Latin	n/adj	拉丁人；拉丁人的	
+lab	n	实验室；凝乳酶	
+label	n/vt	标签；贴标签于；标志	laybl
+labor	n/vi/vt	劳动；劳动；详细分析	lay'-buhr
+laboratory	n	实验室；实验室	lab'-ruh-tuh-ri
+lack	n/vt/vi	缺乏；缺乏；缺乏	lak
+lady	n	淑女	lay'-di
+lake	n/v	湖；血球溶解	layk
+land	n/vi/vt	陆地；登陆；使上岸	
+landscape	n/vi/vt	风景；从事景观美化；美化...景观	lands'-kayp
+language	n	语言；语言	langg'-wij
+lap	n/vi/vt	膝盖；重叠；包围	
+large	adj/adv	大的；大大地	lahj
+largely	adv	大量地	lahj'-li
+last	adj/vi/vt	最后的；持续；使维持	lahst
+late	adj/adv	迟的；很晚	layt
+later	adv	以后	lay'-tuhr
+latter	adj	后者的	la'-tuhr
+laugh	n/vi/vt	笑；笑；以笑表示	lahf
+launch	n/vt/vi	下水；使下水；起飞	lawnch
+law	n/v	法律；起诉	
+lawn	n	草地；细筛	
+lawsuit	n	诉讼；诉讼	laws'-yoot
+lawyer	n	律师；律师	law'-yuhr
+lay	vt/vi/n	放置；下蛋；位置	
+layer	n/vt	层；分层堆积；层	lay'-uhr
+lead	n/vt/vi	铅；引导；领导	leed-led
+leader	n	领导者；前导字符	lee'-duhr
+leadership	n	领导能力	lee'-duh-ship
+leading	n/adj	领导；领导的	lee'-ding
+leaf	n/vi/vt	叶；生叶；在...上长叶	leef
+league	n/v	同盟；组联盟	leeg
+lean	n/adj/vi	瘦肉；瘦的；倚靠	leen
+learn	vt	学习	lurn
+learning	n	学问；学习	lur'-ning
+least	n/adj/adv	最少；最少的；最小	leest
+leather	n/vt/adj	皮革；覆以皮革；皮革的	le'-dhuhr
+leave	n/vt/vi	许可；离开；出发	leev
+left	adj/adv/n	左边的；在左面；左	
+leg	n/vi	腿；走	
+legacy	n	祖先传下来之物；遗产	le'-guh-si
+legal	adj	法律的；法定权利	lee'-guhl
+legend	n	传说；图例	le'-juhnd
+legislation	n	立法；立法	le-jis'lay-shuhn
+legitimate	adj/vt	合法的；认为正当	li'ji-ti-muht
+lemon	n	柠檬；柠檬	le'-muhn
+length	n	长度；记录长度	
+less	n/adj/adv	较少；少的；较少	les
+lesson	n	课	lesn
+let	vt/vi/n	让；出租；出租屋	
+letter	n/vt/vi	信；写字母于；写印刷体字	le'-tuhr
+level	n/adj/vt	水平；同高的；弄平	levl
+liberal	n/adj	自由主义者；慷慨的	li'-buh-ruhl
+library	n	图书馆；库	laib'-ruh-ri
+license	n/vt	执照；许可	laisns
+lie	n/vi/vt	谎言；躺着；谎骗	lai
+life	n	生活；生活	laif
+lifestyle	n	生活方式	laifs'-tail
+lifetime	n/adj	一生；一生的	laif'-taim
+lift	n/vt/vi	举起；升高；升起	
+light	n/adj/vt	光；轻的；点燃	lait
+like	adj/vt/vi	相似的；喜欢；喜欢	laik
+likely	adj/adv	有可能的；或许	laik'-li
+limit	n/vt	界限；限制	
+limitation	n	限制；限界	li-mi'tay-shuhn
+limited	adj/n	有限制的；特别快车	li'-mi-tid
+line	n/vt/vi	列；排成一行；排队	lain
+link	n/vt/vi	环；连结；连接起来	lingk
+lip	n/vt/adj	唇；以嘴唇碰；口头上的	
+list	n/vt/vi	目录；列出；列于表上	
+listen	vi/n	听；听	lisn
+literally	adv	逐字地	li'-tuh-ruh-li
+literary	adj	文学的；文学的	li'-tuh-ruh-ri
+literature	n	文学；广告	li'-tuh-ruh-chuhr
+little	n/adj/adv	一点点；小的；很少	litl
+live	adj/vi/vt	活的；活；过着	liv-laiv
+living	n/adj	生活；活的	
+load	n/vt/vi	负荷；装载；装货	lohd
+loan	n/v	贷款；借	lohn
+local	adj/n	地方性的；当地居民；本地的	loh'-kuhl
+locate	vt/vi	找出；定居	loh'-kayt
+location	n	位置；位置	loh'kay-shuhn
+lock	n/vt/vi	锁；锁；锁住	lok
+long	adj/vi/adv	长的；渴望；长久	
+look	n/vi/vt	一看；看；打量	luk
+loose	n/adj/vt	发射；宽松的；释放	loos
+lose	vt/vi	遗失；受损失	looz
+loss	n	损失；损失	los
+lost	adj	失去的；lose的过去式和过去分词	
+lot	n/vt/vi	运气；划分；抽签	
+lots	n	大量	
+loud	adj/adv	大声的；高声地	lowd
+love	n/vt/vi	爱；爱；爱	luv
+lovely	adj	可爱的	luv'-li
+lover	n	爱人	lu'-vuhr
+low	n/adj/adv	低点；低的；低下地	loh
+lower	adj/vi/vt	低的；降低；放下	loh'-uhr
+luck	n/vi	运气；靠好运成功	luk
+lucky	adj	幸运的	lu'-ki
+lunch	n	午餐	
+lung	n	肺；肺	

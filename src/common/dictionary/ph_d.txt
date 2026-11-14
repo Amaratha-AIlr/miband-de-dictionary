@@ -1,0 +1,419 @@
+dance floor	n	舞池	
+data bank		数据库	
+data base		数据库；数据库	
+data base computer		数据库计算机	
+data base data model		数据库数据模型	
+data base set		数据库系	
+data book		信息容量	
+data break		资料间隔	
+data center		资料中心	
+data control group		数据控制小组	
+data field		数据区	
+data form		数据表格；数据记录表	
+data head		数据磁头	
+data hold		资料保持装置	
+data level		数据级	
+data model		数据模型	
+data name		数据名字	
+data organization		数据组织	
+data point		数据点；数据点	
+data rate		数据率	
+data record		资料记录	
+data report		数据报告	
+data rule		数据规则	
+data security		数据安全性	
+data series		数据序列	
+data series in		数据系列在	
+data set		数据集	
+data set control		数据集控制	
+data set group		数据集组	
+data set name		数据集名	
+data set ready		数据装置就绪	
+data source		数据源	
+data system		资料系统	
+data type		数据类型	
+data view		数据视图	
+data window		数据窗口	
+data word		字	
+daughter board		子插件板	
+daughter company		子公司	
+daughter in law		儿媳妇	
+daughter star		子星体	
+day about		每隔一天地	
+day after day		日复一日	
+day after night	adv	日以继夜	
+day and night		日以继夜	
+day bed		（坐卧两用	
+day book	n	日记账	
+day boy		走读生	
+day break	n	黎明	
+day by day		逐日	
+day car		硬座车厢	
+day care	n	（托儿所的）日托	
+day care center		日托中心	
+day game		日间比赛	
+day girl		走读女生	
+day in court		出庭日	
+day in day out		日复一日地	
+day job	n	白天的工作	
+day letter	n	昼间递送	
+day level		横洞	
+day of rest		星期日	
+day of the month		日	
+day of the week		礼拜	
+day off		休假	
+day one	n	第一天	
+day order		当日指令	
+day out		在（家）外面度过的日子	
+day rate		按日计算的费率	
+day rate plan		日给制	
+day return	n	即日来回票	
+day room		日间扣留所	
+day school	n	走读学校	
+day student		走读生	
+day to day	adv	天天	
+day trip	n	当日往返的短途旅行	
+day watch		守日人	
+day work rate		日工单价	
+dead air		静气	
+dead area		遮蔽面积	
+dead body		死尸	
+dead book		倒闭公司注册登记簿	
+dead break		空破裂	
+dead center		固定顶尖	
+dead drop		情报秘密传递点	
+dead end		闭塞不通的一头；终端	
+dead hand		呆手；死手	
+dead hand control		永远管业限制	
+dead head		冒口	
+dead language		已经废弃的语言	
+dead letter		死信；无法投递函件	
+dead level		务用层	
+dead line		静线；安全界线	
+dead line effect		截止时间作用	
+dead loss		纯损失	
+dead money		高利率贷款	
+dead number		空号	
+dead oil		比重大于不的煤焦油重馏分；死油	
+dead person		死人	
+dead point		死点	
+dead position		死局势	
+dead program		停用程序	
+dead room		静室	
+dead season		淡季	
+dead set	n	决定性攻击	
+dead short		完全短路	
+dead space		静区；死体积	
+dead start		静启动	
+dead state		停滞状态；死态	
+dead stock		呆滞商品；呆滞商品	
+dead stop		完全停止	
+dead sure		绝对可靠	
+dead time		停滞时间；死时间	
+dead to the world		沉睡	
+dead use		未来使用权	
+dead water		死水	
+dead work		非生产性工作	
+deal in		经营	
+deal out		分配	
+deal with		安排	
+death cup	n	一种极毒的蘑菇	
+death house		死刑罪犯牢房	
+death penalty		死刑	
+death rate	n	死亡率	
+death row	n	死囚室	
+death sentence	n	死刑	
+death squad	n	暗杀小组	
+death tax		遗产税	
+death toll	n	死亡人数	
+decade carry		十进制进位	
+decide according to law		依法处理	
+decide against		做出不利于…的决定	
+decide for		做出有利于…的决定	
+decide on		决定	
+decide the case		办案	
+decision business		决策业务	
+decision computer		决策计算机	
+decision in a case		定案	
+decision model		判定模型	
+decision of the court		法院判决	
+decision point		做决定的时刻	
+decision problem		判定问题	
+decision process		判定过程	
+decision program		决策程序	
+decision rule		判定规则；决策规则	
+decision support		判定支持	
+decision support model		判定支援模型	
+decision support system		判定支援系统	
+decision system		判定系统	
+decision table		判定表	
+decision table language		判定表语言	
+decision tree		判定树；决策树	
+decision value		判定值	
+defense force		防御力；国防军	
+defense policy		国防政策	
+defense program		防御计划	
+defense system		防御体系	
+defense tax		防卫捐	
+defense team		组防守队伍	
+department store		百货公司；百货商店	
+describe as		描述为	
+desert island	n	荒岛	
+despite of		不管	
+determine on		决定	
+develop a disease		患病	
+develop control over		对…实行控制	
+develop into		演变成…	
+develop with practice		在实践中成长	
+development area		开发区	
+development bank		开发银行	
+development cost		开发成本	
+development fund		开发基金	
+development organization		研制单位	
+development plan		开发计划	
+development program		发展计划	
+development system		开发系统	
+development tax		发展税	
+development time		调试时间	
+die away		熄灭	
+die back		（植物）枯死但根部还活着	
+die cut		冲切	
+die down		枯萎	
+die from		由于...而死	
+die game		宁死不屈	
+die half		刚模半边	
+die hard		难改掉	
+die in action		战死	
+die in office		殉职	
+die like a dog		悲惨地死去	
+die of		死于…	
+die of old age		年老而死	
+die off		相继死去直至死光	
+die out		熄灭	
+die set		模组	
+die stock		螺模来把	
+die without issue		身故无后	
+die young		夭折	
+difference light		光差	
+difference report		差别报告	
+difference set		差集	
+difference table		差分表	
+different first page		首页不同；首页不同	
+different from		异于…	
+different in		在……不同	
+dining room		饭厅	
+dining table	n	餐桌	
+dinner party	n	宴会	
+dinner table	n	餐桌	
+director board		董事会	
+director general		局长	
+director of company		公司董事长	
+director of research		研究主任	
+dirty trick		卑鄙手段	
+district attorney		美国地方检察官；地方检察官	
+do a deal with		与…做交易	
+do a guy		逃跑	
+do a job on		损毁	
+do a show		去看戏	
+do a study		进行研究	
+do away with		废除	
+do business		经商	
+do by		对待	
+do down		胜过	
+do fine		进展顺利	
+do for		对...有效	
+do good		有用	
+do group		DO循环语句组	
+do in		杀害	
+do it		做一做	
+do it all		服无期徒刑	
+do not drop		不可抛掷	
+do not turn over		不可倒置；不可倒置	
+do or die		决一死战	
+do out		打扫	
+do over		重做	
+do over again		返工	
+do part		执行部分	
+do right		做得对	
+do something		做就对了（歌曲名）	
+do the business		起作用	
+do the same		照办	
+do the will of		服从...的意志	
+do time		服徒刑	
+do to death		杀死	
+do up		修缮	
+do well		做得好	
+do well by		对…很好	
+do well out of		从中得到好处	
+do while		循环当语句	
+do with		与...相处	
+do without		没有...也可以	
+do work		做功	
+do wrong		作恶；做坏事	
+do you know		你知道吗	
+do you mind if		如果…你介意吗?你反对…吗?	
+do you understand		你明白吗	
+do your best		“do your best/utmost”的变体；尽力而为	
+doctor of education		教育学博士	
+doctor of music		音乐学博士	
+doctor of public health		公共健康学博士	
+doctor of the church		【基督教】早期基督教神学家	
+doctor test		含硫试验	
+doctor treatment		博士法精制	
+doctor up		掺假	
+doctor who		神秘博士（电影名、科幻小说名）	
+dog day		三伏天	
+dog do		狗粪	
+dog fight		空中格斗	
+dog food		狗粮	
+dog hair		（纸面）长纤维纸毛	
+dog house		高频高压电源屏蔽罩	
+dog it		打扮起来摆阔	
+dog show		狗展赛	
+dog star		天狼星	
+door support		排料门底座	
+door to door		门到门	
+door to door risk		库房至库房风险	
+door to door service		送货上门服务	
+double cream		高脂肪浓奶油	
+double standard	n	双重标准	
+down and out		穷困潦倒	
+down east		新英格兰	
+down lead		引入线	
+down line		下行线路	
+down market		低档品市场	
+down on		瞧不起	
+down payment		预付定金	
+down period		关闭期间	
+down size		缩小尺寸	
+down south		南下	
+down stairs		下楼	
+down the line		到处	
+down the street		沿着街道	
+down time		故障时间；停工时间	
+down to		下至	
+down to the ground		在一切方面	
+down town		城市中心	
+down under		在/向地球另一边	
+down with		打倒	
+draw a full house		招徕满座	
+draw a line		画一条线	
+draw a line between		划界限	
+draw attention to		引起对…的注意	
+draw away		拉开	
+draw back		收回；退钱	
+draw blood		抽血	
+draw by lot		抽签	
+draw close		靠拢	
+draw down		招致	
+draw fill		画填字符	
+draw fire		吸引火力	
+draw from		从…得到	
+draw in		收缩	
+draw it fine		十分精确	
+draw level with		与...拉平	
+draw near		靠近	
+draw off		脱去	
+draw on		戴上	
+draw on the future		预支	
+draw one		翻一张	
+draw out		拉长	
+draw play		【美式橄榄球】后撤传球	
+draw the line		划一界线	
+draw the line at		划定界线	
+draw three		翻三张	
+draw to a close		渐近结束	
+draw together		团结起来	
+draw up		草拟	
+draw up a plan		制定计划	
+draw up a project		制定计划	
+draw up a will		起草遗嘱	
+draw up in order		使排整齐	
+draw upon		开出	
+drawing board		制图板；图板	
+drawing room		客厅；绘图室	
+dressing gown		晨衣	
+dressing room	n	更衣室	
+dressing table	n	梳妆台	
+drinking water	n	饮用水	
+drive around		开车四处转；兜风	
+drive at		意指	
+drive away		驱车离开	
+drive away at		努力做	
+drive back		驾车返回	
+drive by		推动	
+drive control		传动控制	
+drive down		压低	
+drive home		开车送回家	
+drive in		驶进	
+drive into		开进	
+drive letter		驱动器名；驱动器名	
+drive line		传动线	
+drive line system		传动系统	
+drive off		驾车离去	
+drive oil		传动油	
+drive on		继续开车	
+drive out		开车出去	
+drive out of		驱逐出	
+drive out the game		赶走猎物	
+drive part		驱动部分	
+drive point		驱动点	
+drive stand		传动机座	
+drive the center		击中靶心	
+drive time		（作为电台广播节目中一档的）上下班驾车时间	
+drive up		抬高；加速传动	
+driving licence	n	驾驶执照	
+drop a course		退修一门课程	
+drop a line	n	写信给某人	
+drop a subject		结束话题	
+drop across		偶遇	
+drop arm		转向轴	
+drop around		顺便走访	
+drop at		拒保	
+drop away		离开	
+drop back		退后	
+drop back into		恢复	
+drop behind		落后	
+drop black		煅骨碳	
+drop by		随便访问	
+drop by drop		一点一滴地	
+drop culture		滴量培养	
+drop dead		倒毙	
+drop down		落下	
+drop goal		踢落地球射中	
+drop hand		手垂病	
+drop heart		滴状心	
+drop in		顺便走访	
+drop in on		顺道拜访	
+drop into		往...一倒	
+drop it		<口>放弃	
+drop letter		<美>托人由一地带到另一地付邮的信件	
+drop line		写信	
+drop off		离开；落砂	
+drop on		训斥	
+drop open		放开	
+drop out		掉出；落砂	
+drop out of		退出	
+drop over		顺便拜访	
+drop pass	n	（曲棍球）留球	
+drop scene		可升降幕布	
+drop set		降低组	
+drop test		坠落试验	
+drop through		失败	
+drop time		滴下时间	
+drug company		药品公司；医药公司	
+drug control		毒品管制	
+drug disease		药物病	
+drug in the market		呆滞货品	
+drug information system		药物信息系统	
+drug store		药房	
+drug treatment		药物疗法	
+drug war		毒战	
+due to		由于	
+during case		持续时间角色	
+during good behavior		品德良好期间	
+during the administration of		在…执政期间	
+during the course of		在…期间	
+during the process of		在…过程中	
+during the rule of		在...统治时期	
+during the week		在一周的工作日内	

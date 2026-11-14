@@ -1,0 +1,857 @@
+baby bed		儿童床	
+baby book		育婴指南	
+baby doctor		小儿科医生	
+baby girl		女婴	
+baby market		婴儿市场	
+baby oil		婴儿润肤油	
+baby talk		儿语	
+back against the wall		背山面水	
+back and fill		前进时帆忽张忽缩	
+back away		逐渐后退	
+back away from		从…躲开	
+back character		退格控制字符	
+back country		穷乡僻壤	
+back course		反航线	
+back cover		后壳	
+back current		反向电流	
+back door		后门；"后门"	
+back down		放弃要求	
+back end		后端；后段	
+back face		后端面	
+back fall		山坡	
+back fire		回火	
+back from		远离	
+back ground		背景	
+back in		无意中获得	
+back into		（使）倒进…	
+back issue	n	过期刊物	
+back letter		退回信件	
+back light		背面光	
+back matter		书后所附补充资料	
+back number		过期的刊物	
+back of		在…后面	
+back of a book		书背	
+back of beyond		遥远的地方	
+back off		后退	
+back office		事务部门	
+back on		背向	
+back on to		背对着	
+back order		暂时无法满足的订货；拖欠定货	
+back out		停止不干；收回	
+back out of		退出	
+back pay		欠付工资	
+back pressure		反压	
+back pressure effect		反压效应	
+back rest		床靠背	
+back road		偏僻的乡间道路	
+back room		里屋	
+back run		逆行	
+back side		里面	
+back source		后备电源	
+back street		背街	
+back talk		回嘴	
+back tax		退税	
+back to		后退到；回到	
+back to back		背靠背	
+back to the wall		背山面水	
+back up		支持	
+back up power		备用电源	
+back value		倒帐	
+back view		后视图；后视图	
+back water		令划手划倒桨；回水	
+bad blood		恨；恶感	
+bad boy		不良少年	
+bad business		营业不利	
+bad character		歹徒	
+bad debt		坏帐	
+bad guy	n	（多指小说或电影中的）反角	
+bad language		骂人的话	
+bad law		恶法	
+bad lot		坏蛋	
+bad man		暴徒	
+bad news		坏消息	
+bad order		暂时无法满足的订单	
+bad paper		空头支票	
+bad pay		没有偿还能力	
+bad person		坏人	
+bad risk		风险大的保险	
+bad state		坏态	
+bad table		错误表	
+bad will		负商誉	
+bad word		坏字	
+bad year		儿年	
+badly off		穷的	
+balance of payment		收支平衡	
+balance of power		（国际间的）均势	
+balance sheet		资产负债表；资产负债表	
+ball game	n	球类运动	
+ballot box		投票箱；投票箱	
+bank a fire		封火	
+bank account		银行存款	
+bank american		美洲银行卡	
+bank book		银行存摺	
+bank building		银行大楼；银行建筑	
+bank call		银行传唤	
+bank group		银行集团	
+bank holiday		公共假期	
+bank interest		银行存款利息	
+bank line		银行授信额度	
+bank money		银行票据	
+bank money order		银行汇款单	
+bank note		钞票；纸币	
+bank number		银行号码	
+bank of issue		发钞银行	
+bank of stock		滚上橡皮储料	
+bank on		指望	
+bank order		银行汇票	
+bank paper		钞票；银行纸币	
+bank rate		银行贴现率；银行利率	
+bank return		支票交换所的报表	
+bank run		银行挤兑	
+bank stock		银行股票	
+bank up		堆积	
+barbed wire		棘铁丝	
+base area		基区	
+base court		初级法院	
+base current		基极电流	
+base data		基本数据	
+base field		基本字段	
+base film		带基	
+base form		基础形式	
+base group		基群	
+base hit	n	<美>安全打	
+base hospital		后方医院	
+base language		基本语言	
+base level		基本级	
+base light		基本光	
+base line		基线；基线	
+base material		基质	
+base note		后味	
+base number		基数；碱值	
+base of heart		心底	
+base oil		原油；原油	
+base on	v	基于	
+base on fact and		以事实为根据	
+base on oil		根滤油类计算	
+base order		基本指令	
+base page		基页	
+base paper		原纸；原纸	
+base pay		基本工资；基本薪金	
+base period		基期	
+base point		小数点；基点	
+base price		底价；基本价格	
+base product		基础产物	
+base program		基本程序	
+base rate	n	基本利率	
+base record		基本记录	
+base set		基本集	
+base stock		基本原料；基本存量	
+base table		库登记表	
+base type		基类型；基底式	
+base value		基值	
+base word		基区字	
+base year		基年	
+basis point		基点（等于0.01%）	
+bay leaf		月桂树叶	
+be a good sport		要有良好的运动风度	
+be a party to		和…发生关系	
+be able to		能	
+be about		从事于	
+be about to		即将	
+be after		追赶	
+be all attention		聚精会神	
+be all eye		聚精会神地看	
+be all in		精疲力竭	
+be all one		都一样	
+be all set		准备就绪	
+be along		来到	
+be along to		来到…	
+be around		在旁边	
+be at law		在诉讼中	
+be at one		一致	
+be at the end		最终	
+be at war		处于交战状态	
+be at war with		处于交战状态	
+be available		生效	
+be available to		可被...利用或得到的	
+be back		回来	
+be bad at		不擅长	
+be bad law		意见/决定违背法律	
+be bad money		是无利可图的投资	
+be better off		境况好	
+be big of		慷慨	
+be big on		热衷于	
+be big with child		怀孕	
+be black with		黑压压的满是	
+be called		被叫做…	
+be central to		是…的核心	
+be certain about		对…肯定	
+be certain of		确信	
+be clear about		对…很清楚	
+be close at hand		就在眼前	
+be close by		在...附近	
+be close to		接近于...	
+be common to		与...共同/共用	
+be cut out for		适合于	
+be dead against		针对	
+be dead set on		坚决	
+be dead to		对...无感觉	
+be death on		善于	
+be different from		与…不同	
+be different than		与…不一样	
+be difficult of		难以	
+be difficult of approach		难以接近	
+be down and out		被击倒而停止比赛	
+be down for		被列入名单	
+be down on		对...有怨气	
+be easy of approach		平易近人	
+be even with		跟…算帐	
+be far short of		远远不足	
+be for it		赞成	
+be foreign to		无关	
+be free from care		无忧无虑	
+be free with		直爽	
+be friend with		与…交友	
+be full		饱	
+be full of		充满	
+be game for		高兴…	
+be going to		将要	
+be good at		擅长	
+be good company		是有趣的伙伴	
+be good for		值得	
+be good law		符合法律；符合法律	
+be good money		是有利可图的投资	
+be great about		对…感到十分高兴	
+be great at		善于	
+be great on		爱好	
+be great with		充满…	
+be great with child		怀孕	
+be happy together		和睦相处	
+be hard at it		专心致志于…	
+be hard at work		勤奋工作	
+be hard hit		受到沉重打击	
+be hard hit by		因某事遭受重大损失	
+be hard on		对…来说很艰苦	
+be hard set		饿极	
+be hard up		短缺	
+be here to stay		留下不走	
+be high on		爱好	
+be history		成为历史（或过去）	
+be hot after		急想找到…	
+be hot at		对…很拿手	
+be hot on		热衷于	
+be in		到达	
+be in a situation		有职业	
+be in at		参与	
+be in bad with		失去某人的欢心	
+be in for		必定遭到	
+be in for it		骑虎难下	
+be in full play		全速运转	
+be in good health		健康	
+be in hard condition		身体很棒	
+be in hospital		在住院	
+be in hot water		陷入困境	
+be in it		参加	
+be in love		恋爱	
+be in love with		与...恋爱	
+be in need of		需要	
+be in on		参预	
+be in on it		熟悉内情	
+be in service		当佣人	
+be in the news		被报道	
+be in the picture		取得成功	
+be in the push		熟悉情况	
+be in the red		亏损	
+be in the right		站在正义一边	
+be in the wrong		错误	
+be in there		坚持	
+be in town		在城里	
+be in type		排好字	
+be it		不论	
+be it so		好吧	
+be it that		即使	
+be just to		对…公正	
+be know as		以…而闻名	
+be left		被遗弃	
+be likely of success		很可能取得成功	
+be likely to		有可能…	
+be mean about		在…很吝啬	
+be most likely to		很可能	
+be much to seek		缺乏	
+be new at		对…很生疏	
+be no end fine		好极了	
+be nothing to		对...无足轻重	
+be of age		成年	
+be of effect		有效	
+be of great moment		很重要	
+be of help to		对...有帮助	
+be of little amount		不重要	
+be of little moment		不很重要	
+be of no effect		无效	
+be of no moment		不重要	
+be of one mind		同心协力	
+be of service to		对...有用	
+be off		离开	
+be off with		和…断绝关系	
+be on		已经开始了	
+be on it		准备就绪	
+be on leave		在休假	
+be on the air		正在播送	
+be on the door		守门	
+be on the market		被供应出售	
+be on the watch		留神着	
+be on to		意识到	
+be open to		对...开放	
+be out and about		到处走动	
+be out for		力图要	
+be out from under		从…中脱身	
+be out like light		醉得不省人事	
+be out of form		竞技状态不好	
+be out of town		不在城里	
+be out of use		不用了	
+be out to		企图	
+be over		完了	
+be past help		无法挽救	
+be patient of		能忍受...的	
+be patient with		对...有耐心	
+be possible of		可能...的	
+be prepare to do		准备	
+be put into action		被实行	
+be ready against		作好防备…的准备	
+be ready for		为…作好准备	
+be ready to		准备…	
+be ready to help		乐于帮助	
+be reason of		由于	
+be set against		反对	
+be set in		以…为背景	
+be set on		一心想…	
+be set up		自命不凡	
+be short of		缺乏...	
+be sick		恶心	
+be significant of		表示	
+be similar to		与...相似	
+be strong in		长于...	
+be subject to		受支配	
+be sure about		对…有把握	
+be sure of		确信...	
+be sure that		确信...	
+be sure to		肯定	
+be take with		喜欢	
+be the same with		也一样	
+be the sport of		受…玩弄	
+be the whole show		当主要角色	
+be through		完成	
+be through with		完成	
+be to		准备	
+be to seek		远未找到	
+be too much for		非...力所能及	
+be top dog		处于支配地位	
+be true about		符合于…	
+be true in word		讲话靠得住	
+be true of		符合于	
+be true to		信守	
+be true to name		名副其实	
+be under close watch		被严密监视着	
+be under dog		处于被支配地位	
+be under medical treatment		在治疗中	
+be under pressure		受到压力	
+be under treatment		在治疗中	
+be up		起床	
+be up against		面临	
+be up and about		起来走动	
+be up and around		起床到处走动	
+be up on		精通	
+be up to		胜任	
+be up with		出了问题	
+be well		保重	
+be well left		得到大量遗产	
+be well off		生活过得好	
+be with		支持	
+be with child		怀孕	
+be with it		<美俚>机灵的	
+be with young		怀孕	
+be within the law		合法；合法	
+be young at		对…没有经验	
+because of		因为	
+become law		成为法律	
+become of		发生	
+become of age		成年	
+become one		成为一体	
+become one with		和….结成一体	
+bed and board		膳宿；共同生活	
+bed and breakfast		欧洲的一种简易旅馆	
+bed cover		床罩	
+bed down		安排舒服地睡觉	
+bed ground		床位	
+bed out		栽种	
+bed rest		床支架	
+bed table		床桌	
+before anything else		首先	
+before day	adv	天亮之前	
+before everything		首先	
+before image		前象	
+before long		不久以后	
+before space		空白行	
+before start		起动前	
+before the court		出庭	
+before the fact		作案前	
+before the turn of		在旧的世纪结束、新的世纪开始之前	
+before the world		在全世界面前	
+before this		在这以前	
+begin as		起初作为	
+begin by		以…开始	
+begin on		开始	
+begin school		开始求学	
+begin the world		开始自己谋生	
+begin with		以…开始	
+behind in		误期	
+behind time		迟了	
+behind with		落后	
+believe in		信仰	
+believe it or not		信不信由你	
+believe me		真的	
+best boy		（摄制电影时的）器材助理	
+best evidence		最有利的证据	
+best evidence rule		最佳举证规则	
+best friend		最好的朋友	
+best in quality		品质优良	
+best interest of society		社会最佳利益	
+best man		男傧相	
+best of all		最	
+best offer		最好销售报价	
+best part of		最精彩的东西	
+best practice		最优方法	
+best seller		畅销书；畅销品	
+better and better	adv	越来越好	
+better half		配偶（妻子）	
+better late than never		迟做比不做好	
+better off		比较富裕	
+betting shop	n	<英>彩票销售点	
+between body		介体	
+between man and man		两人间私下讲讲	
+between while		时时	
+between you and me		只限于我俩之间	
+beyond all question		毫无疑问	
+beyond control		无法控制；无法控制	
+beyond hope		没希望	
+beyond number		多得数不清；无法计算的	
+beyond price		极其珍贵的	
+beyond question		无可争辩	
+beyond reason		不合理	
+beyond that		除此之外	
+beyond the point of		超过了…的程度	
+beyond the reach of		...所不及的	
+beyond thought		想象不到	
+beyond word		无法用言语形容	
+big board		纽约证券交易所	
+big boy		好家伙!老弟	
+big brother	n	老大哥	
+big business		（尤指有举足轻重影响力的）大企业集团	
+big city	n	大城市	
+big deal	n	名人	
+big dog		大人物	
+big end		连杆大头	
+big fish	n	指公司里的重要人物	
+big five		英国五大银行	
+big four		英国四大银行	
+big game		大猎物	
+big government		（对人民生活、经济等控制严厉的）大政府	
+big guy		大家伙	
+big hair		蜂窝头	
+big hand		长时间的热烈鼓掌	
+big head		夜郎自大者	
+big house		监狱	
+big idea		重要意图	
+big lie		弥天大谎	
+big man		大个子	
+big money	n	大笔的钱	
+big name	n	知名人士	
+big on		热衷于	
+big picture		<口>（电影放映节目单上的）正片	
+big talk		大话	
+big time	n	第一流	
+big top		大帐篷	
+big tree		巨杉（世界爷）	
+birth control		节育；节育	
+birth rate	n	人口出生率	
+black american		黑肤色美国人	
+black and white		白纸黑字；单色	
+black and white level		黑白位准	
+black and white picture		黑白图	
+black area		黑面积	
+black art		妖术；妖术	
+black body		黑体	
+black book		黑名单	
+black center		黑心	
+black country	n	黑乡（英格兰的密集工业区）	
+black death		黑死病	
+black disease		黑病	
+black dog		沮丧	
+black drop		鸦片	
+black economy	n	黑色经济	
+black eye		黑眼	
+black hand		黑手党	
+black head		粉刺	
+black heart		黑心材	
+black hole	n	黑洞	
+black house		黑市	
+black in the face	adj	脸色发紫	
+black information		黑名单信息	
+black land	n	黑土	
+black law		关于黑人的法律	
+black lead		石墨；石墨	
+black leader		【矿物】石墨	
+black letter		古代英国哥特式黑体字	
+black level		黑面水平	
+black light		黑光	
+black list		黑名单	
+black man		黑人	
+black market		黑市	
+black music		黑人音乐	
+black oil		重油	
+black out		使停刊	
+black paper		黑皮书	
+black people		黑人	
+black pepper	n	黑胡椒	
+black person		黑人	
+black power		黑人权利	
+black process		生产气体炭黑的过程	
+black race		黑色人种	
+black rate		黑市价	
+black red		黑红	
+black summer oil		黑色夏用油	
+black up		弄黑脸和手	
+black woman		黑人妇女	
+blood bank		血库；血库	
+blood brother		血盟者	
+blood cup		绯红盘菌	
+blood disease		血液病	
+blood film		血膜	
+blood group		血型；血型	
+blood level		血中浓度	
+blood line		血统	
+blood loss		失血	
+blood money	n	血腥钱	
+blood picture		血像	
+blood pressure		血压；血压	
+blood red		血红	
+blood sport		以猎杀（鸟兽）为乐的运动	
+blood test		验血；验血	
+blood type		血型；血型	
+blood vessel		血管；血管	
+blue chip	n	蓝筹股（稳而值钱的股票）	
+board around		吃轮伙	
+board foot		板英尺	
+board game	n	用棋盘玩的游戏	
+board in		在寄宿处膳宿	
+board lot		成交批量	
+board man		买卖证券的人	
+board meeting		董事会会议	
+board member		董事会成员	
+board of administration		董事会	
+board of education	n	学校董事会	
+board of health		保健部	
+board officer		董事会成员	
+board out		在外面用膳	
+board room		董事会会议室	
+board rule		板尺	
+board up		用木板封住	
+board up a road		用木板挡住道路	
+boarding school		寄宿学校	
+boat people	n	船民	
+body case		壳体	
+body current		主体电流	
+body force		体力	
+body group		主体栏	
+body hair		体毛	
+body image		体像	
+body language	n	身体语言	
+body material		釜体材料	
+body matter		正文内容	
+body of evidence		一些证据	
+body of oil		油基	
+body of water		贮水池	
+body of work		作品体	
+body paper		底纸	
+body part		身体部分	
+body process		车身工艺	
+body sense		躯体觉	
+body size		字体大小	
+body stock		原纸	
+body type		体型	
+body up		加重	
+body wall		体壁	
+bone marrow	n	骨髓	
+book a room		预定房间	
+book concern		出版社	
+book cost		帐面成本	
+book cover paper		书皮纸	
+book down		把…登记下来	
+book end	n	书夹	
+book for		订购往...去的票	
+book group		读书小组	
+book in		登记住入	
+book land		注册土地	
+book loss		帐面损失	
+book of first record		原始帐簿	
+book of job	n	约伯记	
+book paper		印书纸	
+book rate		帐面折合率	
+book rate of return		帐面报酬率	
+book system		帐簿制度	
+book the order		登记	
+book up		预订	
+book value		帐面价值；帐面价借	
+book value per share		每股帐面价值	
+bottom line	n	概要	
+box office		票房	
+boy friend		男朋友	
+brand name	n	商标	
+bread and butter		涂黄油的面包	
+break a case		破案	
+break a fall		使势头减弱	
+break a law		违反法规	
+break a record		打破记录	
+break a rule		违反规则	
+break a will		撤回一个遗嘱	
+break away		突然离开	
+break away from		摆脱	
+break character		中止字符	
+break cover		从隐藏处出来	
+break down		毁掉；发生故障	
+break down into		把…分解成	
+break even		并列起跑；不赚不赔	
+break free		摆脱对方防守	
+break from		决裂	
+break ground		破土	
+break in		训练	
+break in on		打断	
+break in the market		市价暴跌	
+break into		破门而入；破门而入	
+break line		断线	
+break new ground		开创新局面	
+break of	v	放弃	
+break of day		破晓	
+break of oil		油加热后的沉淀	
+break of serve		服务休息	
+break of the day		休息一天	
+break off		折断	
+break open		砸开	
+break out		突发；铸漏	
+break out in		突然发出	
+break out into		长出	
+break over		吞没	
+break period		断开周期；试运转时间	
+break point		断点；转折点	
+break short		使突然停止	
+break short off		中断	
+break step		走乱步伐	
+break the back of		毁坏…	
+break the bank		耗尽资源	
+break the law		犯法	
+break the news		披露新闻	
+break the record		打破纪录	
+break through		突围；断缺	
+break time		断开时间	
+break to piece		打碎	
+break up		打碎	
+break up into		把…分解成	
+break water		防波堤	
+break with		与...绝交	
+breathing space		休息时间	
+bring a return to		为…带来利润	
+bring about		带来	
+bring along		带来	
+bring around		使信服	
+bring back		拿回来	
+bring down		打倒；结转	
+bring down on		招致	
+bring down the house		博得满堂喝彩	
+bring home		使…十分清楚	
+bring in		提出	
+bring in business		拉生意	
+bring into		使达到…	
+bring into action		使开始行动；使动作	
+bring into effect		实现	
+bring into force		实施	
+bring into line		使排齐	
+bring into play		使运转	
+bring low		使跌落	
+bring off		救出	
+bring on		引起	
+bring out		使显示；包销人公开出售新证券	
+bring over		使转变；转入	
+bring the house down		博得满堂喝彩	
+bring through		救活	
+bring to		使恢复知觉	
+bring to a close		结束	
+bring to a stop		把…停下来	
+bring to life		使苏醒	
+bring to market		出售	
+bring to mind		想起	
+bring to pass		使发生	
+bring to rest		停车	
+bring together		使相合	
+bring under		制服	
+bring up		教育	
+bring up short		使中断	
+bring word to		给…传话	
+bronze medal	n	铜（质）奖章	
+brother field		同级字段	
+brother in law		姐夫	
+build in		嵌入	
+build into		使成为…的一部分	
+build on		在原有的建筑物上增建	
+build up		树立；提升力	
+build upon		指望	
+building block		积木	
+building board		建筑纸板	
+building cost		建筑物造价	
+building lot		建筑房屋用地	
+building material		建筑材料	
+building paper		建筑纸	
+building part		建筑部分	
+building rate		建筑费率	
+building room		装配间	
+building site	n	建筑工地	
+building society	n	<英> 房屋建筑会	
+building up		堆焊	
+bus stop		公共汽车站	
+business ability		营业能力	
+business activity		经济活动	
+business administration		企业管理	
+business building		办公楼	
+business case		商业案例	
+business center		商业中心	
+business class		二等舱	
+business college	n	商业专科学校	
+business community		工商业界	
+business company		商业公司	
+business computer		商业计算机；商业电脑	
+business concern		企业	
+business day		营业日	
+business deal		交易	
+business decision		营业决策	
+business development		商业（发展）区	
+business end		使用的一头	
+business form		商务表格	
+business game		商业对策；业务作业	
+business information control		企业信息控制	
+business information system		企业信息系统	
+business language		商业语言	
+business law		商业法	
+business leader		商业领袖	
+business letter		业务函件	
+business life		企业寿命	
+business line		业务范围	
+business man		商人	
+business news		商业新闻	
+business office	n	营业厅	
+business opportunity		营业机会	
+business organization		企业组织	
+business people		商业人士	
+business person	n	商人	
+business practice		营业惯例	
+business relationship		业务关系	
+business report		报告	
+business report of condition		营业情况报告书	
+business school		商业学校	
+business tax		营业税	
+business year		营业年度	
+but also		并且	
+but even so		尽管如此	
+but for		要不是	
+but that		若非	
+but then		但另一方面	
+but what		而不...	
+buy at		以…价格买下：	
+buy back		产品返销	
+buy back oil		回购油	
+buy food		买食物	
+buy for a rise		价格看涨而买入	
+buy for money		现购	
+buy for ready money		用现钱买	
+buy in		买进；买进	
+buy into		出钱入	
+buy it		放弃	
+buy national		买本国货	
+buy off		收买；买通	
+buy out		出钱使放弃地位；买下	
+buy over		收买；收买	
+buy time		争取时间	
+buy up		全买；囤积	
+by a hair		差一点儿	
+by a long way	adv	大大地	
+by accident		偶然	
+by air		乘飞机	
+by and by		不久以后	
+by and large		大体上	
+by any chance		万一	
+by blood		按照血统说	
+by car		乘汽车	
+by chance		偶然	
+by choice		出于选择	
+by course of		照...的常规	
+by day		在白天	
+by far		显然	
+by force		强迫地；凭藉暴力	
+by force of		由于	
+by half		相差一半	
+by hand		用手	
+by heart		凭记忆	
+by himself		他独自地	
+by itself		单独地	
+by land		从陆路	
+by law		根据法律	
+by letter		以书信形式	
+by little and little		一点一点地	
+by myself		我独自地	
+by name		名叫...	
+by nature		天生地	
+by night		在夜里	
+by now		到目前为止	
+by order of		奉...之命	
+by pass		旁路	
+by reason of		由于	
+by reason that		因为	
+by report		据报道	
+by return		请即回示；回信	
+by right		按理说	
+by right of		由于；根据...的权利	
+by right of blood		根据血统	
+by right of office		由办公室	
+by road		由公路	
+by rule		按照规则地	
+by rule and line		准确地	
+by share		按股份	
+by small and small		慢慢地	
+by strong arm		强制地	
+by the agency of		由于…的作用	
+by the back door		用隐蔽或不正当的方法	
+by the book		按常规	
+by the day		按日	
+by the end of		到…结束的时候	
+by the help of		借助于	
+by the hour		按钟点；按钟点	
+by the job		计件；计件工	
+by the left hand	adv	私生	
+by the month		每月	
+by the name of		名叫...	
+by the piece		论件	
+by the side of		在...附近	
+by the strong arm		强制地	
+by the strong hand		强制地	
+by the thousand		数以千计	
+by the time		到…的时候	
+by the way		在途中	
+by then		到那时	
+by this		到这时	
+by this time		到现在	
+by time		余暇	
+by turn		轮流	
+by use of		通过使用	
+by value		传值	
+by view of		凭借...	
+by water		由水路	
+by way		次要的道路	
+by way of		经由；当作	

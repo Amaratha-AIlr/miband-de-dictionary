@@ -1,0 +1,65 @@
+North	n/adj/adv	北方；北的；向北方	nawth
+n't	adv	不	nt
+naked	adj	裸体的；裸露的	nay'-kid
+name	n/vt/adj	名字；命名；姓名的	naym
+narrative	n/adj	叙述；叙述的	na'-ruh-tiv
+narrow	n/adj/vi	狭窄部分；狭窄的；变窄	na'-roh
+nation	n	国家；民族	nay'-shuhn
+national	adj	国家的；全国性的	na'-shuh-nuhl
+native	n/adj	本地人；本国的	nay'-tiv
+natural	n/adj	白痴；自然的	na'-chuh-ruhl
+naturally	adv	自然地	na'-chuh-ruh-li
+nature	n	自然；自然	nay'-chuhr
+near	adj/adv/prep	近的；接近；靠近	ni-uhr
+nearby	adj/adv/prep	附近的；在附近；在...附近	ni'-uh-bai
+nearly	adv	几乎	ni'-uh-li
+necessarily	adv	必然地	ne'-si-suh-ri-li
+necessary	adj	必要的	ne'-si-suh-ri
+neck	n/vi/vt	脖子；拥抱；割颈	nek
+need	n/vt/vi	需要；需要；贫困	
+negative	n/adj	否定；否定的；负数	ne'-guh-tiv
+negotiate	vi/vt	商议；谈妥	ni'goh-shi-ayt
+negotiation	n	谈判；谈判	ni-goh-shi'ay-shuhn
+neighbor	n/vt/vi	邻居；邻接；毗邻而居	nay'-buhr
+neighborhood	n	附近	nay'-buh-hud
+neither	adv/adj/pron	皆不；都不的；两者都不	nai'-dhuhr
+nerve	n/vt	精神；鼓起勇气	nurv
+nervous	adj	神经紧张的；神经的	nur'-vuhs
+net	n/adj/vt	网；净的；用网捕	
+network	n	网络；网络	net'-wurk
+never	adv	从不；永不	ne'-vuhr
+nevertheless	adv/conj	然而；然而	ne-vuh-dhuh'les
+new	adj	新的；新发现的	nyoo
+newly	adv	重新	nyoo'-li
+news	n	新闻；新闻	nyooz
+newspaper	n	报纸	nyooz'-pay-puhr
+next	n/adj/adv	下一个；下一个的；然后	nekst
+nice	adj	美好的	nais
+night	n	夜；夜	nait
+nine	num	九	nain
+no	n/adj/adv	不；没有；不	noh
+nobody	n/pron	小人物；无人	noh'-bo-di
+nod	n/vi/vt	点头；点头；点头表示	
+noise	n/vt/vi	噪音；谣传；喧闹	noyz
+nomination	n	提名	no-mi'nay-shuhn
+none	adv/pron/adj	一点也不；没有人；没有的	nun
+nonetheless	conj/adv	然而；不过	nun-dhuh'les
+nor	conj	也不；或非	nawr
+norm	n	基准；定额	nawm
+normal	n/adj	常态；正常的；标准	nawml
+normally	adv	正规地	naw'-muh-li
+northern	n/adj	北方人；北方的	naw'-dhuhn
+nose	n/vt/vi	鼻子；嗅到；闻	nohz
+not	adv	不；非	
+note	n/vt	笔记；记录	noht
+nothing	n/adv	无；毫不；interj. 什么也没有	nu'-thing
+notice	n/vt/vi	注意；注意；注意	noh'-tis
+notion	n	概念；概念	noh'-shuhn
+novel	n/adj	小说；新奇的	novl
+now	adv/n/adj	现在；现在；现在的	
+nowhere	adv	无处	nohh'-wair
+nuclear	adj	核子的；核的	nyook'-li-uhr
+number	n/vt/vi	数；数；计算	num'-buhr
+numerous	adj	很多的；多数的	nyoo'-muh-ruhs
+nurse	n/vt/vi	护士；看护；喂奶	nurs
+nut	n	坚果；Novell NetWare服务器实用程序	

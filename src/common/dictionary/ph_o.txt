@@ -1,0 +1,631 @@
+of a day		短命的	
+of a kind		同一类的	
+of a mind		一条心	
+of a morning		往往在早上	
+of a night		经常在晚上	
+of a piece		一致的	
+of a piece with		与…一致	
+of a size		同样尺码的	
+of age		成年	
+of all		在所有的之中	
+of all people		在许多人中	
+of all thing		首要	
+of all time		一直	
+of and on		偶而	
+of any		在所有的...当中	
+of base		没有根据的	
+of choice		精选的	
+of course		当然	
+of each person		的每个人	
+of family		出身门第高的	
+of force line		力线	
+of good family		出身门第高贵的	
+of good quality		优质的…	
+of good report		名声好的	
+of great concern		关系重大的	
+of great moment		重要的	
+of great price		十分宝贵的	
+of great value		有很高的价值	
+of high quality		有很高的质量	
+of home make		国内制造的	
+of interest to		对…至关重大	
+of itself		自动地	
+of late		最近	
+of little amount		不重要	
+of little value		价值不高	
+of moment	adj	重要的	
+of name		有名的	
+of no force		无效	
+of no moment		不重要的	
+of no use		无用	
+of note		著名的	
+of old		古时的	
+of one mind		一致同意	
+of record		有案可查的	
+of right		使恢复正常	
+of sound mind		神志清醒；心智很好	
+of the day		当时的	
+of the first water		第一流的	
+of the moment		此刻	
+of the name of		名叫...	
+of the order of		大约	
+of the time		当时的	
+of type		类型的	
+of use		有用	
+of value		有用的	
+off and		忽然	
+off and on		断断续续地	
+off base		大错特错	
+off board market		交易所外市场	
+off center		脱离中心	
+off chance		极小可能性	
+off color		精神不好的	
+off course	adv	不在规定的过程中	
+off day	n	感到身体不舒服的日子	
+off duty		下班的	
+off form		状态不佳	
+off hand		不假思索地	
+off hour		业余时间	
+off issue		枝节问题	
+off it		身体不舒服	
+off line		断线	
+off of		从	
+off oil		次等油	
+off period		断周期	
+off position		断路位置	
+off season		非生产季节；淡季	
+off side		越位	
+off site		装置外	
+off state		关闭状态	
+off the air		停止广播	
+off the list		被除名	
+off the point		离题	
+off the record		非正式地；不公开的	
+off the stock		已完成的	
+off the subject		离题	
+off time		不合时宜的；休止时间	
+off watch		不在值班	
+off white		米白色	
+off with		去	
+off year		小年	
+offer itself		呈现	
+offer letter		报价书	
+offer period		报价有效期间	
+offer price		售价	
+offer rate		开价	
+offer up		献上	
+office action		审定通知程序	
+office boy		办公室的勤杂工	
+office building		办公楼；办公楼	
+office computer system		办公用计算机系统	
+office of the dead		亡者日课	
+office of the president		总统府	
+office paper		公司票据	
+office party	n	（公司）年会	
+office practice		法律鉴定事务	
+office staff		职员；上班族	
+office system		办公室系统	
+office work	n	办公室工作	
+office worker		上班族	
+officer of the court		法院官员	
+officer of the day		值日军官	
+official character		公务性质	
+official family		全体阁僚	
+official information		官方消息	
+official language		法定语文	
+official letter		公函	
+official price		官方价格	
+official rate		法定利率	
+official record		正式记录	
+official test		正式试验	
+official use		正式使用权	
+often and often		经常	
+oil base		油基	
+oil black		油溶黑	
+oil business		石油营销	
+oil can		油壶；加油器	
+oil catch		油挡	
+oil change		换油	
+oil color		油溶性染料	
+oil company		石油公司	
+oil cup		油杯	
+oil drive		油传动	
+oil drop		油滴	
+oil field		油田；油田	
+oil film		油膜	
+oil foot		油脚	
+oil future		石油期货	
+oil industry		石油工业	
+oil man		油商	
+oil performance		油的工作特性	
+oil plant		油料作物	
+oil pressure		油压	
+oil price		油价	
+oil red		油红	
+oil slick	n	浮油	
+oil still		油精馏器	
+oil tanker		油轮；油轮	
+oil wear		油耗	
+oil well	n	油井	
+old age	n	晚年	
+old age security		老年保障	
+old and young		老老少少	
+old boy		校友	
+old city		旧城	
+old cost		原浆成本	
+old country	n	（前面与the连用）移民的母国	
+old economy		旧经济	
+old fashioned		古典鸡尾酒	
+old girl	n	女校友	
+old growth		原始林；老林阶段	
+old guard		保守派	
+old hand		熟练工人；熟练工人	
+old lady	n	老妇人	
+old line state		老路线州	
+old man	n	非正式用语	
+old master	n	（早期的）绘画大师	
+old media		旧媒体	
+old money		原有资金	
+old name		原名；原名	
+old north state		老北州	
+old order		旧秩序	
+old person		老人	
+old school		守旧派	
+old share		旧股份	
+old south		旧南方；老南方	
+old sport		老朋友	
+old stock		陈货	
+old talk		泛泛而谈	
+old testament		基督教的《旧约全书》	
+old thing		老朋友	
+old wife		老妇人	
+old woman	n	妻子	
+old world		旧世界	
+olive oil		橄榄油；橄榄油	
+on a level with		和...相等	
+on a near day		在近日内	
+on a walk		步行	
+on air		插出	
+on all four		匍匐	
+on all side		到处	
+on and after		自…起	
+on and off		断断续续	
+on and on		继续不停地	
+on base		上垒	
+on board		在船/车/飞机上；已装船	
+on business		因公	
+on call		随叫随到的；叫价时	
+on campaign		从军	
+on condition of		答应…条件	
+on condition that		如果	
+on course		在...的过程中	
+on easy street		生活富裕	
+on easy term		以宽厚的条件	
+on end		竖着	
+on even board with		与…并列	
+on every hand		在各方面	
+on every side		在各方面	
+on evidence		有证据	
+on fire		起火	
+on foot		步行	
+on form		状态佳	
+on full pay		领全薪	
+on good security		有可靠的抵押	
+on ground of		以…为根据	
+on hand		在手头；有现货的	
+on high		在高处	
+on hold		等着通电话	
+on it		（澳	
+on land		旱	
+on leave		休假	
+on line		联机	
+on news		关于新闻	
+on offer		削价出售的；出卖	
+on one hand		一方面	
+on order		已定而尚未交货的；已定购而未交货	
+on paper		以书面形式	
+on period		开周期	
+on position		通路位置	
+on purpose		故意；故意地	
+on record		记录在案；在案	
+on report		遭受处分	
+on second thought		进一步考虑后	
+on security		关于安全	
+on service		在服现役	
+on share		分摊盈亏	
+on short time		开工时间不足	
+on show		陈列着	
+on side		没有越位	
+on site		就地	
+on special		特别廉价	
+on test		经受考验	
+on that		关于该发明	
+on that day		在那天	
+on that point		在那方面同意某人	
+on the air		在广播	
+on the back		仰卧的	
+on the back of		紧随着…又…	
+on the chance of		期望	
+on the chance that		怀着...希望	
+on the east		在东面	
+on the east of		在...东面	
+on the easy side		太容易	
+on the fall		正在下降	
+on the film		在电影中	
+on the fire		在予以考虑中	
+on the floor		在发言	
+on the go		活跃	
+on the ground		在地上；当场	
+on the ground of		以...为理由；以...为理由	
+on the ground that	conj	基于	
+on the high side		偏高	
+on the hour		准点地	
+on the house		由店家出钱	
+on the in		名声好	
+on the increase		正在增长	
+on the information of		根据...	
+on the job		工作着	
+on the left		在左边	
+on the level		诚实的/地	
+on the line		处于中间	
+on the listen		在注意地听	
+on the low side		偏低	
+on the make		在制作中	
+on the market		在市场上	
+on the matter		在这个问题上	
+on the minute		一分中不差地	
+on the moment		立刻	
+on the move		在活动中	
+on the news		根据新闻报道	
+on the off chance		抱着微弱的希望	
+on the one hand		在一方面	
+on the order of		属于...同类的	
+on the other hand		另一方面	
+on the other side		另一方面	
+on the part of		就...而言；就...而言	
+on the phone		<口>在打电话	
+on the point of		正要...的时候	
+on the rise		在上涨	
+on the road		在旅途中	
+on the run		跑着；在逃	
+on the scene		当场	
+on the short side		太短	
+on the side		作为兼职	
+on the side of		站在…一边	
+on the small side		较小	
+on the staff		在职的	
+on the subject of		关于…	
+on the table		在桌面上	
+on the take		敲诈	
+on the team		是球队的队员	
+on the top of		在…的顶部	
+on the town		在城里寻欢作乐	
+on the turn		在转变中	
+on the wall		在流浪	
+on the watch		警惕	
+on the water		在水上	
+on the way		在途中	
+on the way home		在回家途中	
+on the way out		即将灭亡	
+on the way to		在去...的路上	
+on the whole		大体上	
+on this		这时候	
+on this condition		在此条件下	
+on time		准时；准时	
+on to		（移动到）…上	
+on top		在上面	
+on top of		熟练掌握	
+on top of that		再加	
+on tv		在电视上	
+on view		展览着	
+on watch		在值班	
+on with		穿上	
+on your life		在任何情况下	
+on your own		独立地	
+once a week		每星期一次	
+once again		再一次	
+once and again		一而再	
+once and away		一次了结地	
+once and for all		一次了结地	
+once for all		只此一次	
+once in a way		破例地	
+once in a while		偶尔	
+once more		再一次	
+once that		一旦…	
+once too often		又一次	
+once upon a time		从前	
+one after another		接连地；批次发送	
+one after the other		相继地	
+one among a thousand		千里挑一的人	
+one and all		个个都	
+one and only		唯一的	
+one and the same		同一个	
+one another		彼此	
+one at a time		一次一个人	
+one by one		一个接一个	
+one day		有一天	
+one fine day	n	有一天	
+one hundred		一百	
+one hundred five		一百五十	
+one hundred one	num	101	
+one in a million		百万分之一	
+one in a thousand		千分之一	
+one last time		最后一次	
+one love		唯一的爱（音乐名）	
+one man business		独资经营	
+one man company		一人公司	
+one million million		一万亿	
+one million million million		一百亿亿	
+one moment		一会儿	
+one more		还有一个	
+one morning		在某一早晨	
+one night		在某一晚上	
+one night stand		一夜情	
+one of		其中之一	
+one of these day		日内	
+one off		交接押送犯人的呼语	
+one or other		或者这个	
+one or two		一、二个	
+one party		一方当事人	
+one piece	n	（日本动漫名称）海贼王	
+one price policy		不二价	
+one state		单态	
+one thousand		一千	
+one thousand million		一千万	
+one thousand thousand		一百万	
+one time		一倍	
+one time with another		前后合起来	
+one too many		多余的一个	
+one too many for		对…来说是多余的	
+one up		胜过	
+one up on		胜过	
+one way		单向	
+one way and another		千方百计	
+one way or another		无论如何	
+one year rule		一年标准	
+only child		独生子	
+only for		要是没有…	
+only if		只要...就	
+only just		刚刚才	
+only not		简直是	
+only that		要不是...	
+only too		非常	
+only when		只有当	
+open a business		开一商行	
+open a case		开始审理案件	
+open a court		开庭	
+open air		露天；露天	
+open air life		户外生活	
+open as		以...打开	
+open as read only		以只读方式打开	
+open business		开业	
+open car		敞篷车	
+open career system		公开考选制	
+open city	n	不设防之城市	
+open computer		开放式计算机	
+open court		公开法庭	
+open cover		预约承保契约	
+open cup test		开杯试验	
+open day	n	接待日	
+open door		开放门户	
+open door policy		门户开放政策	
+open drive		空车运转	
+open economy		开放经济	
+open end		开口端	
+open end effect		开端效应	
+open fire		开火	
+open for business		开始营业	
+open fund		开放基金	
+open hospital		开放医院	
+open house		公开证券交易所	
+open interest		未平仓合约	
+open into		通往...	
+open letter	n	公开信	
+open line		明线	
+open market		公开市场	
+open market paper		公开市场票据	
+open market policy		公开市场政策	
+open market price		公开市场价格	
+open market rate		公开市场汇率	
+open mind		开放思想	
+open number		空号	
+open on		通往...	
+open order		开口指令	
+open out		展开	
+open policy		开口保险单	
+open position		开启状态；未结清期货合同	
+open price		公开价格	
+open price system		公开价格制度	
+open question		待决的问题	
+open rate		自由运费率	
+open relationship		开放式关系	
+open season		解禁期间	
+open set		开集	
+open society	n	开放社会	
+open source		打开源	
+open space		露天场所	
+open system		开放系统；敞开系统	
+open system call		开放系统调用	
+open test		不中断检验	
+open the door to		给...以机会	
+open the market		开市	
+open the way for		为…开辟途径	
+open to		为…打开门	
+open to buy		进货限额	
+open to the public		对公众开放	
+open town		不禁赌	
+open university		开发大学计算机系统	
+open up		展开；吐露真情	
+open water		自由流动的水面	
+open window		开窗口	
+opening night		（戏等）上演的第一夜	
+opera house	n	歌剧院	
+operating system		操作系统；操作系统	
+opinion poll	n	选举投票	
+opportunity cost		时机代价	
+opportunity cost value		机会成本价值	
+opportunity line		机会线	
+opportunity study		投资方向研究	
+opposed to		反对	
+opposite number	n	对应的人	
+opposite sex		异性	
+or anything		或者怎么的	
+or else		否则	
+or model		运筹学模型	
+or not		或不	
+or so		大约	
+or something		或是什么的	
+or what		还是其他的什么	
+or whatever		或其他类似的事物	
+order at best		指令经纪人以最好的价格买入或卖出	
+order book		定货簿	
+order control		输出指令控制；定货控制	
+order cost		定单成本	
+order cost system		分批成本制度	
+order form		定货单；定货单	
+order from		定货单	
+order lead time		订货间隔期	
+order note		购货确认书	
+order number		凭单编号；定单号	
+order of business		议程	
+order of nature		自然规律	
+order of quality		优劣顺序	
+order of the day		议事日程	
+order paper		记名票据	
+order per second		每秒指令数	
+order point		定货点	
+order set		指令系统	
+order source list		指令源一览表	
+order to pay		命令付款	
+order to show cause		陈述理由令	
+organization center		机化中心	
+organization control		机关管制	
+organization development		组织发展	
+organization man		（组织机构内）驯顺的成员	
+organization of information		信息组织	
+organization of stock company		股份公司的设立	
+organization tax		开办税	
+organization tree		组织系统树	
+organization value		组织价值	
+organized crime		有组织的罪行	
+other from		不同于	
+other half	n	那口子（指自己的配偶）	
+other one		其他的	
+other than		不同于	
+other woman	n	（前面与the连用）情妇	
+ought to		应该	
+our father	n	天父（源自《圣经》马太福音）	
+our own make		自制	
+out and about		能够外出走动	
+out and away		远远地	
+out and home		往返	
+out and out		彻底地	
+out focus		不聚焦	
+out from under		脱离危难	
+out in		输入端为	
+out in left field		弄错	
+out like a light		酣然入睡	
+out of		在...外	
+out of action		失去作用	
+out of all reason		全然无理的	
+out of business		歇业	
+out of character		不符合某人一贯的性格	
+out of class		在课外	
+out of condition		健康状况不好	
+out of control		不受控制；不受控制	
+out of court		不经法院；没有诉讼支持	
+out of door		在户外	
+out of focus		焦点没对准的	
+out of form		身体不佳	
+out of fund		缺少资金	
+out of hand		无法控制	
+out of health		身体不好	
+out of heart		沮丧的	
+out of hour		在上班时间之外	
+out of it		不加入	
+out of job		失业	
+out of line		不成直线；脱离常轨	
+out of line with		与…不一致	
+out of mind		发狂	
+out of money		缺钱	
+out of nothing		神从无中	
+out of number		数不清	
+out of office		离职	
+out of order		次序颠倒；有故障的	
+out of place		不在合适位置	
+out of play		死球	
+out of position		不在合适位置；不在正确位置的	
+out of power		超出能力	
+out of practice		荒疏的	
+out of question		毫无疑问	
+out of reach		手够不着	
+out of season		过时	
+out of service		失效	
+out of step		步调不一致；不同步	
+out of step with		与…不协调	
+out of stock		已脱销；卖完了	
+out of store		耗尽	
+out of term		开庭期以外的	
+out of the common		不平凡的	
+out of the money		赌输	
+out of the picture		不相干	
+out of the question		不知底细；不可能	
+out of the race		没有成功的可能	
+out of the red		没有赤字	
+out of the road		越出常规	
+out of the true		放置不正确	
+out of the way		不挡道；把...移开	
+out of the world		十全十美的	
+out of this world		十全十美的	
+out of time		不合时宜	
+out of touch		不联系	
+out of town		出城	
+out of town bank		外地银行	
+out of true		不正	
+out of turn		不按顺序地；不能控制的	
+out of use		不被使用	
+out of view		看不见	
+out of voice		嗓子不好	
+out of work		失业；不能工作的	
+out on the town		寻欢作乐	
+out to		试图	
+out to value		明暗不调和的	
+out with		说出	
+out with it		拿走	
+out year		出年	
+outer space	n	太空	
+over a long term		长时间地	
+over again		再一次	
+over against		在...对面	
+over age		超龄；超龄	
+over all		遍及	
+over and again		反复	
+over and over		反复	
+over and over again		一再地	
+over and short		松短	
+over drive		超速传动	
+over easy	vt	两面煎的（一面快煎好时翻到另一面稍煎片刻）	
+over here		在这里	
+over interest		过期利息	
+over point		初馏点	
+over stock		存货过多	
+over the air		用无线电；空中	
+over the course of		在…过程中	
+over the left		完全不是这样	
+over the side		上船	
+over the top		过火的	
+over the way		在路对面	
+over there		在那边	
+over time		超时	
+over with		<美口>（做）完	
+overall majority	n	（选举或投票时的）压倒性多数票	
+own goal	n	误中本队球门	
+own product		自制品	
+own program		专有程序	
+own right		自己的权利	
+own risk		自负风险	
+own to		承认	
+own type		固有类型	
+own up		坦白	
+own up to		对某人坦白交待	
+ozone layer		臭氧层	

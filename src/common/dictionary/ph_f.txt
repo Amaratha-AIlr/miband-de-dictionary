@@ -1,0 +1,765 @@
+face about		转过身	
+face amount		票面金额	
+face away		把脸转到一边	
+face book	n	脸谱网	
+face down		压倒	
+face of cut		切割面	
+face of life		现况	
+face of value		票面价值	
+face off		和...对抗	
+face on		俯视	
+face out		勇敢地应对	
+face side		正面	
+face the fact		正视事实	
+face the music		勇于承担责任	
+face time		会面时间	
+face to	v	朝向	
+face to face		面对面	
+face up		面朝上	
+face up to		勇敢地面对	
+face value	n	票面价值	
+face with		使面临	
+fact in issue		争执未决的事实	
+fact of life		无法更改的事实	
+fact question		事实问题	
+factor cost		要素成本	
+factor eight		凝血因子Ⅷ	
+factor group		商群	
+factor i		因子I；第一因子	
+factor in		包括	
+factor out		提出撰因子	
+factor price		要素价格	
+factor set		因子组	
+fair play		公平比赛；公正对待	
+fairy tale		神话故事	
+fall about		禁不住笑	
+fall across		偶然遇到	
+fall all over		<口>极其殷勤	
+fall among		偶遇	
+fall asleep		入睡	
+fall away		消瘦	
+fall back		后退；回落	
+fall back on		求助于	
+fall back to		落回到	
+fall behind		落在后面	
+fall behind in		在...方面落后	
+fall down		倒塌	
+fall down on		失败	
+fall for		上当	
+fall from power		下台	
+fall guy		替罪羊	
+fall home		内倾	
+fall in		集合；同意	
+fall in for		得到	
+fall in line	v	排队；落下线	
+fall in love		陷入爱河（歌名）	
+fall in love with		爱上	
+fall in with		偶遇	
+fall into		落入	
+fall into company with		与...结伴	
+fall into place		变得有条不紊	
+fall into step with		与…步调一致	
+fall into talk		搭讪	
+fall into want		陷入贫困	
+fall line		瀑布线	
+fall low		堕落下去	
+fall of man		灭绝人类	
+fall off		从...跌下	
+fall on		落在…之上	
+fall open	vi	不知不觉地张开了	
+fall out		脱落；落下	
+fall out of		放弃	
+fall out of use		不再被使用	
+fall out with		与…闹翻	
+fall over		被…绊倒	
+fall over each other		争夺	
+fall short		缺乏	
+fall short of		射不中	
+fall test		落锤试验	
+fall through		失败	
+fall time		衰退时间	
+fall to		着手干	
+fall to the ground		落地	
+fall under		受到	
+fall upon		开始行动	
+fall within		在…之内	
+fallopian tube	n	输卵管	
+false start	n	失败的开端	
+family business		家族企业	
+family computer		族计算机	
+family court		家庭法庭	
+family doctor	n	家庭医生	
+family guy		居家男人（电影名）	
+family history		家庭史	
+family law		家庭法	
+family leave		探亲假	
+family life	n	家庭生活	
+family line		姓系	
+family man		有家室的人	
+family name		姓；姓氏	
+family organization		家庭组织	
+family planning		计划生育；计划生育	
+family policy		家庭保险单	
+family practice		家庭医疗：对于全家成员（不分性别、年龄）按计划提供综合性初级卫生保健服务	
+family relationship		家庭关系	
+family room		家人休息室	
+family set		家族集	
+family tree		系谱图；家谱	
+family way	n	怀孕	
+fan club	n	追星族俱乐部	
+far and away		显然	
+far and near		远近	
+far away		遥远	
+far away from		远离…	
+far east		远东	
+far from		远离	
+far left		最左边	
+far off		远	
+far out		最新的	
+far too		非常	
+fast food	n	速食	
+fast track	n	快车道	
+father field		父字段	
+father figure		父亲形象	
+father image		父亲的形象	
+father in law		岳父	
+father of the church		早期基督教著作家	
+father right		父权；父权	
+father time		时光老人	
+father upon		强加于	
+feature film		长片	
+federal agency		联邦机构	
+federal case		联邦案件	
+federal common law		联邦普通法	
+federal congress		联邦国会	
+federal court		联邦法院	
+federal government		联邦政府；联邦政府	
+federal office		联邦办事处	
+federal official		联邦官员	
+federal party		联邦党	
+federal security service		俄罗斯联邦安全局	
+federal state		联邦国家	
+federal system		联邦制	
+feel about		到处摸索	
+feel after		摸索	
+feel at home		感到自在	
+feel bad		有病	
+feel bad about		为…感到懊恼	
+feel concern over		对...感到忧虑	
+feel for		摸索	
+feel free to		无需拘束	
+feel good		感觉舒服	
+feel like		摸起来像是…	
+feel like a million		<美口>身体觉得好极了	
+feel low		情绪不高	
+feel mean		感到惭愧	
+feel out		试探出...的意见	
+feel out of it		感到如鱼出水	
+feel out of place		感到如鱼出水	
+feel put about		感到烦恼	
+feel right		感觉良好	
+feel short of		缺乏...	
+feel sick		觉得要呕吐	
+feel small		觉得渺小	
+feel sure of		确信...	
+feel sure that		确信...	
+feel up		对妇女动手动脚	
+feel up to		觉得能担当	
+feel with		同情	
+few and far between		稀少	
+field bed		轻便床	
+field book		野外工作记录本	
+field change		现场改变	
+field control		现场控制	
+field current		场电流	
+field data		现场数据	
+field data computer		军用数据计算机	
+field day		野外实习日	
+field effect		场效应	
+field event		田赛	
+field game		场球类项目	
+field goal	n	射门得分（美式足球可得三分）	
+field hand	n	农业工人	
+field hospital		野战医院；野战医院	
+field house		运动场的储藏室或更衣室	
+field line		场电力线	
+field list		域表	
+field loss		场损失	
+field man		现场工作人员	
+field marshal		陆军元帅	
+field name		域名	
+field night		有重要活动的夜晚	
+field note		野外记录	
+field number		域编号	
+field of fire	n	射程	
+field of force		力场	
+field of study		研究领域	
+field of view		可见区；视野	
+field officer		校官	
+field order		野战命令	
+field period		场周期	
+field point		场点	
+field position		外业计算位置	
+field price		油田价	
+field rate		场率	
+field result		域作用结果	
+field school		教学与科研实验基地	
+field security		字段安全性	
+field service		外勤工作；现场使用	
+field set		野外机	
+field situation		油田位置	
+field source		场源	
+field sport	n	野外运动（如打猎等）	
+field staff		外勤职工	
+field stop		视场光阑	
+field support system		现场支援系统	
+field test		现场试验；野外试验	
+field treatment		实地处理	
+field type		字段类型	
+field use		现场使用	
+field work		现场工作	
+field work support system		现场工作支援系统	
+fight against		对抗	
+fight back		抵抗	
+fight down		克服	
+fight fire		救火	
+fight for		为…而战斗	
+fight it out		决一雌雄	
+fight off		击退	
+fight on		继续战斗	
+fight out		以斗争解决	
+fight to the end		战斗到底	
+fight with		用（某种武器）与（某人）交战	
+figure case		数码位	
+figure down		推算出	
+figure eight		8字形	
+figure for		谋取	
+figure in		包括进	
+figure it out		弄明白	
+figure number		代号	
+figure of eight	n	溜冰8字花式	
+figure on		信赖	
+figure out		合计为	
+figure six		6字形；“6”字形	
+figure to		想象	
+figure up		把...加起来；总计	
+fill a position as		填补…职位	
+fill again		再填写	
+fill area		填充区域	
+fill away		乘风前进	
+fill character		填充字符	
+fill down		向下填充	
+fill factor		占空因数	
+fill in		填充	
+fill in a form		填写表格	
+fill in as		作为…临时补缺	
+fill in for		临时代替	
+fill left		向左填充	
+fill light		补充光	
+fill line		充填输送管	
+fill out		填写	
+fill right		向右填充	
+fill the need		满足…的需要	
+fill up		填补；向上填充	
+fill with		充满	
+film base		片基；胶片基	
+film company		电影公司	
+film director		电影导演	
+film effect		薄膜效应	
+film head		薄膜磁头	
+film industry		电影工业	
+film over		（使）变朦胧	
+film pressure		膜压	
+film school		电影学校	
+film set		电影摄影场	
+film star		电影明星	
+film store		磁膜储存器	
+film type and size		胶片型号尺寸	
+financial year	n	财政年度	
+find a buy		买到上算的货物	
+find a to do		发现/认为......	
+find a way out		找到出路	
+find again		再次查找	
+find against		判决不利于…	
+find for		判决有利于…	
+find next		查找下一个；查找下一个	
+find out		找出	
+find response in		在…中引起反响	
+find time		挤出时间	
+find what		查找内容；查找内容	
+fine art	n	（依靠丰富经验）在…方面的技能达到炉火纯青的地步；美（艺）术（指绘画和雕塑）	
+fine artist		杰出的艺术家	
+fine away		变薄	
+fine control		微调控制	
+fine cut	n	细切的烟草	
+fine down		使细小	
+fine line		细线	
+fine paper		有信用的支票	
+fine pressure		净压	
+fine quality		优良品质	
+fine rate		罚条率	
+fire at		向…开火	
+fire away		开枪	
+fire back		回烧	
+fire bed		火层	
+fire break		防火间隔	
+fire brigade		消防队；消防队	
+fire company		消防队；火灾保险公司	
+fire control		消防；火炮控制	
+fire control computer		火力控制计算机	
+fire control system		火力控制系统	
+fire door		火门	
+fire line		火灾现场警戒线	
+fire loss		火灾损失	
+fire off		开火	
+fire office		火灾保险公司	
+fire out		开除	
+fire point		着火点	
+fire policy		火险单；火险保单	
+fire practice		= fire drill	
+fire risk		火险	
+fire service	n	消防署	
+fire test		着火点测定	
+fire tree		火树	
+fire up		生火	
+fire wall		隔火墙	
+first aid		急救；急救	
+first and last		总的说来	
+first base	n	一垒的位置	
+first body		主体	
+first cause		造物主；根源	
+first class		第一堂课	
+first class business house		第一流的商行	
+first class paper		第一级文件	
+first cost		原始成本；最初成本	
+first cut		初馏分	
+first data point		第一组数据点	
+first data series		第一组数据系列	
+first down		第一次进攻	
+first ever	adj	首次的	
+first family		总统一家	
+first floor	n	第一层	
+first go		第一次尝试	
+first half		上半	
+first half year		上半年	
+first hand		第一家	
+first hand information		第一手资料	
+first in first out		先进先出	
+first lady		第一夫人	
+first language		第一语言	
+first light	n	黎明	
+first line		首行	
+first love		初恋	
+first moment		一次矩	
+first mother		第一母亲	
+first name		名；名字	
+first night	n	首夜演出	
+first of all		首先	
+first of may		五月的圣诞（歌曲名）	
+first off		马上	
+first officer	n	（海军）大副	
+first open water		首航	
+first or last		迟早	
+first or late		迟早	
+first order		初指令	
+first order result		初次结果	
+first page		第一页	
+first page number		起始页号	
+first party		甲方	
+first pass		第一遍	
+first period		第一节（课时）	
+first person		第一人称	
+first place		第一名	
+first position		第一胎位	
+first product		一号产品	
+first quality		上等品质	
+first record		首录	
+first school	n	第一学校	
+first sound		第一心音	
+first state		第一州	
+first step		首要步骤	
+first team		第一代表队	
+first term		开关项	
+first thing		一大早	
+first time		首次	
+first up		首先	
+first water		（专指钻石珍珠的）最好品质	
+first world		第一世界	
+first world war		第一次世界大战	
+fiscal year	n	<美>财政年度	
+five hundred		500分	
+fleet street		佛里特街（英国几家报馆办事处所在地）	
+floor area		占地面积	
+floor board		台面厚木板	
+floor cover		楼面覆面层	
+floor leader		党派领袖；党派头目	
+floor level		最低水准	
+floor of number		数的下整数	
+floor of the court		法庭中的律师席	
+floor plan	n	建筑的平面图	
+floor price		最低价格；底价	
+floor show		夜总会节目表演	
+floor space		底面积；占地面积	
+floor stand		落地支架	
+floor time		停机时间	
+focal point		焦点	
+focus attention		集中注意力	
+focus center		焦心点	
+focus control		焦点控制	
+focus group	n	（销售）讨论组	
+focus in image space		像方焦点	
+focus on		致力于	
+focus window		关注窗口	
+follow a career		从事某种生涯	
+follow a course		学习一门课程	
+follow a policy		奉行一项政策	
+follow a rule		遵守规则	
+follow about		跟在某人身边形影不离	
+follow after		追求	
+follow board		嵌合模型	
+follow by		后面有；接着是	
+follow current		跟随电流	
+follow die		从动冲模	
+follow home		穷追到底	
+follow me		跟我来	
+follow on		继续下去	
+follow out		把...查到底	
+follow rest		从动扶架遂刀支架	
+follow the development of		注视着…的发展	
+follow the law		律师	
+follow through		坚持到底	
+follow up		穷追；追查	
+follow up control		跟踪调节	
+follow up on		追踪	
+food and drug administration		食品和药物管理局	
+food baby		打趣吃多而肚子隆起的人指其怀了小孩	
+food bank		（美国）食物赈济处	
+food chain		食物链；食物链	
+food color		食物色料	
+food company		食品公司	
+food court	n	美食广场	
+food for thought		值得思索的问题	
+food market		菜场	
+food poisoning		食物中毒	
+food processor	n	食品加工机	
+food product		食（物产）品	
+food stamp	n	食物券（政府发放给低收入者的票或券）	
+foot doctor		足部医生	
+foot drop		足下垂	
+foot it		步行	
+foot race	n	竞走	
+foot rule		英制尺	
+foot up		结算	
+foot up to		总计	
+for a change		为了改变一下	
+for a fact		确实地	
+for a great while		好久时间	
+for a little		一会儿	
+for a long time		长久	
+for a loss		处于苦恼中	
+for a minute		一会儿	
+for a moment		一会儿	
+for a season		一会儿	
+for a space		一会儿	
+for a start		作为开始	
+for a time		暂时	
+for a turn		短期快速投机买卖	
+for a while		暂时	
+for all		尽管	
+for all i care		与我无关	
+for all i know		亦未可知	
+for all that		虽然如此	
+for all the world		完全	
+for all this		尽管如此	
+for any price		不惜任何代价	
+for anything		无论如何	
+for anything i know		据我所知	
+for certain		肯定地	
+for choice		出于自择	
+for company		作为同伴	
+for data		循环数据	
+for each one		每一部	
+for each person		每人的	
+for economy of space		为了节省篇幅	
+for ever		永远	
+for ever and ever		永远	
+for free		免费地	
+for good		永久地	
+for good and all		永久地	
+for instance		例如；例如	
+for life		终身；终身	
+for list		循环表	
+for long		长久	
+for love or money		无论如何	
+for me		就我来说	
+for money		现款交易的；现款交易	
+for month		好几个月以来	
+for my part		就我而言	
+for nothing		免费；空	
+for now		现在	
+for once		就这一次	
+for one		举个例说	
+for one thing		首先	
+for real		真的	
+for security		为了安全起见	
+for short		简称	
+for show		为了炫耀	
+for size		为了试尺码	
+for so much as		既然	
+for some reason		不知什么原因	
+for some time		一段时间	
+for some time past		前些时候	
+for sport		为了好玩	
+for sure		确实	
+for term of life		终身	
+for that matter		就此而言	
+for the best		出于好意	
+for the better		转好	
+for the first time		第一次	
+for the future		今后	
+for the good of		为了…好	
+for the last time		最后一次	
+for the love of		为了...起见	
+for the mean time		在此期间	
+for the moment		暂时	
+for the most part		在极大程度上	
+for the record		备案	
+for the rest		至于其他	
+for the service		收费率	
+for value		具备合法对价	
+for want of		因缺乏…	
+for what		为什么	
+for your information		供参考；为你所用之信息	
+force back		抑制	
+force factor		力因数	
+force field		力场	
+force of defense		防卫实力	
+force of law		法律效力	
+force open		强行打开	
+force out		把…赶走	
+force play		封杀	
+force to do		强迫......	
+force up		迫使提高	
+foreign agency		国外代理商	
+foreign amount		外币数目	
+foreign business out look		外贸趋势展望	
+foreign case		涉外案件	
+foreign company		外国公司	
+foreign country		异国	
+foreign court		外国法院	
+foreign exchange		国际汇兑；外汇	
+foreign house		外国商店	
+foreign language	n	外文	
+foreign law		外国法律	
+foreign letter paper		薄信纸	
+foreign market value		国外市场价值	
+foreign material		外来杂质	
+foreign matter		外来杂质	
+foreign office		外交部	
+foreign policy		外交政策；对外政策	
+foreign process		外国诉讼	
+foreign security		外国的基金证券	
+foreign service		驻外事务处	
+foreign source data		外来源数据	
+foreign staff		外籍职工	
+foreign value		国外价格	
+form class		形级	
+form control		格式控制	
+form control image		格式控制图象	
+form factor		形状因数	
+form family		形成家庭	
+form letter		套用信函	
+form movement time		格式移动时间	
+form of action		诉讼方式	
+form of government		政体	
+form of growth		发育型	
+form of law		法律形式	
+form of state		国体	
+form sense		立体觉	
+form stop		纸完停印	
+form system		表格制度	
+form up		排好队列	
+form word		形式词（指冠词、前置词等）	
+former level		以前的水准	
+former office		前任职务	
+fossil fuel	n	化石燃料	
+founder member	n	创办人	
+founding father	n	开国者	
+four figure system		四单位制	
+four hundred	n	名流	
+four party line		四户合用线	
+frame of mind		心境	
+free agency		行动自由	
+free air		大气	
+free and clear		自由资产	
+free and easy		随便的；不拘形式的	
+free and open market		自由与公开市场	
+free area		自由区	
+free area list		自由区表	
+free bed		自由床	
+free black		飞扬性炭黑	
+free business		自由营业	
+free church	n	自由教会（非国教教会）	
+free condition		空线状态	
+free course		自由通行	
+free economy		自由经济	
+free education		公费教育	
+free end		自由端	
+free energy		自由能；自由能	
+free enterprise	n	自由企业	
+free fall	n	自由降落（尤指降落伞张开前的降落）	
+free field		自由区域	
+free form		自由形式	
+free from		解除	
+free from war risk		不包括战争险	
+free game		自由博弈	
+free hand		徒手画	
+free hospital		免费医院	
+free house	n	卖各种啤酒的酒店	
+free in and out		包括装卸费在内的运费	
+free information		自由信息	
+free issue		无偿交付	
+free kick	n	（足球）任意球	
+free line		空闲线	
+free line condition		空闲线状态	
+free list		自由表；海关免税货物单	
+free love	n	<美>自由性爱（不受婚姻或其他法律义务约束的两性关系）	
+free man		自由人	
+free market		自由市场；自由市场	
+free market price		自由市场价格	
+free market rate		自由市场汇率	
+free medical care		公费医疗	
+free of		无...的	
+free of cost		免费奉送	
+free of interest		不计利息	
+free of tax		免税	
+free of turn		不按抵港顺序	
+free on board		离岸价格；船上交货价	
+free out		包括卸货费在内的运费	
+free pass		免票	
+free people		自由的人；自由的人（Free People	
+free period		免费期间	
+free policy		免付保险费的保险单	
+free position		自由位置	
+free price		自由价格	
+free report		自由报告	
+free school		免费学校	
+free service		免费服务	
+free share		无偿股份	
+free sound field		无声场	
+free space		自由空间；自由空间	
+free space list		自由空间表	
+free space loss		自由空间耗损	
+free state		自由状态；游离状态	
+free term		自由项	
+free thought	n	自由思想	
+free throw		（篮球）罚球	
+free time		空闲时间	
+free tree		自由树	
+free up		开放 （市场、经济或体制）	
+free water		自由水分；游离水	
+free will		自由意志；自由意志	
+free world	n	自由世界	
+freedom fighter		争取自由的战士	
+fresh air		新鲜空气；新鲜空气	
+friend of the court		法庭上友	
+from a child		自幼	
+from after		从后面	
+from among		从…之中	
+from bank to bank		上下矿井	
+from choice		出于自己的选择	
+from cover to cover		从头至尾	
+from day to day		每天	
+from door to door		挨家挨户地	
+from each one		从每一个	
+from end to end		从这一端到另一端	
+from every side		从各方面	
+from first to last		自始至终	
+from hand to hand		从一人之手转到他人之手	
+from head to foot		从头到脚	
+from here on		从此	
+from house to house		挨家逐户地	
+from left		左边缩进	
+from long ago		从很久以前起	
+from morning to night		从早到晚	
+from now on		从现在开始	
+from of old		自古以来	
+from out to out		从一端到另一端	
+from place to place		从一个地方到另一个地方	
+from program group		从程序组	
+from right		右边缩进	
+from side to side		左右摇晃	
+from that day on		从那天起	
+from that moment on		从那时起	
+from the floor		由与会者提出的	
+from the ground up		从头开始	
+from the heart		发自内心	
+from the off		从头开始	
+from the top down		从上到下	
+from the very first		从最初开始	
+from the word go		从一开始	
+from then on		从那时起	
+from there		从那里	
+from this point on		从这一点起	
+from time to time		有时	
+from way back		从远处	
+from within		从内部	
+from without		从外面	
+from year to year		年年	
+front line		前线	
+front page		标题版	
+frying pan		煎锅	
+full age		足龄	
+full amount		全额	
+full and by		扯满篷	
+full and down		满载	
+full answer		全面答辩	
+full blood		全血源	
+full board		全膳	
+full brother		同父母的兄弟	
+full cost		完全成本	
+full cost system		全部成本制	
+full court		合议庭	
+full face	n	正面照片	
+full house		三张相同和二张相同的牌	
+full language		全语言	
+full line		整行	
+full member		正式人员	
+full name		全名	
+full of		充满	
+full of energy		精力充沛	
+full of go		精力旺盛	
+full of life		活泼	
+full out		全力地	
+full page		整个页面；整个页面	
+full pay		全薪	
+full point		一分	
+full power		满功率；全权委任	
+full price		足价	
+full right of use		享有全部受益权	
+full service		完全服务	
+full service bank		全方位银行	
+full share		全部股份	
+full size		实际大小；原尺寸	
+full stock		全股	
+full stop		句点	
+full term		妊娠期满；足月	
+full time		专职	
+full treatment		美丽的谎言	
+full tree		完全树	
+full up		全满	
+full view		全视图	
+full water		充水	
+full word		全字	
+fund for		为…提供资金	
+fund line		拨款线	
+fund on hand		现有基金	
+fund raise		资金筹集；资金筹措	
+further education	n	进修	
+future activity		未来活动	
+future cost		未来成本	
+future day		未来的一天	
+future interest		未来权益	
+future market		未来市场	
+future system		F-代系统	
+future value		将来值；未来值	
