@@ -7,7 +7,7 @@
 ![words](https://img.shields.io/badge/3%2C000%20words%20%2B%2012%2C000%20phrases-informational)
 ![platform](https://img.shields.io/badge/Xiaomi%20Vela-QuickApp-orange)
 
-**下载**：米坛社区（待发布）
+**下载**：米坛社区(https://www.bandbbs.cn/resources/9194/)
 
 ---
 
