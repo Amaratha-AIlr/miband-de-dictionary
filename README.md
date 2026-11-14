@@ -2,7 +2,7 @@
 
 > 小米手环 11（Vela 快应用）上的**离线英汉词典**。3,000 常用词 + 12,000 条短语，英汉双向，音标用「重拼」写成能直接读的拼法。
 
-![version](https://img.shields.io/badge/version-7.3.0-brightgreen)
+![version](https://img.shields.io/badge/version-7.4.0-brightgreen)
 ![size](https://img.shields.io/badge/rpk-503%20KB-blue)
 ![words](https://img.shields.io/badge/3%2C000%20words%20%2B%2012%2C000%20phrases-informational)
 ![platform](https://img.shields.io/badge/Xiaomi%20Vela-QuickApp-orange)

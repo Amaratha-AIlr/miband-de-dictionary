@@ -488,6 +488,7 @@
 
 <script>
 import file from '@system.file'
+import app from '@system.app'
 import { createDict } from '../../common/scripts/dict.js'
 
 export default {
@@ -497,7 +498,7 @@ export default {
     rows: [],
     detail: null,
     phraseTip: '',
-    version: '7.2.0',
+    version: '7.4.0',
     phraseRows: [],
     kbHidden: true,
     kbType: 'QWERTY',
@@ -508,7 +509,25 @@ export default {
 
   onInit() {
     this.dict = createDict(file)
-    console.log('[DeDICT] v7 ready')
+    this.syncVersion()
+    console.log('[DeDICT] ready')
+  },
+
+  /* 版本号从运行时读，避免 JS 常量与 manifest 漂移（曾经漏改过一次） */
+  syncVersion() {
+    const that = this
+    try {
+      app.getInfo({
+        success: function (info) {
+          if (info && info.versionName) {
+            that.version = info.versionName
+          }
+        },
+        fail: function () {}
+      })
+    } catch (e) {
+      console.log('[DeDICT] getInfo 不可用，沿用常量')
+    }
   },
 
   onDestroy() {
